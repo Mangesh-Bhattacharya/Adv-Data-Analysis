@@ -1,0 +1,1079 @@
+Date,Name,Country,BusinessType,BusinessSubType,BreachType,DataType,DataType2,InsideOutside,ThirdParty,ThirdPartyName,TotalAffected,RefPage,UID,XREF1,StockSymbol,DataRecovered,ConsumerLawsuit,ArrestProsecution
+1102000,CD Universe,US,Biz,Retail,Hack,CCN,,Outside,No,,300000,httpattritionorgdataloss200001cduniv01html,DL0427,,No,No,No,No
+11142000,Western Union,US,Biz,Fin,Hack,CCN,,Outside,No,,15700,httpattritionorgdataloss200011westernunion01html,DL0001,,WU,No,No,No
+11152000,Contour Software,US,Biz,Tech,Web,SSN,,Inside  Accidental,No,,700,httpattritionorgdataloss200011mortgage01html,DL0002,,No,No,No,No
+11152000,Travelocity,US,Biz,Retail,Web,NAA,,Inside  Accidental,No,,51000,httpattritionorgdataloss200011travelocity01html,DL0003,,No,No,No,No
+1292000,University of Washington Med Ctr,US,Edu,Med,Hack,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200012uwmc03html,DL0429,,No,No,No,No
+352001,AmazonBibliofindcom,US,Biz,Retail,Hack,CCN,NAA,Outside,No,,98000,httpattritionorgdataloss200103biblio01html,DL0004,,AMZN,Unknown,Unknown,Unknown
+3202001,atomicparkcom,US,Biz,Tech,Hack,CCN,,Outside,No,,500,httpattritionorgdataloss200103atomicpark01html,DL0005,,No,Unknown,Unknown,Unknown
+422001,ADDRcom,US,Biz,Tech,Hack,CCN,NAA,Outside,No,,46000,httpattritionorgdataloss200104addr01html,DL0006,,No,Unknown,Unknown,Unknown
+4172001,Accubyte,US,Biz,Tech,Web,CCN,NAA,Inside  Accidental,No,,250,httpattritionorgdataloss200104accubyte01html,DL0007,,No,Unknown,Unknown,Unknown
+4272001,Eggheadcom,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200104egghead01html,DL0008,,EGHDQPK,Unknown,Unknown,Unknown
+5252001,Healthorg,US,Gov,Fed,Web,NAA,,Inside  Accidental,No,,,httpattritionorgdataloss200105health01html,DL0009,,No,Unknown,Unknown,Unknown
+6212001,ZixItAnacom,US,Biz,Data,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200106zixitanacom01html,DL0010,,No,Unknown,Unknown,Unknown
+11202001,ZiffDavis,US,Biz,Media,Web,CCN,NAA,Inside  Accidental,No,,12500,httpattritionorgdataloss200111ziff01html,DL0011,,ZFDHPK,Unknown,Unknown,Unknown
+11202001,Playboy,US,Biz,Media,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200111playboy01html,DL0012,,PLAA,Unknown,Unknown,Unknown
+3252002,BT,GB,Biz,Tech,Web,PPN,,Inside  Accidental,No,,4960,httpattritionorgdataloss200203bt01html,DL0013,,BTGOFPK,Unknown,Unknown,Unknown
+3272002,Microsoft,US,Biz,Tech,Web,PPN,EMA,Inside  Accidental,No,,,httpattritionorgdataloss200203dotnet01html,DL0014,,MSFT,Unknown,Unknown,Unknown
+3292002,United States Government,US,Gov,Fed,Web,MISC,,Outside,No,,,httpattritionorgdataloss200203dotgov01html,DL0015,,No,Unknown,Unknown,Unknown
+132003,United States Department of Defense,US,Gov,Fed,Stolen Computers,SSN,NAA,Outside,Yes,Triwest,562000,httpattritionorgdataloss200301triwest01html,DL0435,,No,No,No,No
+1302003,IBM,CA,Biz,Tech,Stolen Disk Drive,SSN,NAA,Outside,No,,180000,httpattritionorgdataloss200301ibm01html,DL0439,,IBM,No,No,No
+2282003,Indiana University School of Medicine,US,Edu,Med,Hack,SSN,NAA,Outside,No,,7000,httpattritionorgdataloss200302sleep01html,DL0430,,No,Unknown,Unknown,Unknown
+362003,Data Processors International,US,Biz,Data,Hack,CCN,,Outside,No,,5000000,httpattritionorgdataloss200303dpi01html,DL0016,,No,Unknown,Unknown,Unknown
+362003,University of Texas at Austin,US,Edu,Uni,Hack,SSN,EMA,Outside,No,,55200,httpattritionorgdataloss200303uta02html,DL0017,,No,Unknown,Unknown,Unknown
+3312003,Georgia Tech University,US,Edu,Uni,Hack,CCN,,Outside,No,,57000,httpattritionorgdataloss200303gatech01html,DL0018,,No,Unknown,Unknown,Unknown
+572003,Virginia Credit Union,US,Biz,Fin,Hack,CCN,,Outside,No,,800,httpattritionorgdataloss200305vcu01html,DL0019,,No,Unknown,Unknown,Unknown
+7122003,PetCo,US,Biz,Retail,Web,CCN,,Outside,No,,500000,httpattritionorgdataloss200307petco01html,DL0020,,PETC,No,No,No
+11222003,Wells Fargo,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200311wells02html,DL0021,,WFC,No,No,Yes
+12182003,Acxiom Inc,US,Biz,Data,Fraud  SE,CCN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200312acxiom04html,DL0022,,ACXM,Unknown,Unknown,Yes
+12192003,Bank Rhode Island,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,43000,httpattritionorgdataloss200312bankri01html,DL0023,,No,Unknown,Unknown,Unknown
+182004,US Treasury Department,US,Gov,Fed,Email,EMA,,Inside,No,,10000,httpattritionorgdataloss200401treasury01html,DL0024,,No,Unknown,Unknown,Unknown
+1102004,New York University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,1800,httpattritionorgdataloss200401nyu01html,DL0437,,No,No,No,No
+1142004,Airlines Reporting Corporation,US,Biz,Ind,Stolen Computer,CCN,,Outside,No,,,httpattritionorgdataloss200401airline01html,DL0025,,No,Unknown,Unknown,Unknown
+1292004,University of Georgia,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,20000,httpattritionorgdataloss200401uga02html,DL0026,,No,Unknown,Unknown,Unknown
+232004,New York University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,2100,httpattritionorgdataloss200402nyu02html,DL0438,,No,No,No,No
+2132004,California Employment Dev Dept,US,Gov,State,Hack,SSN,NAA,Outside,No,,90000,httpattritionorgdataloss200402caedd01html,DL0027,,No,Unknown,Unknown,Unknown
+3172004,San Diego State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,178000,httpattritionorgdataloss200403sdsu01html,DL0028,,No,Unknown,Unknown,Unknown
+3192004,BJs Wholesale Club,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200403bjw01html,DL0667,,BJ,Unknown,Unknown,Unknown
+3292004,GMAC Financial Services,US,Biz,Fin,Stolen Laptops,SSN,NAA,Outside,No,,200000,httpattritionorgdataloss200403gmac01html,DL0469,,No,No,No,No
+4162004,Fleet Credit Card Services,US,Biz,Fin,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200404fleet01html,DL0029,,No,Unknown,Unknown,Unknown
+4292004,Illinois Secretary of State,US,Gov,State,Hack,MISC,,Outside,No,,200000,httpattritionorgdataloss200404plates01html,DL0030,,No,Unknown,Unknown,Unknown
+4292004,University of California at Los Angeles UCLA,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,145000,httpattritionorgdataloss200404ucla01html,DL0031,,No,Unknown,Unknown,Unknown
+572004,University of California San Diego,US,Edu,Uni,Hack,,,Outside,No,,380000,httpattritionorgdataloss200405sdsu02html,DL0872,,No,No,No,No
+5122004,Alameda Alliance for Health,US,Med,NFP,Stolen Disk Drive,SSN,NAA,Outside,Yes,Spotcheck,95000,httpattritionorgdataloss200405saab01html,DL0436,,No,No,No,No
+6242004,America Online,US,Biz,Tech,Fraud  SE,EMA,NAA,Inside  Malicious,No,,30000000,httpattritionorgdataloss200406aol01html,DL0032,,TWX,Unknown,Unknown,Unknown
+7142004,Intuit,US,Biz,Tech,Stolen Computer,CCN,,Outside,No,,47000,httpattritionorgdataloss200407intuit01html,DL0468,,INTU,No,No,No
+832004,Cal State San Marcos,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,23000,httpattritionorgdataloss200408csu02html,DL0033,,No,Unknown,Unknown,Unknown
+9162004,Teledata Communications,US,Biz,Data,Fraud  SE,MISC,,Inside  Malicious,No,,30000,httpattritionorgdataloss200409tech01html,DL0034,,No,No,No,Yes
+9232004,Cal State Hayward,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,2000,httpattritionorgdataloss200409csh01html,DL0035,,No,Unknown,Unknown,Unknown
+11252004,Brazos Higher Education Service Corporation,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,550000,httpattritionorgdataloss200411braz01html,DL0467,,No,No,Yes,No
+12212004,Delta Blood Bank,US,Med,NFP,Stolen Laptop,SSN,NAA,Outside,No,,100000,httpattritionorgdataloss200412blood01html,DL0036,,No,Unknown,Unknown,Unknown
+12222004,Hamilton County Ohio Clerk of Courts,US,Gov,County,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200412hccc01html,DL0372,,No,Unknown,Unknown,Unknown
+1102005,George Mason University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,32000,httpattritionorgdataloss200501gmu01html,DL0037,,No,Unknown,Unknown,Unknown
+1182005,University of San Diego,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,3500,httpattritionorgdataloss200501ucsd01html,DL0038,,No,Unknown,Unknown,Unknown
+1222005,University of Northern Colorado,US,Edu,Uni,Lost Disk Drive,SSN,NAA,Inside  Accidental,No,,15790,httpattritionorgdataloss200501unc01html,DL0392,,No,Unknown,Unknown,Unknown
+2122005,SAIC,US,Gov,Fed,Stolen Computer,SSN,NAA,Outside,No,,45000,httpattritionorgdataloss200502saic01html,DL0039,,SAI,Unknown,Unknown,Unknown
+2182005,University of Chicago Hospital,US,Edu,Med,Fraud  SE,NAA,,Inside  Malicious,No,,85,httpattritionorgdataloss200502uch01html,DL0040,,No,Unknown,Unknown,Unknown
+2212005,TMobile,US,Biz,Tech,Fraud  SE,PPN,EMA,Outside,No,,400,httpattritionorgdataloss200502tmobile02html,DL0041,,No,No,No,Yes
+2262005,Bank of America,US,Biz,Fin,Lost Tapes,CCN,NAA,Outside,Yes,,1000000,httpattritionorgdataloss200502boa01html,DL0042,,BAC,No,No,No
+2262005,New York State,US,Gov,State,Web,MISC,,,,,,httpattritionorgdataloss200502newyork01html,DL0043,,No,Unknown,Unknown,Unknown
+312005,Paymaxx,US,Biz,Fin,Web,MISC,,,,,100000,httpattritionorgdataloss200503paymaxx01html,DL0044,,No,Unknown,Unknown,Unknown
+322005,University of California Davis,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1100,,DL0374,,No,Unknown,Unknown,Unknown
+3112005,Las Vegas DMV,US,Gov,State,Stolen Computer,SSN,NAA,Outside,No,,8900,httpattritionorgdataloss200503lvdmv01html,DL0045,,No,Unknown,Unknown,Unknown
+3112005,ChoicePoint,US,Biz,Data,Fraud  SE,SSN,NAA,Outside,No,,163000,httpattritionorgdataloss200503choicepoint01html,DL0046,,CPS,Unknown,Unknown,Unknown
+3112005,Kaiser Permanente,US,Med,NFP,Web,MED,,Inside  Accidental,No,,140,httpattritionorgdataloss200503kaiser02html,DL0047,,No,Unknown,Unknown,Unknown
+3162005,Chico State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,59000,httpattritionorgdataloss200503chico01html,DL0048,,No,Unknown,Unknown,Unknown
+3172005,Boston College,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,120000,httpattritionorgdataloss200503bc01html,DL0049,,No,Unknown,Unknown,Unknown
+3182005,State of Michigan,US,Gov,State,,MISC,,,,,,httpattritionorgdataloss200503michigan01html,DL0050,,No,Unknown,Unknown,Unknown
+3192005,University Nevada Las Vegas,US,Edu,Uni,Hack,MISC,,Outside,No,,5000,httpattritionorgdataloss200503unlv01html,DL0051,,No,Unknown,Unknown,Unknown
+3232005,University of California San Francisco,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,7000,,DL0375,,No,Unknown,Unknown,Unknown
+3282005,University California Berkeley,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,98369,httpattritionorgdataloss200503ucb01html,DL0052,,No,Yes,Unknown,Unknown
+482005,San Jose Medical Group,US,Med,Org,Stolen Computer,SSN,NAA,Inside  Malicious,No,,187000,httpattritionorgdataloss200504sjmg01html,DL0053,,No,No,No,Yes
+4122005,LexisNexis,US,Biz,Data,Hack,SSN,NAA,Outside,No,,310000,httpattritionorgdataloss200504lexisnexis01html,DL0054,,No,Unknown,Yes,Yes
+4122005,National Park Service,US,Biz,NFP,Hack,CCN,NAA,Outside,Yes,Eastern National,15000,httpattritionorgdataloss200504eastnat01html,DL0055,,No,Unknown,Unknown,Unknown
+4122005,Tufts University,US,Edu,Uni,Web,MISC,,Outside,Yes,RuffaloCODY,106000,httpattritionorgdataloss200504tufts01html,DL0056,,No,Unknown,Unknown,Unknown
+4152005,Polo Ralph Lauren,US,Biz,Retail,Fraud  SE,CCN,,Outside,No,,180000,httpattritionorgdataloss200504prl01html,DL0057,,RL,Unknown,Unknown,Unknown
+4202005,Ameritrade,US,Biz,Fin,Lost Tapes,NAA,ACC,Outside,Yes,Unknown,200000,httpattritionorgdataloss200504ameritrade01html,DL0058,,AMTD,Partial,No,No
+4212005,Carnegie Mellon University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,19000,httpattritionorgdataloss200504cm01html,DL0059,,No,Unknown,Unknown,Unknown
+4252005,NTT DATA Corporation,JP,Biz,Tech,Stolen Laptop,NAA,EMA,Outside,No,,2146,,DL0376,,No,Unknown,Unknown,Unknown
+4262005,Christus St Joseph Hospital,US,Med,Hos,Stolen Computer,SSN,MED,Outside,Yes,Gateway File Systems,16000,httpattritionorgdataloss200504christus01html,DL0060,,No,Unknown,Unknown,Unknown
+4282005,Georgia Southern University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,,httpattritionorgdataloss200504gsu01html,DL0061,,No,Unknown,Unknown,Unknown
+4292005,Florida International University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,,httpattritionorgdataloss200504fiu02html,DL0393,,No,Unknown,Unknown,Unknown
+522005,Colorado State Health Dept,US,Gov,Med,Stolen Laptop,MED,,Outside,No,,1600,httpattritionorgdataloss200505chd01html,DL0062,,No,Unknown,Unknown,Unknown
+552005,Arbella Mutual Insurance Company,US,Biz,Fin,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200505arb01html,DL0394,,No,Unknown,Unknown,Unknown
+562005,Michigan State University,US,Edu,Uni,Hack,CCN,,Outside,No,,40000,httpattritionorgdataloss200505msu01html,DL0063,,No,Unknown,Unknown,Unknown
+5122005,Hinsdale Central High School,US,Edu,HS,Hack,SSN,,Outside,No,,,httpattritionorgdataloss200505hinsdale01html,DL0064,,No,Unknown,Unknown,Unknown
+5122005,Westborough Bank,US,Biz,Fin,Fraud  SE,SSN,,Inside  Malicious,No,,750,httpattritionorgdataloss200505westbr01html,DL0065,,No,Unknown,Unknown,Unknown
+5142005,Georgia Technology Authority,US,Gov,State,Fraud  SE,SSN,NAA,Inside  Malicious,No,,465000,httpattritionorgdataloss200505gadmv01html,DL0066,,No,Unknown,Unknown,Unknown
+5162005,Oklahoma State University,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,37000,httpattritionorgdataloss200505osu01html,DL0067,,No,Unknown,Unknown,Unknown
+5182005,University of Iowa,US,Edu,Uni,Hack,CCN,,Outside,No,,30000,httpattritionorgdataloss200505ui01html,DL0068,,No,Unknown,Unknown,Unknown
+5222005,Valdosta State University,US,Edu,Uni,Hack,SSN,,Outside,No,,40000,httpattritionorgdataloss200505valdosta01html,DL0069,,No,Unknown,Unknown,Unknown
+5232005,Jackson Community College,US,Edu,Uni,Hack,SSN,,Outside,No,,8000,httpattritionorgdataloss200505jcc01html,DL0070,,No,Unknown,Unknown,Unknown
+5232005,Bank of America  Wachovia,US,Biz,Fin,Fraud  SE,ACC,,Inside  Malicious,No,,676000,httpattritionorgdataloss200505boa02html,DL0071,,BAC,Unknown,Unknown,Unknown
+5232005,MCI,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,No,,16500,httpattritionorgdataloss200505mci01html,DL0072,,MCI,Unknown,Unknown,Unknown
+5252005,Purdue University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,11360,httpattritionorgdataloss200505purdue01html,DL0073,,No,Unknown,Unknown,Unknown
+5272005,Stanford University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,9600,httpattritionorgdataloss200505stanford01html,DL0074,,No,Unknown,Unknown,Unknown
+5282005,Merlin Information Services,US,Biz,Data,Fraud  SE,CCN,,Outside,No,,5875,,DL0377,,No,Unknown,Unknown,Unknown
+5312005,California Dept Health Services,US,Gov,Med,Stolen Laptop,SSN,MED,Outside,No,,21600,httpattritionorgdataloss200505cdhs01html,DL0075,,No,Unknown,Unknown,Unknown
+612005,US Dept Of Justice,US,Gov,Fed,Stolen Laptop,MISC,,Outside,Yes,Omega World Travel,80000,httpattritionorgdataloss200506owt01html,DL0076,,No,Unknown,Unknown,Unknown
+642005,Duke University Medical Center,US,Edu,Med,Hack,SSN,,Outside,No,,14000,httpattritionorgdataloss200506duke01html,DL0077,,No,Unknown,Unknown,Unknown
+642005,Cleveland State University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,44000,httpattritionorgdataloss200506csu01html,DL0078,,No,Unknown,Unknown,Unknown
+662005,Citigroup,US,Biz,Fin,Lost Tapes,SSN,ACC,Outside,Yes,UPS,3900000,httpattritionorgdataloss200506citigroup01html,DL0079,,C,No,No,No
+6132005,Motorola,US,Biz,Tech,Stolen Computer,SSN,NAA,Outside,Yes,Affiliated Computer Services,,httpattritionorgdataloss200506motorola01html,DL0080,,MOT,Unknown,Unknown,Unknown
+6172005,Equifax Canada Inc,CA,Biz,Fin,Hack,NAA,ACC,Outside,No,,605,httpattritionorgdataloss200506equifax01html,DL0081,,No,Unknown,Unknown,Unknown
+6172005,Federal Deposit Insurance Corp,US,Gov,Fed,Hack,SSN,NAA,Outside,No,,6000,httpattritionorgdataloss200506fdic01html,DL0082,,No,Unknown,Unknown,Unknown
+6172005,University of Hawaii,US,Edu,Uni,Fraud  SE,SSN,NAA,Inside  Malicious,No,,150000,httpattritionorgdataloss200506hawaii01html,DL0083,,No,Unknown,Unknown,Unknown
+6192005,Visa MasterCard American Express,US,Biz,Fin,Hack,CCN,,Outside,Yes,CardSystems,40000000,httpattritionorgdataloss200506cardsystems01html,DL0084,,MA AXP,Unknown,Unknown,Unknown
+6212005,CVS Corp,US,Biz,Retail,Web,ACC,,Inside  Accidental,No,,,httpattritionorgdataloss200506cvs01html,DL0085,,CVSDBV,Unknown,Unknown,Unknown
+6222005,Eastman Kodak Co,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,Yes,Hewitt Associates,5800,httpattritionorgdataloss200506kodak01html,DL0086,,EK,Unknown,Unknown,Unknown
+6232005,Kent State University,US,Edu,Uni,Stolen Laptop,NAA,,Outside,No,,1400,httpattritionorgdataloss200506kent01html,DL0087,,No,Unknown,Unknown,Unknown
+6282005,University of Connecticut,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,72000,httpattritionorgdataloss200506uconn01html,DL0088,,No,Unknown,Unknown,Unknown
+6292005,Medica Health Plans,US,Med,Ins,Fraud  SE DISPUTED,MISC,,Inside  Malicious,No,,1200000,httpattritionorgdataloss200506medica01html,DL0089,,No,Unknown,Unknown,Unknown
+6302005,DSW Shoes,US,Biz,Retail,Hack,CCN,,Outside,No,,1496000,httpattritionorgdataloss200506dsw01html,DL0090,,No,Unknown,Unknown,Unknown
+6302005,India Call Center,IN,Biz,Tech,Fraud  SE,ACC,CCN,Inside  Malicious,Yes,Infinity eSearch,1000,httpattritionorgdataloss200506india01html,DL0091,,No,Unknown,Unknown,Unknown
+6302005,Bank of America,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,18000,httpattritionorgdataloss200506boa02html,DL0378,,BAC,Unknown,Unknown,Unknown
+712005,University of San Diego,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,3300,httpattritionorgdataloss200507ucsd01html,DL0397,,No,Unknown,Unknown,Unknown
+762005,Ohio State Univ Medical Center,US,Edu,Med,Stolen Laptop,MISC,,Outside,Yes,MTE Consulting,15000,httpattritionorgdataloss200507osmc01html,DL0092,,No,Unknown,Unknown,Unknown
+762005,Time Warner Inc,US,Biz,Media,Stolen Tapes,SSN,NAA,Outside,Yes,Iron Mountain,600000,httpattritionorgdataloss200507ironmountain01html,DL0093,,TWX,Unknown,Unknown,Unknown
+772005,Michigan State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,27000,httpattritionorgdataloss200507msu02html,DL0094,,No,Unknown,Unknown,Unknown
+782005,City National Bank,US,Biz,Fin,Lost Tapes,SSN,ACC,Outside,Yes,Iron Mountain,,httpattritionorgdataloss200507cnb01html,DL0400,,No,Unknown,Unknown,Unknown
+792005,University of Southern Cailfornia,US,Edu,Uni,Web,SSN,NAA,Outside,No,,270000,httpattritionorgdataloss200507usc01html,DL0095,,No,No,No,Yes
+7132005,Arizona Biodyne,US,Med,Ins,Stolen Tapes,SSN,NAA,Outside,No,,57000,httpattritionorgdataloss200507bcbs01html,DL0096,,No,Unknown,Unknown,Unknown
+7202005,Iowa State University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,4410,httpattritionorgdataloss200507isu01html,DL0097,,No,Unknown,Unknown,Unknown
+7212005,University of Colorado at Boulder,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,42000,httpattritionorgdataloss200507cub04html,DL0673,,No,Unknown,Unknown,Unknown
+7252005,St Johns Regional Med Ctr,US,Med,Hos,Stolen Computer,NAA,MED,Outside,Yes,KC  Associates,27000,httpattritionorgdataloss200507stjohn01html,DL0098,,No,Unknown,Unknown,Unknown
+7282005,California State University Dominguez Hills,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,9614,httpattritionorgdataloss200507csdh01html,DL0379,,No,Unknown,Unknown,Unknown
+7292005,San Diego Co Emp Ret Assoc,US,Gov,County,Hack,SSN,NAA,Outside,No,,32000,httpattritionorgdataloss200507sdera01html,DL0099,,No,Unknown,Unknown,Unknown
+7302005,Austin Peay State University,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,2772,httpattritionorgdataloss200507AusPeay01html,DL0398,,No,Unknown,Unknown,Unknown
+832005,University of Colorado,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,36000,httpattritionorgdataloss200508cu01html,DL0100,,No,Unknown,Unknown,Unknown
+842005,Cal Poly Pomona,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,31077,httpattritionorgdataloss200508cpp01html,DL0101,,No,Unknown,Unknown,Unknown
+842005,Anderson College,US,Edu,Uni,Disposal  Documents,SSN,,Inside  Accidental,No,,800,httpattritionorgdataloss200508and01html,DL0399,,No,Unknown,Unknown,Unknown
+852005,Madison Area Technical College,US,Edu,Uni,Disposal  Documents,SSN,DOB,Inside  Accidental,No,,100,httpattritionorgdataloss200508matc01html,DL0395,,No,Unknown,Unknown,Unknown
+892005,University of North Texas,US,Edu,Uni,Hack,CCN,,Outside,No,,38607,httpattritionorgdataloss200508unt01html,DL0102,,No,Unknown,Unknown,Unknown
+892005,Sonoma State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,61709,httpattritionorgdataloss200508ssu01html,DL0103,,No,Unknown,Unknown,Unknown
+892005,Federal Reserve Bank,US,Gov,Fed,Lost Documents,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200508FedRes01html,DL0401,,No,Unknown,Unknown,Unknown
+8102005,University of Utah,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,100000,httpattritionorgdataloss200508uu01html,DL0380,,No,Unknown,Unknown,Unknown
+8122005,Verizon Wireless,US,Biz,Tech,Web,ACC,,Inside  Accidental,No,,,httpattritionorgdataloss200508verizon01html,DL0104,,VZ,Unknown,Unknown,Unknown
+8152005,California State University Stanislaus,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,877,httpattritionorgdataloss200508CSUStanislaus01html,DL0402,,No,Unknown,Unknown,Unknown
+8192005,University of Colorado,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,49000,httpattritionorgdataloss200508cu02html,DL0105,,No,Unknown,Unknown,Unknown
+8192005,United States Air Force,US,Gov,Fed,Hack,SSN,NAA,Outside,No,,33000,httpattritionorgdataloss200508usaf01html,DL0106,,No,Unknown,Unknown,Unknown
+8272005,University of Florida,US,Edu,Med,Stolen Laptop,SSN,NAA,Outside,Yes,ChartOne,3851,httpattritionorgdataloss200508chartone01html,DL0107,,No,Unknown,Unknown,Unknown
+8302005,California State University,US,Edu,Uni,Virus,SSN,NAA,Outside,No,,154,httpattritionorgdataloss200508csu03html,DL0108,,No,Unknown,Unknown,Unknown
+8302005,JPMorgan Chase,US,Biz,Fin,Stolen Laptop,NAA,ACC,Outside,No,,,httpattritionorgdataloss200508jpmorgan01html,DL0109,,JPM,Unknown,Unknown,Unknown
+8302005,Stark State College of Technology,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,7058,httpattritionorgdataloss200508stark01html,DL0403,,No,Unknown,Unknown,Unknown
+922005,Iowa Student Loan,US,Biz,Fin,Lost Media,SSN,NAA,Outside,No,,165000,httpattritionorgdataloss200509isl01html,DL0110,,No,Unknown,Unknown,Unknown
+9102005,Kent State University,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,100000,httpattritionorgdataloss200509kent02html,DL0111,,No,Unknown,Unknown,Unknown
+9132005,Fort Carson,US,Gov,Fed,Stolen Computers,SSN,NAA,Outside,No,,9300,httpattritionorgdataloss200509ftcarson01html,DL0112,,No,Unknown,Unknown,Unknown
+9162005,Miami Ohio University,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,21762,httpattritionorgdataloss200509miami01html,DL0113,,No,Unknown,Unknown,Unknown
+9172005,North Fork Bank,US,Biz,Fin,Stolen Laptop,ACC,,Outside,No,,9000,httpattritionorgdataloss200509nfb01html,DL0114,,No,Unknown,Unknown,Unknown
+9192005,Childrens Health Council,US,Med,NFP,Stolen Tapes,SSN,MED,Outside,No,,6700,httpattritionorgdataloss200509chc01html,DL0115,,No,Unknown,Unknown,Unknown
+9222005,Internal Revenue Service,US,Gov,Fed,Lost Documents,SSN,NAA,Outside,No,,30000,httpattritionorgdataloss200509irs01html,DL0381,,No,Unknown,Unknown,Unknown
+9282005,City University of New York,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,771,httpattritionorgdataloss200509cuny01html,DL0116,,No,Unknown,Unknown,Unknown
+9282005,RBC Dain Rauscher,US,Biz,Fin,Fraud  SE,ACC,NAA,Inside  Malicious,No,,300000,httpattritionorgdataloss200509dain01html,DL0117,,No,Unknown,Unknown,Unknown
+9292005,University of Georgia,US,Edu,Uni,Hack,SSN,,Outside,No,,1600,httpattritionorgdataloss200509uga01html,DL0118,,No,Unknown,Unknown,Unknown
+1072005,Bank of America,US,Biz,Fin,Stolen Laptop,ACC,NAA,Outside,No,,,httpattritionorgdataloss200510boa03html,DL0119,,BAC,Unknown,Unknown,Unknown
+1082005,Blockbuster,US,Biz,Retail,Disposal  Documents,SSN,CCN,Inside  Accidental,No,,,httpattritionorgdataloss200510bb01html,DL0382,,BBI,Unknown,Unknown,Unknown
+10152005,Montclair State University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,9100,httpattritionorgdataloss200510montclair01html,DL0120,,No,Unknown,Unknown,Unknown
+10202005,Monmouth University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,677,httpattritionorgdataloss200510monmouth01html,DL0121,,No,Unknown,Unknown,Unknown
+10202005,Wilcox Memorial Hospital,US,Med,Hos,Stolen Media,SSN,NAA,Outside,No,,130000,httpattritionorgdataloss200510kauai01html,DL0122,,No,Unknown,Unknown,Unknown
+10202005,Vermont Technical College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200510vtc01html,DL0123,,No,Unknown,Unknown,Unknown
+10212005,State of California,US,Gov,State,Hack,NAA,,Inside  Accidental,No,,,httpattritionorgdataloss200510cali01html,DL0124,,No,Unknown,Unknown,Unknown
+10242005,University of Western Ontario,CA,Edu,Uni,Web,NAA,,Inside  Accidental,No,,1000,httpattritionorgdataloss200510uwo01html,DL0383,,No,Unknown,Unknown,Unknown
+10292005,University of Tennessee,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,1900,httpattritionorgdataloss200510ut01html,DL0125,,No,Unknown,Unknown,Unknown
+1112005,University of Tennessee Med Ctr,US,Edu,Med,Stolen Laptop,SSN,NAA,Outside,No,,3800,httpattritionorgdataloss200511ut03html,DL0126,,No,Unknown,Unknown,Unknown
+1142005,Keck School of Medicine USC,US,Edu,Med,Stolen Computer,SSN,NAA,Outside,No,,50000,httpattritionorgdataloss200511keck01html,DL0127,,No,Unknown,Unknown,Unknown
+1152005,Safeway Inc,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,No,,1400,httpattritionorgdataloss200511safeway01html,DL0128,,SWY,Unknown,Unknown,Unknown
+1172005,Papa Johns,US,Biz,Retail,Web,NAA,EMA,Inside  Accidental,No,,,httpattritionorgdataloss200511pizza01html,DL0129,,PZZA,Unknown,Unknown,Unknown
+1192005,TransUnion LLC,US,Biz,Data,Stolen Computer,SSN,NAA,Outside,No,,3623,httpattritionorgdataloss200511transunion01html,DL0130,,No,Unknown,Unknown,Unknown
+11112005,Georgia Tech University,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,13000,httpattritionorgdataloss200511gatech01html,DL0131,,No,Unknown,Unknown,Unknown
+11182005,Boeing Co,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,161000,httpattritionorgdataloss200511boeing01html,DL0132,,BA,Unknown,Unknown,Unknown
+11182005,Indiana University Kelley School of Business,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,5278,httpattritionorgdataloss200511iukelley02html,DL0411,,No,Unknown,Unknown,Unknown
+11232005,University of Delaware,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,952,httpattritionorgdataloss200511udel02html,DL0407,,No,Unknown,Unknown,Unknown
+11262005,Scottrade,US,Biz,Fin,Hack,ACC,NAA,Outside,Yes,Troy Group,140000,httpattritionorgdataloss200511scottrade01html,DL0133,,No,Unknown,Unknown,Unknown
+1222005,Cornell University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,900,httpattritionorgdataloss200512cornell01html,DL0134,,No,Unknown,Unknown,Unknown
+1232005,First Trust Bank,US,Biz,Fin,Stolen Laptop,SSN,ACC,Outside,No,,,httpattritionorgdataloss200512ftb01html,DL0135,,NCFTOB,Unknown,Unknown,Unknown
+1232005,University of San Diego,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,7800,httpattritionorgdataloss200512usd01html,DL0136,,No,Unknown,Unknown,Unknown
+1262005,Washington St Employment Security Dept,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,530,httpattritionorgdataloss200512wsesd01html,DL0137,,No,Unknown,Unknown,Unknown
+1282005,San Antonio Independent School District,US,Edu,City,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200512SAISD01html,DL0408,,No,Unknown,Unknown,Unknown
+1282005,JSargeant Reynolds Community College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,26000,httpattritionorgdataloss200512JSRCC01html,DL0409,,No,Unknown,Unknown,Unknown
+1282005,Federal Reserve Bank,US,Gov,Fed,Lost Documents,NAA,FIN,Inside  Accidental,No,,,httpattritionorgdataloss200512FedRes02html,DL0410,,No,Unknown,Unknown,Unknown
+1292005,Oregon Community Credit Union,US,Biz,Fin,Stolen Documents,SSN,NAA,Outside,No,,200,httpattritionorgdataloss200512orccu01html,DL0412,,No,Unknown,Unknown,Unknown
+1292005,Idaho State University,US,Edu,Uni,Hack,SSN,DOB,Outside,No,,,httpattritionorgdataloss200512IDU01html,DL0413,,No,Unknown,Unknown,Unknown
+12122005,Sams Club,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200512sams01html,DL0138,,WMT,Unknown,Unknown,Unknown
+12122005,Aid To The Church In Need,GB,Biz,NFP,Hack,CCN,NAA,Outside,No,,2800,httpattritionorgdataloss200512acn01html,DL0139,,No,Unknown,Unknown,Unknown
+12122005,Iowa State University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,5500,httpattritionorgdataloss200512isu02html,DL0140,,No,Unknown,Unknown,Unknown
+12192005,Guidance Software,US,Biz,Tech,Hack,CCN,,Outside,No,,3800,httpattritionorgdataloss200512guidance01html,DL0141,,GUID,No,Yes,No
+12212005,LaSalle Bank,US,Biz,Fin,Lost Tapes,SSN,NAA,Outside,Yes,DHL,2000000,httpattritionorgdataloss200512lasalle01html,DL0142,,ABN,Unknown,Unknown,Unknown
+12222005,Ford Motor Company,US,Biz,Ind,Stolen Computer,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200512ford01html,DL0143,,F,Unknown,Unknown,Unknown
+12282005,Marriott International,US,Biz,Hotel,Lost Tapes,SSN,CCN,,,,206000,httpattritionorgdataloss200512marriott01html,DL0144,,MAR,Unknown,Unknown,Unknown
+112006,University Pittsburgh Medical Ctr,US,Edu,Med,Stolen Computer,SSN,NAA,Outside,No,,700,httpattritionorgdataloss200601upmc01html,DL0145,,No,Unknown,Unknown,Unknown
+122006,HR Block,US,Biz,Fin,Snail Mail,SSN,,Inside  Accidental,No,,,httpattritionorgdataloss200601hrblock01html,DL0146,,HRB,Unknown,Unknown,Unknown
+182006,Kerzner International  Atlantis,US,Biz,Hotel,Hack,SSN,CCN,,No,,55000,httpattritionorgdataloss200601kerzner01html,DL0147,,KZL,Unknown,Unknown,Unknown
+192006,Grand Hotel De Vere Group,GB,Biz,Hotel,Lost Documents,CCN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200601devere01html,DL0422,,No,Unknown,Unknown,Unknown
+1112006,Peoples Bank,US,Biz,Fin,Lost Tapes,SSN,NAA,Inside  Accidental,Yes,UPS,90000,httpattritionorgdataloss200601pb01html,DL0148,,PBCT,Unknown,Unknown,Unknown
+1152006,Illinois Education Association,US,Edu,State,Stolen Computers,SSN,,Outside,No,,,httpattritionorgdataloss200601illedu01html,DL0475,,No,No,No,No
+1162006,New York City Teachers Retirement System,US,Edu,State,Fraud  SE,SSN,ACC,Inside  Malicious,No,,,httpattritionorgdataloss200601nyctrs01html,DL0476,,No,Yes,No,Yes
+1182006,Bournemouth Borough Council,GB,Gov,City,Disposal  Documents,NAA,,Inside  Accidental,No,,70,httpattritionorgdataloss200601bourne01html,DL0440,,No,No,No,No
+1202006,University of Kansas,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200601ku01html,DL0149,,No,Unknown,Unknown,Unknown
+1212006,California National Guard,US,Gov,State,Stolen Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200601natguard01html,DL0150,,No,Unknown,Unknown,Unknown
+1232006,University of Notre Dame,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,,httpattritionorgdataloss200601nd01html,DL0151,,No,Unknown,Unknown,Unknown
+1242006,University of Washington Med Ctr,US,Edu,Med,Stolen Laptop,SSN,NAA,Outside,No,,1600,httpattritionorgdataloss200601uwmc01html,DL0152,,No,Unknown,Unknown,Unknown
+1252006,University of Delaware,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,159,httpattritionorgdataloss200601ud01html,DL0153,,No,Unknown,Unknown,Unknown
+1252006,Ameriprise Financial,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,226000,httpattritionorgdataloss200601ameriprise01html,DL0154,,AMP,Yes,Yes,No
+1262006,Providence Home Services,US,Med,Org,Stolen Tapes,NAA,MED,Outside,No,,365000,httpattritionorgdataloss200601phs01html,DL0155,,No,No,Yes,No
+1272006,College of St Scholastica,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,12000,httpattritionorgdataloss200601css01html,DL0156,,No,Unknown,Unknown,Unknown
+1282006,State of Rhode Island,US,Gov,State,Web,CCN,,Outside,No,,4118,httpattritionorgdataloss200601ri01html,DL0157,,No,Unknown,Unknown,Unknown
+1302006,Cooks Illustrated,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200601cooks01html,DL0384,CW0001,No,Unknown,Unknown,Unknown
+1312006,Honeywell International,US,Biz,Ind,Web,SSN,ACC,Inside  Malicious,No,,19000,httpattritionorgdataloss200601honeywell01html,DL0158,,HON,Unknown,Unknown,Unknown
+1312006,Boston Globe  Worcester Telegram and Gazette,US,Biz,Media,Snail Mail,CCN,,Inside  Accidental,No,,240000,httpattritionorgdataloss200601papers01html,DL0159,,No,Unknown,Unknown,Unknown
+1312006,Washington State Health Care Authority,US,Gov,State,Snail Mail,SSN,NAA,Inside  Accidental,No,,6000,httpattritionorgdataloss200601wshca01html,DL0160,,No,Unknown,Unknown,Unknown
+212006,University of Colorado CO Springs,US,Edu,Uni,Virus,SSN,NAA,Outside,No,,2500,httpattritionorgdataloss200602uccs01html,DL0161,,No,Unknown,Unknown,Unknown
+222006,Presbyterian Health Care Service,US,Med,Hos,Stolen Computer,SSN,CCN,Outside,No,,450,httpattritionorgdataloss200602phcs01html,DL0162,,No,Unknown,Unknown,Unknown
+242006,FedEx,US,Biz,Ind,Snail Mail,MISC,,Inside  Accidental,No,,8500,httpattritionorgdataloss200602fedex01html,DL0163,,FDX,Unknown,Unknown,Unknown
+262006,Regions Bank,US,Biz,Fin,,CCN,,Outside,Yes,,100000,httpattritionorgdataloss200602regions01html,DL0164,,No,Unknown,Unknown,Unknown
+272006,Blue Cross Blue Shield NC,US,Med,Ins,Snail Mail,SSN,NAA,Inside  Accidental,No,,600,httpattritionorgdataloss200602bcbs02html,DL0165,,No,Unknown,Unknown,Unknown
+292006,Bank of America  OfficeMax,US,Biz,Fin,,ACC,,Outside,Yes,,200000,httpattritionorgdataloss200602boa04html,DL0166,,BAC,No,No,No
+2152006,Suffolk County Clerks Office NY,US,Gov,County,Web,SSN,NAA,Inside  Accidental,No,,7000,httpattritionorgdataloss200602scny01html,DL0167,,No,Unknown,Unknown,Unknown
+2152006,Old Dominion University,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,601,httpattritionorgdataloss200602odu01html,DL0168,,No,Unknown,Unknown,Unknown
+2162006,Blue Cross Blue Shield Florida,US,Med,Ins,Email,SSN,,Inside  Accidental,No,,27000,httpattritionorgdataloss200602bcbs03html,DL0169,,No,Unknown,Unknown,Yes
+2162006,United States Department of Agriculture,US,Gov,Fed,Snail Mail,SSN,,Inside  Accidental,No,,350000,httpattritionorgdataloss200602doa01html,DL0170,,No,Unknown,Unknown,Unknown
+2162006,University of Washington Med Ctr,US,Edu,Med,Hack,MED,,Outside,No,,,httpattritionorgdataloss200602uwmc02html,DL0428,,No,Unknown,Unknown,Unknown
+2172006,Mount St Marys Hospital,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200602msmh01html,DL0171,,No,Unknown,Unknown,Unknown
+2172006,Pelican Bay State Prison,US,Gov,State,Fraud  SE,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200602pbsp01html,DL0172,,No,Unknown,Unknown,Unknown
+2182006,University of Northern Iowa,US,Edu,Uni,Hack,MISC,,Outside,No,,6000,httpattritionorgdataloss200602uni01html,DL0173,,No,Unknown,Unknown,Unknown
+2202006,Alltel,US,Biz,Tech,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200602alltel01html,DL0503,,AT,Partial,No,No
+2222006,New Hampshire DMV,US,Gov,State,Hack,CCN,,Inside  Malicious,No,,,httpattritionorgdataloss200602nhdmv01html,DL0174,,No,Unknown,Unknown,Unknown
+2222006,Univ Texas MD Anderson,US,Edu,Med,Stolen Laptop,SSN,MED,Outside,Yes,PricewaterhouseCoopers,4000,httpattritionorgdataloss200602pwc01html,DL0175,,No,Unknown,Unknown,Unknown
+2232006,McAfee,US,Biz,Tech,Lost Media,SSN,NAA,Inside  Accidental,Yes,Deloitte  Touche,9000,httpattritionorgdataloss200602mcafee01html,DL0176,,MFE,Unknown,Unknown,Unknown
+2232006,Denver International Airport,US,Biz,Ind,Stolen Tapes,CCN,,Outside,Yes,Affiliated Computer Services,,httpattritionorgdataloss200602dia01html,DL0455,,No,No,No,No
+2252006,Ernst  Young,US,Biz,Tech,Stolen Laptop,SSN,,Outside,No,,,httpattritionorgdataloss200602ey01html,DL0177,,No,Unknown,Unknown,Unknown
+312006,Bank of Bermuda,BM,Biz,Fin,Fraud  SE,CCN,,Outside,No,,800,httpattritionorgdataloss200603bob01html,DL0178,,No,Unknown,Unknown,Unknown
+312006,Medco Health Solutions Inc,US,Med,Org,Stolen Laptop,SSN,MED,Outside,No,,4600,httpattritionorgdataloss200603medco01html,DL0179,,MHS,Unknown,Unknown,Unknown
+322006,Olympic Funding Chicago,US,Biz,Fin,Stolen Disk Drive,SSN,NAA,Outside,No,,,httpattritionorgdataloss200603ofc01html,DL0180,,No,Unknown,Unknown,Unknown
+332006,Metropolitan State College,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,93000,httpattritionorgdataloss200603msc01html,DL0181,,No,Unknown,Unknown,Unknown
+352006,Georgetown University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,41000,httpattritionorgdataloss200603gu01html,DL0182,,No,Unknown,Unknown,Unknown
+382006,Verizon,US,Biz,Tech,Stolen Laptop,SSN,,Outside,No,,,httpattritionorgdataloss200603verizon02html,DL0183,,VZ,Unknown,Unknown,Unknown
+3142006,Buffalo Bisons Web Site,US,Biz,Tech,Hack,CCN,NAA,Outside,Yes,Choice One Online,,httpattritionorgdataloss200603choiceone01html,DL0184,,No,Unknown,Unknown,Unknown
+3142006,General Motors,US,Biz,Ind,Fraud  SE,SSN,,Inside  Malicious,No,,100,httpattritionorgdataloss200603gm01html,DL0185,,GM,Unknown,Unknown,Unknown
+3152006,Ernst  Young,US,Biz,Tech,Stolen Laptop,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200603ey02html,DL0186,,No,Unknown,Unknown,Unknown
+3162006,Bananascom,US,Biz,Tech,Hack,CCN,NAA,Outside,No,,274,httpattritionorgdataloss200603bananas01html,DL0187,,No,Unknown,Unknown,Unknown
+3222006,Hewlett Packard,US,Biz,Tech,Stolen Laptop,SSN,ACC,Outside,Yes,Fidelity Investments,196000,httpattritionorgdataloss200603hp02html,DL0188,CW0035,HPQ,Unknown,Unknown,Unknown
+3222006,District of Columbia Board of Elections and Ethics,US,Gov,State,,SSN,,Inside  Accidental,No,,,httpattritionorgdataloss200603dcboee01html,DL0681,,No,Unknown,Unknown,Unknown
+3242006,CA State Employment Development Division,US,Gov,State,Snail Mail,SSN,,Inside  Accidental,No,,64000,httpattritionorgdataloss200603csedd01html,DL0189,,No,No,No,No
+3242006,Vermont State Colleges,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,14000,httpattritionorgdataloss200603vsc01html,DL0190,,No,Unknown,Unknown,Unknown
+3242006,California State University Dominguez Hills,US,Edu,Uni,Stolen Laptop,,,Outside,No,,2486,httpattritionorgdataloss200603doming02html,DL0477,,No,No,No,No
+3262006,Florida Department of Management Services,US,Gov,State,Fraud  SE,MISC,,Inside  Accidental,Yes,Convergys Corp,108000,httpattritionorgdataloss200603fsdms01html,DL0191,,No,Unknown,Unknown,Unknown
+3292006,University of Nebraska Lincoln,US,Edu,Uni,Web,SSN,EMA,Inside  Accidental,No,,342,httpattritionorgdataloss200603uneb01html,DL0478,,No,No,No,No
+3302006,Georgia Technology Authority,US,Gov,State,Hack,MISC,,Outside,No,,553000,httpattritionorgdataloss200603gadmv03html,DL0192,,No,Unknown,Unknown,Unknown
+3302006,United States Marine Corp,US,Gov,Fed,Lost Media,SSN,NAA,Outside,No,,207750,httpattritionorgdataloss200603usm01html,DL0193,,No,Unknown,Unknown,Unknown
+3302006,Connecticut Tech High School Sys,US,Edu,HS,Email,SSN,,Inside  Accidental,No,,1250,httpattritionorgdataloss200603cthss01html,DL0194,,No,Unknown,Unknown,Unknown
+3312006,LA County Dept Social Services,US,Gov,County,Disposal  Documents,SSN,MED,Inside  Accidental,No,,94000,httpattritionorgdataloss200603ladss01html,DL0195,,No,Unknown,Unknown,Unknown
+412006,Con Edison,US,Biz,Ind,Lost Tape,SSN,NAA,Outside,Yes,,15704,httpattritionorgdataloss200604coned01html,DL0346,CW0050,CEDNMOB,Unknown,Unknown,Unknown
+412006,Shorter College,US,Edu,Uni,Hack,,,Inside  Malicious,No,,,httpattritionorgdataloss200604shorter01html,DL0680,,No,No,No,Yes
+432006,Authorizenet,US,Biz,Tech,Fraud  SE DISPUTED,CCN,,Outside,No,,3000,httpattritionorgdataloss200604auth01html,DL0196,,No,Unknown,Unknown,Unknown
+472006,DiscountDomainRegistrycom,US,Biz,Tech,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200604ddr01html,DL0197,,No,Unknown,Unknown,Unknown
+492006,Univ of Medicine Dentistry NJ,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,2000,httpattritionorgdataloss200604umdnj01html,DL0198,,No,Unknown,Unknown,Unknown
+4102006,Broward Co Records Division FL,US,Gov,County,Web,SSN,ACC,Inside  Accidental,No,,,httpattritionorgdataloss200604fbc01html,DL0199,,No,Unknown,Unknown,Unknown
+4122006,RossSimons,US,Biz,Retail,Hack,SSN,CCN,Outside,No,,32000,httpattritionorgdataloss200604rs01html,DL0200,,No,Unknown,Unknown,Unknown
+4132006,Fifth Third Bank,US,Biz,Fin,Fraud  SE,NAA,ACC,Inside  Malicious,No,,1000,httpattritionorgdataloss200604fifththird01html,DL0483,,No,No,No,Yes
+4142006,University of South Carolina,US,Edu,Uni,Email,SSN,,Inside  Accidental,No,,1400,httpattritionorgdataloss200604usca01html,DL0201,,No,Unknown,Unknown,Unknown
+4142006,Voluntary Employees Benefit Association of Hawaii,US,Gov,State,Fraud  SE,SSN,NAA,Inside  Malicious,Yes,NewTech Imaging,40000,httpattritionorgdataloss200604volemphawaii01html,DL0484,,No,No,No,Yes
+4162006,Fraser Health Authority,US,Med,Hos,Stolen Disk Drive,NAA,MED,Outside,No,,,httpattritionorgdataloss200604fha01html,DL0202,,No,Unknown,Unknown,Unknown
+4202006,Monarch Beauty Supply,CA,Biz,Retail,Lost Documents,CCN,,Inside  Accidental,No,,2600,httpattritionorgdataloss200604monarch01html,DL0421,,No,Unknown,Unknown,Unknown
+4212006,University of Alaska Fairbanks,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,38941,httpattritionorgdataloss200604uaf01html,DL0203,,No,Unknown,Unknown,Unknown
+4212006,Impac,US,Biz,Tech,Stolen Laptop,,,Outside,No,,92,,DL0385,CW0004,IMH,Unknown,Unknown,Unknown
+4212006,Boeing Co,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,3664,httpattritionorgdataloss200604boeing02html,DL0424,CW0009,BA,Unknown,Unknown,Unknown
+4232006,Univ Texas McCombs Business,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,197000,httpattritionorgdataloss200604ut04html,DL0204,,No,Unknown,Unknown,Unknown
+4242006,University of Virginia,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200604uva02html,DL0486,,No,No,No,No
+4262006,Clydesdale Bank  Morgan Stanley,US,Biz,Fin,,CCN,,Outside,Yes,Mastercard,2000,httpattritionorgdataloss200604clydes01html,DL0205,,No,Unknown,Unknown,Unknown
+4262006,Purdue University Elec Comp Eng,US,Edu,Uni,Hack,SSN,,Outside,No,,1351,httpattritionorgdataloss200604purdue02html,DL0206,,No,Unknown,Unknown,Unknown
+4262006,Aetna Inc,US,Med,Ins,Stolen Laptop,SSN,NAA,Outside,No,,39000,httpattritionorgdataloss200604aetna01html,DL0207,CW0054,AET,Unknown,Unknown,Unknown
+4272006,Long Island Railroad,US,Biz,Ind,Lost Tapes,SSN,NAA,Outside,Yes,Iron Mountain,20000,httpattritionorgdataloss200604ironmountain04html,DL0208,,No,Unknown,Unknown,Unknown
+4282006,US Department of Defense,US,Gov,Fed,Hack,SSN,NAA,Outside,No,,14000,httpattritionorgdataloss200604dod01html,DL0209,,No,No,No,No
+522006,Ohio University,US,Edu,Uni,Hack,SSN,,Outside,No,,137000,httpattritionorgdataloss200605ohiou01html,DL0210,,No,No,Yes,No
+522006,State of Georgia,US,Gov,State,Lost Disk Drive,SSN,CCN,Inside  Accidental,No,,,httpattritionorgdataloss200605gsg01html,DL0211,,No,Unknown,Unknown,Unknown
+542006,Idaho Power Company,US,Biz,Ind,Lost Disk Drive,SSN,NAA,Outside,No,,,httpattritionorgdataloss200605ipc01html,DL0212,,No,Unknown,Unknown,Unknown
+552006,Wells Fargo,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,No,,39442,httpattritionorgdataloss200605wells03html,DL0213,,WFC,Unknown,Unknown,Unknown
+5112006,Ohio University Hudson Health Center,US,Edu,Med,Hack,SSN,NAA,Outside,No,,60000,httpattritionorgdataloss200605ohiou02html,DL0214,,No,Unknown,Unknown,Unknown
+5112006,Columbus Bank and Trust,US,Biz,Fin,Hack,CCN,,Outside,No,,2000,httpattritionorgdataloss200605cbt01html,DL0215,,No,Unknown,Unknown,Unknown
+5122006,Mercantile Potomac Bank,US,Biz,Fin,Stolen Laptop,SSN,CAN,Outside,No,,48000,httpattritionorgdataloss200605mpb01html,DL0216,,No,Unknown,Unknown,Unknown
+5162006,American Institute of CPAs,US,Biz,Org,Lost Disk Drive,SSN,NAA,Outside,No,,330000,httpattritionorgdataloss200605aicpa01html,DL0217,,No,Unknown,Unknown,Unknown
+5162006,University of California Berkeley,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1200,httpattritionorgdataloss200605ucb03html,DL0425,,No,Unknown,Unknown,Unknown
+5172006,M  T Bank,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,Yes,PFPC Inc,2524,,DL0461,CW0021,MTB,No,No,No
+5182006,American Red Cross,US,Biz,Org,Fraud  SE,SSN,NAA,Inside  Malicious,No,,8000,httpattritionorgdataloss200605arc01html,DL0218,,No,Unknown,Unknown,Unknown
+5192006,Frost Bank,US,Biz,Fin,Hack,CCN,,Outside,Yes,,100,httpattritionorgdataloss200605fb01html,DL0219,,No,Unknown,Unknown,Unknown
+5222006,US Department of Veterans Affairs,US,Gov,Fed,Stolen Computer,SSN,NAA,Outside,No,,26500000,httpattritionorgdataloss200605dva01html,DL0220,,No,Unknown,Unknown,Unknown
+5232006,University of Delaware Dept Public Safety,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1076,httpattritionorgdataloss200605ud02html,DL0221,,No,Unknown,Unknown,Unknown
+5232006,Butler Co Deptof Mental Retardation Developmental Disabilities,US,Gov,County,Stolen Laptop,SSN,,Outside,No,,100,httpattritionorgdataloss200605mrdd01html,DL0353,,No,Unknown,Unknown,Unknown
+5232006,Mortgage Lenders Network USA,US,Biz,Fin,Fraud  SE,SSN,NAA,Inside  Malicious,No,,231000,httpattritionorgdataloss200605mln01html,DL0386,CW0002,No,Unknown,Unknown,Yes
+5242006,Sacred Heart University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,135000,httpattritionorgdataloss200605shu01html,DL0222,,No,No,No,No
+5252006,Security Savings Bank,US,Biz,Fin,Fraud  SE,ACC,CCN,Outside,No,,13,,DL0387,CW0003,No,Unknown,Unknown,Unknown
+5262006,California State University Stanislaus,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,1294,httpattritionorgdataloss200605CSUStanislaus02html,DL0423,,No,Unknown,Unknown,Unknown
+5302006,Florida International University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,,httpattritionorgdataloss200605fiu01html,DL0223,,No,Unknown,Unknown,Unknown
+5312006,Texas Guaranteed Student Loan Corp,US,Biz,Fin,Lost Media,SSN,NAA,Outside,Yes,Hummingbird,1300000,httpattritionorgdataloss200605tgslc01html,DL0224,,No,Unknown,Unknown,Unknown
+5312006,VyStar Credit Union,US,Biz,Fin,Hack,SSN,NAA,Outside,No,,34000,httpattritionorgdataloss200605vystar01html,DL0225,,No,Unknown,Unknown,Unknown
+612006,Hotelscom,US,Biz,Tech,Stolen Laptop,CCN,NAA,Outside,Yes,Ernst and Young,243000,httpattritionorgdataloss200606ey04html,DL0226,,EXPE,Unknown,Unknown,Unknown
+612006,Miami Ohio University,US,Edu,Uni,Lost Media,SSN,NAA,Outside,No,,851,httpattritionorgdataloss200606miami02html,DL0227,,No,Unknown,Unknown,Unknown
+612006,YMCA of Greater Providence,US,Biz,Org,Stolen Laptop,CCN,NAA,Outside,No,,65000,httpattritionorgdataloss200606ymca01html,DL0228,,No,Unknown,Unknown,Unknown
+612006,University of Kentucky,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,1300,httpattritionorgdataloss200606uk01html,DL0229,,No,Unknown,Unknown,Unknown
+622006,Ahold USA,US,Biz,Retail,Lost Laptop,SSN,NAA,Inside  Accidental,Yes,Electronic Data Systems Corp,,httpattritionorgdataloss200606sas01html,DL0230,,AHO,Unknown,Unknown,Unknown
+632006,Buckeye Community Health Plan,US,Med,Org,Stolen Laptop,SSN,NAA,Outside,No,,72000,httpattritionorgdataloss200606bhcp01html,DL0231,,No,Unknown,Unknown,Unknown
+632006,Humana Medicare,US,Med,Org,Web,SSN,,Inside  Accidental,No,,17000,httpattritionorgdataloss200606humana01html,DL0232,,HUM,Unknown,Unknown,Unknown
+652006,United States Internal Revenue Service,US,Gov,Fed,Lost Laptop,SSN,NAA,Outside,No,,291,httpattritionorgdataloss200606irs02html,DL0233,,No,Unknown,Unknown,Unknown
+662006,University of Texas El Paso,US,Edu,Uni,Hack,SSN,,Inside  Malicious,No,,4719,httpattritionorgdataloss200606utep01html,DL0234,,No,Unknown,Unknown,Unknown
+672006,Colorado Mental Health Institute,US,Med,Org,Stolen Documents,SSN,NAA,Outside,No,,287,httpattritionorgdataloss200606cmhi01html,DL0485,,No,No,No,No
+682006,University of Michigan Credit Union,US,Edu,Uni,Stolen Documents,PPN,,Outside,No,,5000,httpattritionorgdataloss200606mcu01html,DL0235,,No,Unknown,Unknown,Unknown
+692006,Ohio University,US,Edu,Uni,Hack,SSN,,Outside,No,,70000,httpattritionorgdataloss200606ohiou03html,DL0236,,No,Unknown,Unknown,Unknown
+692006,National Nuclear Safety Administration,US,Gov,Fed,Hack,PPN,,Outside,No,,1500,httpattritionorgdataloss200606nnsa01html,DL0237,,No,Unknown,Unknown,Unknown
+6102006,Nationwide Retirement Systems,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200606nationwide01html,DL0462,,No,No,No,No
+6112006,Denver Election Commission,US,Gov,State,Lost Documents,SSN,NAA,Inside  Accidental,No,,150000,httpattritionorgdataloss200606dec01html,DL0238,,No,Unknown,Unknown,Unknown
+6122006,Fish  Richardson,US,Biz,Law,Stolen Laptop,SSN,NAA,Outside,No,,10,,DL0388,CW0005,No,Unknown,Unknown,Unknown
+6132006,KDDI,JP,Biz,Tech,Hack,NAA,DOB,Outside,No,,4000000,httpattritionorgdataloss200606kddi01html,DL0239,,KDDIFPK,Unknown,Unknown,Unknown
+6132006,State of Minnesota,US,Gov,State,Stolen Laptop,SSN,,Outside,No,,,httpattritionorgdataloss200606mn01html,DL0240,,No,Unknown,Unknown,Unknown
+6132006,Hanford Nuclear Reservation,US,Gov,Fed,Fraud  SE,SSN,,Inside  Malicious,No,,4000,httpattritionorgdataloss200606hanford01html,DL0241,,No,Unknown,Unknown,Unknown
+6132006,Oregon Department of Revenue,US,Gov,State,Hack,SSN,NAA,Inside  Accidental,No,,2200,httpattritionorgdataloss200606oregon01html,DL0242,,No,Unknown,Unknown,Unknown
+6142006,American International Group,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,No,,969000,httpattritionorgdataloss200606aig01html,DL0243,,AIG,No,No,No
+6162006,Union Pacific,US,Biz,Ind,Stolen Computer,SSN,NAA,Outside,No,,30000,httpattritionorgdataloss200606up01html,DL0244,,UNP,Unknown,Unknown,Unknown
+6162006,New York State Comptrollers Office,US,Gov,State,Lost Tape,SSN,NAA,Outside,No,,1300,httpattritionorgdataloss200606nyco01html,DL0245,,No,Unknown,Unknown,Unknown
+6172006,Western Illinois University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,240000,httpattritionorgdataloss200606wiu01html,DL0246,,No,Unknown,Unknown,Unknown
+6172006,Automatic Data Processing,US,Biz,Data,Email,SSN,NAA,Inside  Accidental,No,,80,httpattritionorgdataloss200606adpi01html,DL0247,,ADP,Unknown,Unknown,Unknown
+6182006,ING US Financial Services,US,Biz,Fin,Stolen Laptop,SSN,,Outside,No,,13000,httpattritionorgdataloss200606ing01html,DL0248,,ING,Unknown,Unknown,Unknown
+6202006,Equifax Inc,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,2500,httpattritionorgdataloss200606equifax02html,DL0249,,EFX,Unknown,Unknown,Unknown
+6202006,University of Alabama Birmingham,US,Edu,Uni,Stolen Computer,SSN,MED,Outside,No,,9800,httpattritionorgdataloss200606uab01html,DL0250,,No,Unknown,Unknown,Unknown
+6202006,New Jersey Department of Labor and Workforce Development,US,Gov,State,Snail Mail,SSN,NAA,Inside  Accidental,No,,498,httpattritionorgdataloss200606njlabor01html,DL0488,,No,No,No,No
+6212006,Cumberland County Emergency Medical Services,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,24000,httpattritionorgdataloss200606ccems01html,DL0251,,No,Unknown,Unknown,Unknown
+6222006,United States Department of Agriculture,US,Gov,Fed,Hack,SSN,NAA,Outside,No,,26000,httpattritionorgdataloss200606usda01html,DL0252,,No,Unknown,Unknown,Unknown
+6222006,Federal Trade Commission,US,Gov,Fed,Stolen Laptop,SSN,ACC,Outside,No,,110,httpattritionorgdataloss200606ftc01html,DL0253,,No,Unknown,Unknown,Unknown
+6222006,University of Kentucky,US,Edu,Uni,Stolen Media,SSN,,Outside,No,,6500,httpattritionorgdataloss200606uk02html,DL0487,,No,No,No,No
+6232006,San Francisco State University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200606sfsu01html,DL0254,,No,Unknown,Unknown,Unknown
+6232006,United States Navy,US,Gov,Fed,Web,SSN,NAA,Inside  Accidental,No,,28000,httpattritionorgdataloss200606usnavy01html,DL0255,,No,Unknown,Unknown,Unknown
+6242006,Catawba County Schools,US,Edu,HS,Web,SSN,,Inside  Accidental,No,,619,httpattritionorgdataloss200606catawba01html,DL0256,,No,Unknown,Unknown,Unknown
+6242006,Social Security Administration,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,228,httpattritionorgdataloss200606ssa01html,DL0521,,No,No,No,No
+6262006,Australian High Tech Crime Centre,AU,Gov,Fed,Lost Media,ACC,NAA,Outside,No,,3500,httpattritionorgdataloss200606ahtcc01html,DL0257,,No,Unknown,Unknown,Unknown
+6262006,King County Elections,US,Gov,County,Web,SSN,,Inside  Accidental,No,,,httpattritionorgdataloss200606kingco01html,DL0258,,No,Unknown,Unknown,Unknown
+6272006,HSBC,GB,Biz,Fin,Fraud  SE,ACC,,Inside  Malicious,No,,20,httpattritionorgdataloss200606hsbc01html,DL0259,,HBC,Unknown,Unknown,Unknown
+6272006,Government Accountability Office,US,Gov,Fed,Web,SSN,NAA,Inside  Accidental,No,,1000,httpattritionorgdataloss200606gao01html,DL0260,,No,Unknown,Unknown,Unknown
+6272006,AAAAA RentASpace,US,Biz,Retail,Hack,SSN,CCN,Outside,No,,13000,httpattritionorgdataloss200606aaaaa01html,DL0261,,No,Unknown,Unknown,Unknown
+6282006,Minnesota Department of Revenue,US,Gov,State,Lost Media,FIN,,Outside,No,,2400,httpattritionorgdataloss200606mdr01html,DL0262,,No,Unknown,Unknown,Unknown
+6292006,Allstate,US,Biz,Fin,Stolen Computer,SSN,FIN,Outside,No,,27000,httpattritionorgdataloss200606allstate01html,DL0263,,ALL,Unknown,Unknown,Unknown
+6292006,Nebraska Treasurers Office,US,Gov,State,Hack,SSN,NAA,Outside,No,,300000,httpattritionorgdataloss200606nto01html,DL0264,,No,Unknown,Unknown,Unknown
+6292006,NatInstitutes of Health Federal Credit Union,US,Gov,Fed,,,,Outside,No,,41000,httpattritionorgdataloss200606nihfcu01html,DL0265,,No,Unknown,Unknown,Unknown
+6302006,US Department of Veterans Affairs,US,Gov,Fed,Lost Tape,SSN,,Outside,No,,16000,httpattritionorgdataloss200606dva04html,DL0266,,No,Unknown,Unknown,Unknown
+6302006,Washington Regional Medical Center,US,Med,Hos,Stolen Laptop,,,Outside,No,,5000,httpattritionorgdataloss200606wrmc01html,DL0465,,No,No,No,No
+712006,American Red Cross,US,Biz,Org,Stolen Laptop,SSN,MED,Outside,No,,,httpattritionorgdataloss200607arc02html,DL0267,,No,Unknown,Unknown,Unknown
+752006,Bisys Group Inc,US,Biz,Fin,Lost Tapes,SSN,FIN,Outside,No,,61000,httpattritionorgdataloss200607bisys01html,DL0268,,BSG,Unknown,Unknown,Unknown
+762006,Automatic Data Processing,US,Biz,Data,Fraud  SE,FIN,NAA,Outside,No,,,httpattritionorgdataloss200607adp02html,DL0269,,ADP,Unknown,Unknown,Unknown
+762006,University of Tennessee,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,36000,httpattritionorgdataloss200607ut01html,DL0270,,No,Unknown,Unknown,Unknown
+772006,Hattiesburg City Hall,US,Gov,City,Stolen Disk Drive,SSN,NAA,Outside,No,,,httpattritionorgdataloss200607hatties01html,DL0271,,No,No,No,No
+772006,National Association of Securities Dealers,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,73,httpattritionorgdataloss200607nasd01html,DL0272,,No,Unknown,Unknown,Unknown
+772006,United States Navy,US,Gov,Fed,Web,SSN,,Outside,No,,100000,httpattritionorgdataloss200607usnavy02html,DL0273,,No,Unknown,Unknown,Unknown
+772006,Montana Public Health and Human Services,US,Gov,State,Stolen Computer,,,Outside,No,,,httpattritionorgdataloss200607montana01html,DL0274,,No,Unknown,Unknown,Unknown
+7132006,Moraine Park Technical College,US,Edu,Uni,Lost Media,SSN,NAA,Outside,No,,1500,httpattritionorgdataloss200607mptc01html,DL0275,,No,Unknown,Unknown,Unknown
+7142006,University of Iowa,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,280,httpattritionorgdataloss200607iowau01html,DL0276,,No,Unknown,Unknown,Unknown
+7142006,Hampton Circuit Court,US,Gov,County,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200607hampton01html,DL0277,,No,Unknown,Unknown,Unknown
+7142006,Northwestern University,US,Edu,Uni,Hack,SSN,,Outside,No,,17000,httpattritionorgdataloss200607northwestern01html,DL0278,,No,Unknown,Unknown,Unknown
+7162006,Mississippi Secretary of State,US,Gov,State,Web,SSN,,Outside,No,,,httpattritionorgdataloss200607miss01html,DL0279,,No,Unknown,Unknown,Unknown
+7182006,United States Department of Agriculture,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,350,httpattritionorgdataloss200607usda01html,DL0280,,No,Unknown,Unknown,Unknown
+7182006,Nelnet Inc,US,Biz,Data,Lost Tape,,,Outside,Yes,UPS,188000,httpattritionorgdataloss200607nelnet01html,DL0281,,NNI,Unknown,Unknown,Unknown
+7202006,Oasis,GB,Biz,Retail,Disposal  Documents,CCN,NAA,Outside,No,,,httpattritionorgdataloss200607oasis01html,DL0282,,No,Unknown,Unknown,Unknown
+7212006,Special Funds Conservation Committee,US,Gov,State,Stolen Computer,SSN,NAA,Outside,Yes,CS Stars,540000,httpattritionorgdataloss200607csstars01html,DL0283,,No,Yes,No,No
+7212006,BCTGM Local 192 Union,US,Biz,City,Fraud  SE,SSN,,Inside  Accidental,No,,140,,DL0389,CW0006,No,Unknown,Unknown,Unknown
+7242006,New York Department of Homeless Services,US,Gov,State,Email,SSN,NAA,Inside  Accidental,No,,8400,httpattritionorgdataloss200607nycdhs01html,DL0284,,No,Unknown,Unknown,Unknown
+7242006,Wolters Kluwer,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,8500,httpattritionorgdataloss200607kluwer01html,DL0668,,WLSNCAS,Unknown,Unknown,Unknown
+7252006,Georgetown University Hospital,US,Edu,Med,,SSN,NAA,Inside  Accidental,Yes,InstantDX,23000,httpattritionorgdataloss200607guh01html,DL0285,,No,Unknown,Unknown,Unknown
+7252006,Armstrong World Industries,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,Yes,Deloitte  Touche,12000,httpattritionorgdataloss200607armstrong01html,DL0286,,AWI,Unknown,Unknown,Unknown
+7252006,Old Mutual Capital Inc,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,6500,httpattritionorgdataloss200607omc01html,DL0287,,ODMTFPK,Unknown,Unknown,Unknown
+7252006,Cablevision,US,Biz,Tech,Lost Tape,SSN,FIN,Outside,Yes,,13700,httpattritionorgdataloss200607cablevision01html,DL0288,,CVC,Unknown,Unknown,Unknown
+7262006,MD Management,CA,Biz,Med,Stolen Laptop,FIN,,Outside,No,,8000,httpattritionorgdataloss200607mdmgt01html,DL0289,,No,Unknown,Unknown,Unknown
+7262006,United States Navy,US,Gov,Fed,Stolen Laptop,SSN,,Outside,No,,31000,httpattritionorgdataloss200607navy02html,DL0290,,No,Unknown,Unknown,Unknown
+7272006,Kaiser Permanente,US,Med,NFP,Stolen Laptop,,,Outside,No,,160000,httpattritionorgdataloss200607kaiser01html,DL0291,,No,Unknown,Unknown,Unknown
+7272006,Los Angeles County Dept Community Senior Services,US,Gov,County,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200607lacounty01html,DL0292,,No,Unknown,Unknown,Unknown
+7272006,Los Angeles County Community Development Commission,US,Gov,County,Hack,,,Outside,No,,4800,httpattritionorgdataloss200607lacounty01html,DL0293,,No,Unknown,Unknown,Unknown
+7272006,Los Angeles Count Adult Protective Services,US,Gov,County,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200607lacounty01html,DL0294,,No,Unknown,Unknown,Unknown
+7282006,Lancaster General Hospital,US,Med,Hos,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200607lgh01html,DL0295,,No,Unknown,Unknown,Unknown
+7292006,Sentry Insurance,US,Biz,Fin,Fraud  SE,SSN,NAA,Inside  Malicious,No,,112198,httpattritionorgdataloss200607sentry01html,DL0296,,No,Unknown,Unknown,Yes
+812006,Cal Poly,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,3020,httpattritionorgdataloss200608calpoly01html,DL0297,,No,Unknown,Unknown,Unknown
+812006,US Bank,US,Biz,Fin,Stolen Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200608usbank01html,DL0298,,USB,Unknown,Unknown,Unknown
+812006,Dollar Tree,US,Biz,Retail,Fraud  SE,FIN,,Outside,No,,150,httpattritionorgdataloss200608dollartree01html,DL0299,,DLTR,Unknown,Unknown,Yes
+812006,Wichita State University,US,Edu,Uni,Hack,CCN,,Outside,No,,2040,httpattritionorgdataloss200608wsu01html,DL0300,,No,Unknown,Unknown,Unknown
+822006,West Virginia Div of Rehabilitiation Services,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200608wvdrs01html,DL0301,,No,Unknown,Unknown,Unknown
+822006,Belhaven College,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,300,httpattritionorgdataloss200608belhaven01html,DL0302,,No,Unknown,Unknown,Unknown
+822006,Vassar Brothers Medical Center,US,Med,Hos,Stolen Laptop,SSN,DOB,Outside,No,,257800,httpattritionorgdataloss200608vbmc01html,DL0303,,No,Unknown,Unknown,Unknown
+842006,Toyota,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,1500,httpattritionorgdataloss200608toyota01html,DL0304,,TM,Unknown,Unknown,Unknown
+842006,Matrix Bancorp Inc,US,Biz,Fin,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200608matrix01html,DL0305,,UWBK,Unknown,Unknown,Unknown
+842006,PSA HealthCare,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,51000,httpattritionorgdataloss200608psa01html,DL0306,,PSAI,Unknown,Unknown,Unknown
+882006,US Department of Veterans Affairs,US,Gov,Fed,Stolen Computer,SSN,NAA,Outside,Yes,Unisys,38000,httpattritionorgdataloss200608unisys01html,DL0307,,No,Unknown,Unknown,Unknown
+882006,Virginia Bureau of Insurance,US,Gov,State,Web,SSN,,Inside  Accidental,No,,202000,httpattritionorgdataloss200608vbi01html,DL0308,,No,Unknown,Unknown,Unknown
+882006,Linens n Things,US,Biz,Retail,Disposal  Documents,CCN,NAA,Inside  Accidental,No,,90,httpattritionorgdataloss200608lnt01html,DL0309,,No,Unknown,Unknown,Unknown
+892006,US Department of Transportation,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,133000,httpattritionorgdataloss200608usdot01html,DL0310,,No,Yes,No,Yes
+8112006,Madrona Medical Group,US,Med,Hos,Fraud  SE,SSN,NAA,Inside  Malicious,No,,6000,httpattritionorgdataloss200608madrona01html,DL0311,,No,Unknown,Unknown,Unknown
+8152006,University of Kentucky,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,630,httpattritionorgdataloss200608uk01html,DL0312,,No,Unknown,Unknown,Unknown
+8152006,University of Kentucky Department of Geography,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,80,httpattritionorgdataloss200608uk01html,DL0313,,No,Unknown,Unknown,Unknown
+8162006,Chevron,US,Biz,Ind,Stolen Laptop,SSN,,Outside,Yes,,,httpattritionorgdataloss200608chevron01html,DL0314,,CVX,Unknown,Unknown,Unknown
+8172006,WilliamsSonoma,US,Biz,Retail,Stolen Laptop,SSN,FIN,Outside,Yes,Deloitte  Touche,1200,httpattritionorgdataloss200608ws01html,DL0315,,WSM,Unknown,Unknown,Unknown
+8172006,HCA Inc,US,Med,Ins,Stolen Computer,SSN,NAA,Outside,No,,7000,httpattritionorgdataloss200608hca01html,DL0316,,No,Unknown,Unknown,Unknown
+8182006,California Department of Mental Health,US,Gov,Med,Lost Tape,SSN,NAA,Outside,No,,9468,httpattritionorgdataloss200608cdmh01html,DL0317,,No,Unknown,Unknown,Unknown
+8222006,Aflac,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,612,httpattritionorgdataloss200608aflac01html,DL0318,,AFL,Unknown,Unknown,Unknown
+8222006,Beaverton School District,US,Edu,HS,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,1600,httpattritionorgdataloss200608bsd01html,DL0319,,No,Unknown,Unknown,Unknown
+8222006,Troy Beaumont Hospital,US,Med,Hos,Stolen Laptop,SSN,MED,Outside,No,,28473,httpattritionorgdataloss200608tbh01html,DL0320,,No,Unknown,Unknown,Unknown
+8232006,United States Department of Education,US,Gov,Fed,Web,SSN,NAA,Inside  Accidental,Yes,Affiliated Computer Services,21000,httpattritionorgdataloss200608usde01html,DL0321,,No,Unknown,Unknown,Unknown
+8252006,Federal Motor Carrier Safety Administration,US,Gov,Fed,Stolen Laptop,NAA,DOB,Outside,No,,193,httpattritionorgdataloss200608fmcsa01html,DL0322,,No,Unknown,Unknown,Unknown
+8252006,Dominion Resources,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,1700,httpattritionorgdataloss200608dominion01html,DL0323,,D,No,No,No
+8252006,Sovereign Bank,US,Biz,Fin,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200608sovereign01html,DL0324,,SOV,Unknown,Unknown,Unknown
+8252006,Verizon Wireless,US,Biz,Tech,Email,NAA,,Inside  Accidental,No,,5000,httpattritionorgdataloss200608verizon01html,DL0325,,VZ,Unknown,Unknown,Unknown
+8262006,PortTix,US,Biz,Retail,Hack,CCN,,Outside,No,,2000,httpattritionorgdataloss200608porttix01html,DL0326,,No,Unknown,Unknown,Unknown
+8262006,University of South Carolina,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,6000,httpattritionorgdataloss200608usc01html,DL0327,,No,Unknown,Unknown,Unknown
+8272006,New Mexico Administrative Office of the Courts,US,Gov,State,Web,SSN,NAA,Inside  Accidental,No,,1500,httpattritionorgdataloss200608nmaoc01html,DL0328,,No,Unknown,Unknown,Unknown
+8292006,ATT,US,Biz,Ind,Hack,CCN,,Outside,No,,19000,httpattritionorgdataloss200608att01html,DL0329,,T,Unknown,Unknown,Unknown
+8292006,Compass Health,US,Med,Hos,Stolen Laptop,SSN,,Outside,No,,8000,httpattritionorgdataloss200608compass01html,DL0330,,No,Unknown,Unknown,Unknown
+8292006,United States Department of Education,US,Gov,Fed,Stolen Laptop,SSN,,Outside,No,,43,httpattritionorgdataloss200608usdoe02html,DL0331,,No,Unknown,Unknown,Unknown
+8292006,Valley Baptist Medical Center,US,Med,Hos,Web,SSN,NAA,Inside  Accidental,No,,73,httpattritionorgdataloss200608valley01html,DL0332,,No,Unknown,Unknown,Unknown
+8312006,LabCorp,US,Biz,Med,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200608labcorp01html,DL0333,,LH,Unknown,Unknown,Unknown
+8312006,Dominos Pizza,CA,Biz,Retail,Disposal  Documents,CCN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200608dominos01html,DL0334,,DPZ,Unknown,Unknown,Unknown
+912006,Virginia Commonwealth University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,2100,httpattritionorgdataloss200609vcu01html,DL0335,,No,Unknown,Unknown,Unknown
+912006,City of Chicago,US,Gov,City,Stolen Laptop,SSN,NAA,Outside,Yes,Nationwide Retirement Solutions,38443,httpattritionorgdataloss200609chicago01html,DL0336,,No,Unknown,Unknown,Unknown
+912006,Wells Fargo,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,Yes,,,httpattritionorgdataloss200609wells01html,DL0337,,WFC,Unknown,Unknown,Unknown
+962006,Transportation Security Administration,US,Gov,Fed,Snail Mail,SSN,DOB,Inside  Accidental,Yes,,1195,httpattritionorgdataloss200609tsa01html,DL0338,,No,Unknown,Unknown,Unknown
+972006,Chase Card Services,US,Biz,Fin,Disposal  Tapes,SSN,,Inside  Accidental,No,,2500000,httpattritionorgdataloss200609chase01html,DL0339,,JPM,Unknown,Unknown,Unknown
+972006,Florida National Guard,US,Gov,State,Stolen Laptop,SSN,,Outside,No,,100,httpattritionorgdataloss200609fng01html,DL0340,,No,Unknown,Unknown,Unknown
+982006,BMO Bank of Montreal,CA,Biz,Fin,Stolen Laptop,,,Outside,No,,900,httpattritionorgdataloss200609bmo01html,DL0341,,BMO,No,No,No
+982006,Linden Lab  Second Life,US,Biz,Tech,Hack,NAA,FIN,Outside,No,,648420,httpattritionorgdataloss200609secondlife01html,DL0342,,No,No,No,No
+982006,University of Minnesota,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,13084,httpattritionorgdataloss200609uminn01html,DL0343,,No,No,No,No
+982006,Cleveland Clinic,US,Med,Hos,Fraud  SE,SSN,MED,Inside  Malicious,No,,1130,httpattritionorgdataloss200609cleveland01html,DL0344,,No,Yes,No,Yes
+9112006,Telesource,US,Biz,Ind,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200609telesource01html,DL0345,,TSCIPK,Yes,No,No
+9122006,City of Paris Kentucky,US,Gov,City,Lost Media,SSN,NAA,Inside  Accidental,No,,100,httpattritionorgdataloss200609paris01html,DL0426,,No,No,No,No
+9132006,American Family Insurance,US,Biz,Fin,Stolen Laptop,SSN,,Outside,No,,2000,httpattritionorgdataloss200609afi01html,DL0347,,TMK,No,No,No
+9142006,Nikon Inc,US,Biz,Tech,Web,CCN,NAA,Inside  Accidental,No,,3235,httpattritionorgdataloss200609nikon01html,DL0348,,NINOFPK,No,No,No
+9142006,Illinois Department of Corrections,US,Gov,State,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,16500,httpattritionorgdataloss200609idoc01html,DL0349,,No,No,No,No
+9152006,Mercy Medical Center Merced,US,Med,Hos,Lost Media,SSN,NAA,Inside  Accidental,No,,295,httpattritionorgdataloss200609mmc01html,DL0350,,No,No,No,No
+9152006,University of Texas at San Antonio,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,64000,httpattritionorgdataloss200609utsa01html,DL0351,,No,No,No,No
+9152006,Berks County Pennsylvania,US,Gov,County,Web,SSN,NAA,Inside  Accidental,No,,25000,httpattritionorgdataloss200609berks01html,DL0361,,No,No,No,No
+9152006,Scotland Post Office Royal Bank of Scotland,GB,Gov,Country,Disposal  Documents,SSN,ACC,Inside  Accidental,No,,,httpattritionorgdataloss200609rbs01html,DL0362,,No,No,No,No
+9162006,Howard Rice,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,Yes,Morris Davis Chan,500,httpattritionorgdataloss200609rice01html,DL0352,,No,No,No,No
+9162006,Michigan Department of Community Health,US,Gov,State,Lost Media,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200609mdch01html,DL0356,,No,No,No,No
+9172006,Direct Loan,US,Biz,Fin,Web,SSN,,Inside  Accidental,No,,21000,httpattritionorgdataloss200609direct01html,DL0354,,No,No,No,No
+9172006,Whistle Junction,US,Biz,Retail,Disposal  Documents,SSN,,Inside  Accidental,No,,,httpattritionorgdataloss200609whistlejunction01html,DL0355,,No,No,No,No
+9182006,DePaul Medical Center,US,Med,Hos,Stolen Computer,,,Outside,No,,100,httpattritionorgdataloss200609depaul01html,DL0357,,No,No,No,No
+9192006,Life Is Good,US,Biz,Retail,Hack,CCN,,Outside,No,,9250,httpattritionorgdataloss200609lifeisgood01html,DL0358,,No,No,No,No
+9202006,Berry College,US,Edu,Uni,Lost Documents,SSN,NAA,Inside  Accidental,No,,2093,httpattritionorgdataloss200609berry01html,DL0359,,No,No,No,No
+9202006,City of Savannah,US,Gov,City,Web,SSN,NAA,Inside  Accidental,No,,8800,httpattritionorgdataloss200609savannah01html,DL0360,,No,No,No,No
+9212006,Pima County Health Department,US,Gov,County,Fraud  SE,NAA,DOB,Outside,No,,2500,httpattritionorgdataloss200609pchd01html,DL0363,,No,No,No,No
+9222006,University of Colorado at Boulder,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,1372,httpattritionorgdataloss200609ucb01html,DL0364,,No,No,No,No
+9222006,Purdue University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,2482,httpattritionorgdataloss200609purdue01html,DL0365,,No,No,No,No
+9232006,Allstate Canada Inc,CA,Biz,Ins,Fraud  SE,,,Outside,No,,70,httpattritionorgdataloss200609allstate01html,DL0366,,No,No,No,No
+9232006,Erlanger Hospital,US,Med,Hos,Lost Media,SSN,NAA,Inside  Accidental,No,,4150,httpattritionorgdataloss200609erlanger01html,DL0367,,No,No,No,No
+9242006,Nagasaki University Hospital of Medicine and Dentistry,JP,Med,Hos,Stolen Laptop,NAA,MED,Outside,No,,9000,httpattritionorgdataloss200609nagasaki01html,DL0368,,No,No,No,No
+9252006,General Electric,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,50000,httpattritionorgdataloss200609ge01html,DL0369,,GE,No,Yes,No
+9272006,America Online,US,Biz,Tech,Web,CCN,ACC,Outside,No,,,httpattritionorgdataloss200609aol01html,DL0370,,TWX,No,No,Yes
+9282006,North Carolina Department of Motor Vehicles,US,Gov,State,Stolen computer,SSN,NAA,Outside,No,,16000,httpattritionorgdataloss200609ncdmv01html,DL0371,,No,No,No,No
+9292006,State of Kentucky,US,Gov,State,Snail Mail,SSN,NAA,Inside  Accidental,Yes,Bluegrass Mailing,146000,httpattritionorgdataloss200609kentucky01html,DL0373,,No,No,No,No
+9292006,University of Iowa,US,Edu,Uni,Hack,SSN,,Outside,No,,14500,httpattritionorgdataloss200609ui01html,DL0390,,No,No,No,No
+1022006,SeattleTacoma International Airport,US,Gov,Fed,Lost Media,SSN,NAA,Inside  Accidental,No,,6939,httpattritionorgdataloss200610seattle01html,DL0391,,No,No,No,No
+1032006,Cumberland County Pennsylvania,US,Gov,County,Web,SSN,,Inside  Accidental,No,,1200,httpattritionorgdataloss200610cumberland01html,DL0396,,No,No,No,No
+1052006,Statistics Canada,CA,Gov,Fed,Disposal  Documents,NAA,FIN,Inside  Accidental,No,,75,httpattritionorgdataloss200610edmonton01html,DL0404,,No,Yes,No,No
+1052006,Capistrano Unified School District,US,Edu,City,Stolen Computers,SSN,NAA,Outside,No,,,httpattritionorgdataloss200610cusd01html,DL0406,,No,No,No,No
+1062006,Cleveland Air Route Traffic Control Center,US,Gov,Fed,Stolen Disk Drive,SSN,NAA,Outside,No,,400,httpattritionorgdataloss200610clevatc01html,DL0405,,No,No,No,No
+1062006,Camp Pendleton Marine Corps Base,US,Gov,Fed,Stolen Laptop,,,Outside,No,,2400,httpattritionorgdataloss200610pendleton01html,DL0414,,No,No,No,No
+1092006,Troy Athens High School,US,Edu,HS,Stolen Disk Drive,SSN,NAA,Outside,No,,,httpattritionorgdataloss200610troy01html,DL0415,,No,No,No,No
+10112006,Florida Department of Labor,US,Gov,State,Web,SSN,NAA,Inside  Accidental,No,,4624,httpattritionorgdataloss200610fdol01html,DL0416,,No,No,No,No
+10112006,Adams State College,US,Edu,Uni,Stolen Laptop,,,Outside,No,,184,httpattritionorgdataloss200610adams01html,DL0417,,No,No,No,No
+10122006,Brock University,CA,Edu,Uni,Hack,NAA,DOB,Outside,No,,70000,httpattritionorgdataloss200610brock01html,DL0418,,No,No,No,No
+10122006,University of Texas at Arlington,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,2500,httpattritionorgdataloss200610uta01html,DL0419,,No,No,No,No
+10132006,Ohio Ethics Commission,US,Gov,State,Disposal  Documents,SSN,FIN,Inside  Accidental,No,,,httpattritionorgdataloss200610oec01html,DL0420,,No,Partial,No,No
+10172006,City of Visalia California,US,Gov,City,Disposal  Documents,SSN,,Inside  Accidental,No,,200,httpattritionorgdataloss200610visalia01html,DL0431,,No,Partial,No,No
+10182006,Germanton Elementary School,US,Edu,Elem,Stolen Computer,SSN,,Outside,No,,,httpattritionorgdataloss200610germanton01html,DL0432,,No,No,No,No
+10202006,TMobile,US,Biz,Tech,Lost Laptop,SSN,NAA,Outside,No,,43000,httpattritionorgdataloss200610tmobile01html,DL0433,,No,No,No,No
+10202006,Allina Hospitals and Clinics,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,33000,httpattritionorgdataloss200610allina01html,DL0434,,No,No,No,No
+10232006,St Francis Hospital,US,Med,Hos,Lost Media,SSN,NAA,Outside,Yes,Advanced Receivable Strategy,260000,httpattritionorgdataloss200610stfrancis01html,DL0441,,No,No,Yes,No
+10242006,Chicago Board of Election,US,Gov,City,Web,SSN,DOB,Outside,No,,780000,httpattritionorgdataloss200610cboe01html,DL0442,,No,No,No,No
+10252006,Swedish Medical Center,US,Med,Hos,Fraud  SE,SSN,NAA,Inside  Malicious,No,,1100,httpattritionorgdataloss200610smc01html,DL0443,,No,No,No,No
+10252006,Department of Homeland Security,US,Gov,Fed,Lost Media,,,Inside  Accidental,No,,900,httpattritionorgdataloss200610dhs01html,DL0444,,No,No,No,No
+10262006,Ontario Science Centre,CA,Edu,NFP,Stolen Laptop,CCN,NAA,Outside,No,,,httpattritionorgdataloss200610ontariosc01html,DL0445,,No,No,No,No
+10262006,Colorado Department of Human Services,US,Gov,State,Stolen Computer,SSN,,Outside,No,Affiliated Computer Services,1400000,httpattritionorgdataloss200610codhs01html,DL0446,,No,No,No,No
+10262006,Childrens Hospital,US,Med,Hos,Hack,SSN,MED,Outside,No,,242000,httpattritionorgdataloss200610childrens01html,DL0447,,No,No,No,No
+10262006,Tuscarawas County Ohio,US,Gov,County,Web,SSN,NAA,,Yes,LexisNexis,,httpattritionorgdataloss200610tusca01html,DL0448,,No,No,No,No
+10272006,Gymboree,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,No,,20000,httpattritionorgdataloss200610gymboree01html,DL0449,,GYMB,No,No,No
+10282006,Hancock Askew  Co LLP,US,Biz,Fin,Stolen Laptop,FIN,,Outside,No,,,httpattritionorgdataloss200610hac01html,DL0450,,No,No,No,No
+1112006,US Army Cadet Command,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,4600,httpattritionorgdataloss200611uacc01html,DL0451,,No,No,No,No
+1122006,Manhattan Veterans Affairs Medical Center,US,Gov,Fed,Stolen Computer,SSN,NAA,Outside,No,,1600,httpattritionorgdataloss200611mvamc01html,DL0452,,No,No,No,No
+1122006,Muskogee Veterans Affairs Hospital,US,Gov,Fed,Lost Media,SSN,NAA,,No,,1400,httpattritionorgdataloss200611mvah01html,DL0453,,No,No,No,No
+1122006,Greater Media Inc,US,Biz,Media,Stolen Laptop,SSN,,Outside,No,,,httpattritionorgdataloss200611gmo01html,DL0454,,No,No,No,No
+1122006,Villanova University,US,Edu,Uni,Stolen Laptop,NAA,DOB,Outside,Yes,Hilb Rogal  Hobbs,1243,httpattritionorgdataloss200611villanova01html,DL0456,,No,No,No,No
+1132006,University of Virginia,US,Edu,Uni,Email,SSN,NAA,Inside  Accidental,No,,632,httpattritionorgdataloss200611uva01html,DL0457,,No,No,No,No
+1132006,West Shore Bank,US,Biz,Fin,Fraud  SE,CCN,,Outside,No,,1000,httpattritionorgdataloss200611westshore01html,DL0458,,No,No,No,No
+1132006,Starbucks,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,No,,60000,httpattritionorgdataloss200611starbucks01html,DL0459,,SBUX,No,No,No
+1132006,Intermountain Healthcare,US,Med,Hos,Disposal  Disk Drive,SSN,NAA,Inside  Accidental,No,,6244,httpattritionorgdataloss200611intermountain01html,DL0460,,No,Yes,No,No
+1132006,Wesco,US,Biz,Retail,Fraud  SE,CCN,,Outside,No,,,httpattritionorgdataloss200611wesco01html,DL0464,,WCC,No,No,No
+1162006,Bowling Green Ohio Police Department,US,Gov,City,Web,SSN,NAA,Inside  Accidental,No,,200,httpattritionorgdataloss200611bgopdhtml,DL0463,,No,No,No,No
+1172006,City of Lubbock Texas,US,Gov,City,Hack,SSN,,Inside  Accidental,No,,5800,httpattritionorgdataloss200611lubbock01html,DL0466,,No,No,No,No
+1192006,Calgary Health Region,CA,Med,Hos,Stolen Laptop,NAA,MED,Outside,No,,1000,httpattritionorgdataloss200611chr01html,DL0470,,No,No,No,No
+11102006,Los Alamos National Laboratory,US,Gov,Fed,Lost Media,,,Inside  Accidental,Yes,KSL Services Inc,1000,httpattritionorgdataloss200611lanl01html,DL0471,,No,No,No,No
+11102006,ARCO,US,Biz,Retail,Fraud  SE,CCN,,Outside,No,,440,httpattritionorgdataloss200611arco01html,DL0472,,No,No,No,No
+11112006,Hertz Global Holdings Inc,US,Biz,Ind,Fraud  SE,SSN,NAA,Outside,No,,44309,httpattritionorgdataloss200611hertz01html,DL0473,,HTZ,Yes,No,No
+11142006,Connors State College,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,22500,httpattritionorgdataloss200611conn01html,DL0474,,No,Yes,No,Yes
+11152006,Boeing Co,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,762,httpattritionorgdataloss200611boeing04html,DL0522,,BA,No,No,No
+11172006,Jefferson College of Health Sciences,US,Edu,Uni,Email,SSN,NAA,Inside  Accidental,No,,143,httpattritionorgdataloss200611jchs01html,DL0479,,No,No,No,No
+11202006,New York City Administration for Childrens Services,US,Gov,City,Disposal  Documents,NAA,DOB,Inside  Accidental,No,,,httpattritionorgdataloss200611acs01html,DL0480,,No,Yes,No,No
+11212006,Scotland Yard,GB,Gov,Fed,Stolen Laptop,SSN,FIN,Outside,Yes,LogicaCMG,15000,httpattritionorgdataloss200611logicacmg01html,DL0481,,No,No,No,No
+11252006,Indiana Department of Health,US,Gov,State,Stolen Computers,SSN,NAA,Outside,No,,7500,httpattritionorgdataloss200611idh01html,DL0482,,No,No,No,No
+11272006,Chicago Public Schools,US,Edu,State,Snail Mail,SSN,NAA,Inside  Accidental,Yes,All Printing  Graphics Inc,1740,httpattritionorgdataloss200611cps01html,DL0489,,No,No,Yes,No
+11272006,Greenville South Carolina County School District,US,Edu,County,Disposal  Computers,SSN,DOB,Inside  Accidental,No,,100000,httpattritionorgdataloss200611gcsd01html,DL0490,,No,Partial,No,No
+11272006,Johnston County North Carolina,US,Gov,County,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200611jcnc01html,DL0491,,No,No,No,No
+11282006,Kaiser Permanente Colorado,US,Med,NFP,Stolen Laptop,MED,NAA,Outside,No,,38000,httpattritionorgdataloss200611kais01html,DL0492,,No,No,No,No
+11292006,California State University Los Angeles,US,Edu,Uni,Stolen Media,SSN,NAA,Outside,No,,2882,httpattritionorgdataloss200611csula01html,DL0493,,No,No,No,No
+11302006,Pennsylvania Department of Transportation,US,Gov,State,Stolen Computers,SSN,NAA,Outside,No,,11384,httpattritionorgdataloss200611padot01html,DL0494,,No,No,No,No
+11302006,TransUnion Credit Bureau,US,Biz,Fin,Fraud  SE,SSN,FIN,Outside,No,,1700,httpattritionorgdataloss200611transunion01html,DL0495,,No,No,No,No
+1232006,City of Grand Prairie Texas,US,Gov,City,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200612grandpr01html,DL0496,,No,No,No,No
+1252006,Nassau Community College,US,Edu,Uni,Stolen Documents,SSN,NAA,Inside  Malicious,No,,21000,httpattritionorgdataloss200612nassau01html,DL0497,,No,No,No,No
+1252006,West Virginia Air National Guard,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,1000,httpattritionorgdataloss200612wvng01html,DL0498,,No,No,No,No
+1262006,Premier Bank,US,Biz,Fin,Stolen Documents,ACC,NAA,Outside,No,,1800,httpattritionorgdataloss200612premier01html,DL0499,,No,No,No,No
+1282006,State of Vermont,US,Gov,State,Web,SSN,NAA,Inside  Accidental,Yes,Segal Group,,httpattritionorgdataloss200612vermont01html,DL0500,,No,No,No,No
+1292006,Virginia Commonwealth University,US,Edu,Uni,Email,SSN,NAA,Inside  Accidental,No,,561,httpattritionorgdataloss200612vcu02html,DL0501,,No,No,No,No
+12112006,Independent Living Funds,GB,Gov,Med,Stolen Tape,FIN,NAA,Outside,No,,30000,httpattritionorgdataloss200612ilf01html,DL0502,,No,No,No,No
+12122006,UCLA,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,800000,httpattritionorgdataloss200612ucla02html,DL0504,,No,No,No,No
+12122006,Aetna Inc  Group Health Insurance Inc  Nationwide  Wellpoint,US,Med,Ins,Stolen Tapes,SSN,MED,Outside,Yes,Concentra Preferred Systems,396279,httpattritionorgdataloss200612aetna02html,DL0505,,AET,No,No,No
+12122006,University of Texas at Dallas,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,35000,httpattritionorgdataloss200612utdallas01html,DL0506,,No,No,No,No
+12132006,Boeing Co,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,382000,httpattritionorgdataloss200612boeing01html,DL0507,,BA,Yes,No,No
+12142006,Geisinger Health Systems  Williamson Medical Center  Emory University  Grady Memorial Hospital,US,Med,Org,Stolen Computer,SSN,MED,Outside,Yes,Electronic Registry Systems,64030,httpattritionorgdataloss200612geisinger01html,DL0508,,No,No,No,No
+12142006,Durham NC Public Schools,US,Edu,HS,Hack,SSN,,Inside  Malicious,No,,,httpattritionorgdataloss200612dps01html,DL0509,,No,No,No,No
+12142006,St Vrain Valley School District,US,Edu,HS,Stolen Documents,MED,NAA,Outside,No,,600,httpattritionorgdataloss200612svvsd01html,DL0510,,No,No,No,No
+12152006,University of Colorado at Boulder,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,17500,httpattritionorgdataloss200612ucb02html,DL0511,,No,No,No,No
+12162006,City of Wickliffe Ohio,US,Gov,City,Hack,SSN,NAA,Outside,No,,125,httpattritionorgdataloss200612wickliffe01html,DL0512,,No,No,No,No
+12162006,North Bay Regional Center,US,Med,NFP,Stolen Computers,,,Outside,No,,3000,httpattritionorgdataloss200612nbrc01html,DL0540,,No,No,No,No
+12192006,Mississippi State University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,2400,httpattritionorgdataloss200612msu01html,DL0513,,No,No,No,No
+12202006,Lakeland Library Cooperative,US,Biz,NFP,Web,NAA,EMA,Inside  Accidental,No,,15000,httpattritionorgdataloss200612llc01html,DL0514,,No,No,No,No
+12202006,Big Foot High School WI,US,Edu,HS,Web,SSN,DOB,Inside  Accidental,No,,87,httpattritionorgdataloss200612bfhs01html,DL0515,,No,No,No,No
+12202006,SFX Baseball Inc,US,Biz,Fin,Disposal  Documents,SSN,NAA,Outside,No,,117,httpattritionorgdataloss200612sfx01html,DL0517,,No,Yes,No,No
+12212006,Santa Clara County CA,US,Gov,County,Stolen Computer,SSN,NAA,Outside,No,,2500,httpattritionorgdataloss200612scc01html,DL0516,,No,No,No,Yes
+12222006,United States State Department,US,Gov,Fed,Stolen Documents,SSN,NAA,Outside,No,,700,httpattritionorgdataloss200612usstate01html,DL0518,,No,Yes,No,No
+12222006,Bank of America,US,Biz,Fin,Fraud  SE,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200612boa01html,DL0519,,BAC,No,No,Yes
+12222006,Utah Valley State College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,15000,httpattritionorgdataloss200612uvsc01html,DL0520,,No,No,No,No
+12272006,Deaconess Hospital,US,Med,Hos,Stolen Laptop,SSN,,Outside,No,,128,httpattritionorgdataloss200612deaconess01html,DL0523,,No,No,No,No
+12272006,Montana State University,US,Edu,Uni,Snail Mail,SSN,NAA,Inside  Accidental,No,,259,httpattritionorgdataloss200612mtsu01html,DL0524,,No,No,No,No
+12292006,Wisconsin Department of Revenue,US,Gov,State,Snail Mail,SSN,NAA,Inside  Accidental,Yes,Ripon Community Printers,171000,httpattritionorgdataloss200612wdr01html,DL0525,,No,Partial,No,No
+12292006,KeyCorp,US,Biz,Fin,Stolen Laptop,SSN,,Outside,Yes,,9300,httpattritionorgdataloss200612keycorp01html,DL0526,,KEY,No,No,No
+132007,Academic Magnet High School,US,Edu,HS,Stolen Laptop,,,Outside,No,,500,httpattritionorgdataloss200701amhs01html,DL0527,,No,No,No,No
+142007,Johnston County North Carolina,US,Gov,County,Stolen Laptop,SSN,NAA,Outside,No,,30,httpattritionorgdataloss200701jcnc01html,DL0528,,No,No,No,No
+182007,University of Notre Dame,US,Edu,Uni,Stolen Laptop,SSN,FIN,Outside,No,,,httpattritionorgdataloss200701und01html,DL0529,,No,No,No,No
+182007,Altria  United Technologies  Prudential Financial  Random House,US,Biz,Ind,Stolen Laptops,SSN,NAA,Outside,Yes,Towers Perrin,18000,httpattritionorgdataloss200701towers01html,DL0530,,MO  UTX,No,No,Yes
+1112007,University of Idaho,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200701uidaho01html,DL0531,,No,No,No,No
+1122007,MoneyGram,US,Biz,Fin,Hack,NAA,ACC,Outside,No,,79000,httpattritionorgdataloss200701moneygram01html,DL0532,,MGI,No,No,No
+1132007,North Carolina Department of Revenue,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,30000,httpattritionorgdataloss200701ncrev01html,DL0533,,No,No,No,No
+1162007,University of New Mexico,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,,httpattritionorgdataloss200701unm01html,DL0534,,No,No,No,No
+1172007,Rincon Del Diablo Municipal Water District,US,Gov,City,Stolen Computers,CCN,NAA,Outside,No,,500,httpattritionorgdataloss200701rincon01html,DL0535,,No,No,No,No
+1172007,TJX Companies Inc,US,Biz,Retail,Hack,CCN,NAA,Outside,No,,94000000,httpattritionorgdataloss200701tjx01html,DL0536,,TJX,No,Yes,No
+1182007,Talvest Mutual Funds,CA,Biz,Fin,Lost Media,ACC,NAA,Outside,No,,470000,httpattritionorgdataloss200701talv01html,DL0537,,CM,No,No,No
+1182007,KB Home,US,Biz,Ind,Stolen Computer,SSN,NAA,Outside,No,,2700,httpattritionorgdataloss200701kbhome01html,DL0538,,KBH,No,No,No
+1192007,Internal Revenue Service  Kansas City Government,US,Gov,City,Lost Tapes,,,Outside,No,,,httpattritionorgdataloss200701kc01html,DL0539,,No,No,No,No
+1202007,Greenville South Carolina County School District,US,Edu,County,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200701gcsd01html,DL0545,,No,No,No,No
+1222007,Chicago Board of Election,US,Gov,City,Snail Mail,SSN,NAA,Inside  Accidental,No,,1300000,httpattritionorgdataloss200701cboe02html,DL0541,,No,Partial,Yes,No
+1232007,Xerox,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,297,httpattritionorgdataloss200701xer01html,DL0542,,XRX,No,No,No
+1232007,Clay High School Oregon,US,Edu,US,Hack,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200701clay01html,DL0543,,No,No,No,Yes
+1242007,Rutgers University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,200,httpattritionorgdataloss200701rutg01html,DL0544,,No,No,No,No
+1252007,Ohio Board of Nursing,US,Med,Org,Web,SSN,NAA,Inside  Accidental,No,,3031,httpattritionorgdataloss200701obn01html,DL0546,,No,No,No,No
+1252007,Wahiawa Women Infants and Children,US,Med,Org,Fraud  SE,SSN,,Inside  Malicious,No,,11500,httpattritionorgdataloss200701wic01html,DL0547,,No,No,No,No
+1262007,Indiana Department of Transportation,US,Gov,State,,SSN,NAA,Inside  Accidental,No,,4000,httpattritionorgdataloss200701indot01html,DL0548,,No,No,No,No
+1262007,Vanguard University,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,5105,httpattritionorgdataloss200701vanguard01html,DL0549,,No,No,No,No
+1262007,Anthem Blue Cross Blue Shield,US,Med,Org,Stolen Tapes,SSN,NAA,Outside,No,,50000,httpattritionorgdataloss200701anthem01html,DL0550,,No,No,No,No
+1262007,Chase Bank  Bank One,US,Biz,Fin,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,4100,httpattritionorgdataloss200701chase01html,DL0551,,No,Yes,No,No
+1262007,Eastern Illinois University,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,1400,httpattritionorgdataloss200701eiu01html,DL0552,,No,No,No,No
+1282007,Salina Regional Health Center,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,1100,httpattritionorgdataloss200701salina01html,DL0553,,No,No,No,No
+1292007,Halifax Bank of Scotland,GB,Biz,Fin,Snail Mail,ACC,NAA,Outside,No,,75000,httpattritionorgdataloss200701hbos01html,DL0554,,No,Yes,No,No
+1292007,Vermont Agency of Human Services,US,Gov,State,Hack,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200701vermont01html,DL0555,,No,No,No,No
+212007,Massachusetts Department of Industrial Accidents,US,Gov,State,Fraud  SE,SSN,NAA,Inside  Malicious,No,,1200,httpattritionorgdataloss200702mdia01html,DL0556,,No,No,No,Yes
+222007,San Francisco Indian Consulate,US,Gov,Country,Disposal  Documents,NAA,DOB,Outside,No,,,httpattritionorgdataloss200702sfic01html,DL0557,,No,Yes,No,No
+222007,Wisconsin Legislative Human Resources Office,US,Gov,State,Stolen Documents,SSN,NAA,Outside,No,,150,httpattritionorgdataloss200702wlhro01html,DL0558,,No,No,No,No
+222007,University of Missouri,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1220,httpattritionorgdataloss200702mu01html,DL0559,,No,No,No,No
+222007,New York Department of State,US,Gov,State,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200702nydos01html,DL0560,,No,No,No,No
+222007,Birmingham Veterans Affairs Medical Center,US,Gov,Fed,Stolen Media,SSN,NAA,Outside,No,,1835000,httpattritionorgdataloss200702bvamc01html,DL0561,,No,No,Yes,No
+232007,CTS,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,No,,800,httpattritionorgdataloss200702cts01html,DL0562,,No,No,No,No
+262007,New York Department of Labor,US,Gov,State,Stolen Documents,,,Outside,No,,537,httpattritionorgdataloss200702nydol01html,DL0563,,No,No,No,No
+262007,Metro Credit Services,US,Biz,Fin,Disposal  Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200702mcs01html,DL0564,,No,Yes,No,No
+272007,Johns Hopkins Hospital,US,Med,Hos,Lost Tapes,SSN,NAA,Outside,No,,135000,httpattritionorgdataloss200702jhh01html,DL0565,,No,No,No,No
+272007,University of Nebraska Lincoln,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,72,httpattritionorgdataloss200702unl02html,DL0566,,No,No,No,No
+272007,Central Connecticut State University,US,Edu,Uni,Snail Mail,SSN,NAA,Inside  Accidental,No,,750,httpattritionorgdataloss200702ccsu01html,DL0570,,No,No,No,No
+282007,St Marys Hospital,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,130000,httpattritionorgdataloss200702smh01html,DL0567,,No,No,No,No
+282007,Piper Jaffray,US,Biz,Fin,Snail Mail,SSN,NAA,Inside  Accidental,Yes,,1000,httpattritionorgdataloss200702piper01html,DL0574,,PJC,No,No,No
+292007,East Carolina University,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,65000,httpattritionorgdataloss200702ecu01html,DL0568,,No,No,No,No
+292007,Radford University,US,Edu,Uni,Hack,SSN,DOB,Outside,No,,2400,httpattritionorgdataloss200702radford01html,DL0572,,No,No,No,No
+2102007,State of Indiana,US,Gov,State,Hack,CCN,NAA,Outside,No,,76600,httpattritionorgdataloss200702indiana01html,DL0569,,No,No,No,Yes
+2102007,Department for Work and Pensions,GB,Gov,Fed,Snail Mail,ACC,NAA,Inside  Accidental,No,,26000,httpattritionorgdataloss200702dwp01html,DL0571,,No,No,No,No
+2112007,Washington DC Metropolitan Police Department,US,Gov,City,,SSN,,Inside  Accidental,No,,2000,httpattritionorgdataloss200702dcmpd01html,DL0573,,No,No,No,No
+2142007,Kaiser Permanente,US,Med,NFP,Stolen Laptop,MED,SSN,Outside,No,,22000,httpattritionorgdataloss200702kaiser01html,DL0575,,No,No,No,No
+2152007,Iowa Department of Education,US,Gov,State,Hack,SSN,NAA,Outside,No,,160000,httpattritionorgdataloss200702idoe01html,DL0576,,No,No,No,No
+2152007,City College of San Francisco,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,11000,httpattritionorgdataloss200702ccsf01html,DL0577,,No,No,No,No
+2172007,State of Connecticut,US,Gov,State,Web,SSN,NAA,Inside  Accidental,No,,1753,httpattritionorgdataloss200702conn01html,DL0578,,No,No,No,No
+2192007,ClarksvilleMontgomery County Schools,US,Edu,HS,Web,SSN,,Inside  Accidental,No,,633,httpattritionorgdataloss200702cmcs01html,DL0579,,No,No,No,No
+2192007,Seton Family of Hospitals,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,7800,httpattritionorgdataloss200702sfh01html,DL0580,,No,No,No,No
+2192007,Stop  Shop,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200702sns01html,DL0582,,No,No,No,Yes
+2202007,Back and Joint Institute of Texas,US,Med,,Disposal  Documents,SSN,MED,Outside,No,,,httpattritionorgdataloss200702bjit01html,DL0581,,No,Yes,No,No
+2212007,Georgia Tech University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200702gatech01html,DL0583,,No,No,No,No
+2222007,Speedmark,US,Biz,Ind,Stolen Computers,SSN,NAA,Outside,No,,35000,httpattritionorgdataloss200702speedmark01html,DL0584,,No,No,No,No
+2232007,Rabun Apparel,US,Biz,Ind,Web,SSN,NAA,Inside  Accidental,No,,1006,httpattritionorgdataloss200702rabun01html,DL0585,,No,No,No,No
+2232007,Worcestershire County Council,GB,Gov,County,Stolen Laptop,FIN,NAA,Outside,Yes,Serco,16239,httpattritionorgdataloss200702wcc01html,DL0586,,No,No,No,No
+2232007,National Australia Bank,AU,Biz,Fin,Snail Mail,ACC,NAA,Inside  Accidental,No,,397,httpattritionorgdataloss200702nab01html,DL0587,,No,No,No,No
+2242007,Japan Post,JP,Gov,Fed,Stolen Documents,NAA,ACC,Outside,No,,290000,httpattritionorgdataloss200702jpost01html,DL0588,,No,No,No,No
+2282007,Gulf Coast Medical Center,US,Med,Hos,Stolen Computers,SSN,NAA,Outside,No,,9986,httpattritionorgdataloss200702gcmc01html,DL0589,,No,No,No,No
+312007,Tokyo University of Science,JP,Edu,Uni,Stolen Media,NAA,,Outside,No,,8800,httpattritionorgdataloss200703tus01html,DL0590,,No,No,No,No
+312007,The Hospital for Sick Children SickKids,CA,Med,Hos,Stolen Laptop,MED,,Outside,No,,2900,httpattritionorgdataloss200703sickkids01html,DL0591,,No,No,No,No
+312007,Westerly Hospital,US,Med,Hos,Web,SSN,NAA,Outside,No,,2200,httpattritionorgdataloss200703westerly01html,DL0592,,No,No,No,No
+322007,Metropolitan State College of Denver,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,988,httpattritionorgdataloss200703mscd01html,DL0593,,No,No,No,No
+332007,Johnnys Selected Seeds,US,Biz,Retail,Hack,CCN,,Outside,No,,11500,httpattritionorgdataloss200703jss01html,DL0594,,No,No,No,No
+372007,Los Rios Community College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,2000,httpattritionorgdataloss200703losrios01html,DL0595,,No,No,No,No
+372007,United States Census Bureau,US,Gov,Fed,Web,NAA,DOB,Inside  Accidental,No,,,httpattritionorgdataloss200703uscb01html,DL0596,,No,No,No,No
+392007,California National Guard,US,Gov,State,Stolen Media,SSN,NAA,Outside,No,,1300,httpattritionorgdataloss200703cng01html,DL0597,,No,No,No,No
+3102007,University of Idaho,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,2700,httpattritionorgdataloss200703uidaho01html,DL0598,,No,No,No,No
+3122007,Dai Nippon Printing Company,JP,Biz,Ind,Fraud  SE,CCN,NAA,Inside  Malicious,No,,8637405,httpattritionorgdataloss200703dnpc01html,DL0601,,7912T,No,No,Yes
+3142007,Empire Blue Cross Blue Shield  Wellpoint,US,Med,Ins,Lost Media,SSN,NAA,Outside,No,,75000,httpattritionorgdataloss200703empire01html,DL0599,,No,Yes,No,No
+3162007,Springfield Ohio City Schools,US,Edu,HS,Stolen Laptop,SSN,NAA,Outside,Yes,Ohio Auditor of State,1950,httpattritionorgdataloss200703scs01html,DL0600,,No,No,No,No
+3202007,Tax Service Plus,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200703tsp01html,DL0602,,No,No,No,No
+3212007,HSBC Australia,AU,Biz,Fin,Lost Documents,FIN,NAA,Inside  Accidental,No,,100,httpattritionorgdataloss200703hsbc01html,DL0603,,HBC,Yes,No,No
+3232007,Swedish Urology Group,US,Med,,Stolen Media,SSN,MED,Outside,No,,,httpattritionorgdataloss200703sug01html,DL0604,,No,No,No,No
+3242007,Group Health Cooperative Health Care System,US,Med,Hos,Stolen Laptops,SSN,NAA,Outside,No,,31000,httpattritionorgdataloss200703ghc01html,DL0605,,No,No,No,No
+3262007,US Army Training and Doctrine Command,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,16000,httpattritionorgdataloss200703fm01html,DL0606,,No,No,No,No
+3272007,Halifax,GB,Biz,Fin,Stolen Documents,ACC,NAA,Outside,No,,13000,httpattritionorgdataloss200703halifax01html,DL0607,,HX,No,No,No
+3272007,St Mary Parish Schools Louisiana,US,Edu,HS,Web,SSN,,Outside,No,,380,httpattritionorgdataloss200703smp01html,DL0608,,No,No,No,No
+3272007,Nottinghamshire Healthcare,GB,Med,Hos,Stolen Laptop,NAA,DOB,Outside,No,,11500,httpattritionorgdataloss200703nhs01html,DL0609,,No,Yes,No,Yes
+3292007,RadioShack,US,Biz,Retail,Disposal  Documents,CCN,SSN,Outside,No,,,httpattritionorgdataloss200703radioshack01html,DL0610,,RSH,Yes,No,No
+3292007,Los Angeles County Child Support Services,US,Gov,County,Stolen Laptops,SSN,NAA,Outside,No,,243000,httpattritionorgdataloss200703laccss01html,DL0611,,No,No,No,No
+3302007,Navy Station San Diego,US,Gov,Fed,Lost Laptops,SSN,NAA,Outside,No,,,httpattritionorgdataloss200703nssd01html,DL0612,,No,No,No,No
+3302007,University of MontanaWestern,US,Edu,Uni,Stolen Media,SSN,NAA,Outside,No,,400,httpattritionorgdataloss200703umw01html,DL0613,,No,No,No,No
+442007,University of California San Francisco,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,46000,httpattritionorgdataloss200704ucsf01html,DL0614,,No,No,No,No
+452007,DCH Health System,US,Med,Hos,Lost DocumentsMedia,SSN,FIN,Outside,Yes,Mercer Human Resources Consulting,6000,httpattritionorgdataloss200704dch01html,DL0615,,No,No,No,No
+462007,Hortica,US,Biz,Ins,Lost Tapes,SSN,NAA,Outside,Yes,UPS,268000,httpattritionorgdataloss200704hortica01html,DL0616,,No,No,No,No
+462007,Chicago Public Schools,US,Edu,HS,Stolen Laptops,SSN,NAA,Outside,No,,40000,httpattritionorgdataloss200704cps01html,DL0617,,No,No,No,No
+482007,Rogers Communications Inc,CA,Biz,Ind,Disposal  Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200704rogers01html,DL0618,,No,Partial,No,No
+492007,Turbo Tax,US,Biz,Fin,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200704turbotax01html,DL0619,,No,No,No,No
+4102007,Georgia Department of Community Health,US,Gov,State,Lost Media,SSN,NAA,Outside,Yes,Affiliated Computer Services,2900000,httpattritionorgdataloss200704gdoch01html,DL0620,,No,No,No,No
+4112007,ChildNet,US,Biz,NFP,Stolen Laptop,SSN,NAA,Outside,No,,12000,httpattritionorgdataloss200704childnet01html,DL0621,,No,No,No,No
+4112007,New Horizons Community Credit Union,US,Biz,Fin,Stolen Laptop,FIN,,Outside,Yes,Protiviti,9000,httpattritionorgdataloss200704nhccu01html,DL0625,,No,No,No,No
+4122007,Black Hills State University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,56,httpattritionorgdataloss200704bhsu01html,DL0622,,No,No,No,No
+4122007,University of Pittsburgh Medical Center,US,Edu,Med,Web,SSN,NAA,Outside,No,,80,httpattritionorgdataloss200704upmc01html,DL0623,,No,No,No,No
+4122007,Fulton County Georgia,US,Gov,County,Disposal  Documents,SSN,NAA,Outside,No,,75000,httpattritionorgdataloss200704fulton01html,DL0624,,No,No,No,No
+4122007,Bank of America,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200704boa01html,DL0671,,BAC,No,No,No
+4172007,Ohio State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,14094,httpattritionorgdataloss200704osu01html,DL0626,,No,No,No,No
+4172007,CVS Corp,US,Biz,Retail,Disposal  Documents,CCN,NAA,Outside,No,,1000,httpattritionorgdataloss200704cvs01html,DL0627,,CVS,Partial,Yes,No
+4182007,Ohio State University,US,Edu,Uni,Stolen Laptops,SSN,NAA,Outside,No,,3500,httpattritionorgdataloss200704osu02html,DL0628,,No,No,No,No
+4182007,University of California San Francisco,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200704ucsf02html,DL0629,,No,No,No,No
+4192007,New Mexico State University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,5600,httpattritionorgdataloss200704nmsu01html,DL0630,,No,No,No,No
+4202007,Los Alamos National Laboratory,US,Gov,Fed,Web,SSN,NAA,Outside,Yes,Lujan Software Services,550,httpattritionorgdataloss200704lanl01html,DL0631,,No,No,No,No
+4202007,United States Department of Agriculture,US,Gov,Fed,Web,SSN,NAA,Outside,No,,38700,httpattritionorgdataloss200704usadcb02html,DL0632,,No,No,No,No
+4202007,Albertsons,US,Biz,Retail,Hack,CCN,,Outside,No,,100,httpattritionorgdataloss200704albert01html,DL0679,,No,No,No,No
+4232007,Federal Emergency Management Agency,US,Gov,Fed,Snail Mail,SSN,NAA,Inside  Accidental,No,,2300,httpattritionorgdataloss200704fema01html,DL0637,,No,No,No,No
+4242007,The Neiman Marcus Group,US,Biz,Retail,Stolen Computer,SSN,NAA,Outside,No,,160000,httpattritionorgdataloss200704neiman01html,DL0633,,NMGA,No,No,No
+4242007,Baltimore County Department of Health,US,Gov,County,Stolen Laptop,SSN,NAA,Outside,No,,6000,httpattritionorgdataloss200704bcdh01html,DL0634,,No,No,No,No
+4242007,Purdue University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,175,httpattritionorgdataloss200704purdue01html,DL0636,,No,No,No,No
+4262007,Innovation Interactive,US,Biz,Media,Web,FIN,NAA,Outside,Yes,Ceridian Corp,150,httpattritionorgdataloss200704ceridian01html,DL0635,,CEN,No,No,No
+4272007,Caterpillar Inc,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,Yes,SBA Inc,,httpattritionorgdataloss200704cat01html,DL0638,,CAT,No,No,No
+4272007,Couriers On Demand,US,Biz,Ind,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200704cod01html,DL0639,,No,No,No,No
+4292007,University of New Mexico,US,Edu,Uni,Stolen Laptop,FIN,NAA,Outside,No,,3000,httpattritionorgdataloss200704unm02html,DL0640,,No,No,No,No
+512007,JPMorgan Chase,US,Biz,Fin,Lost Tape,SSN,ACC,Outside,No,,47000,httpattritionorgdataloss200705jpchase01html,DL0641,,JPM,No,No,No
+512007,Champaign Fraternal Order of Police,US,Biz,NFP,Disposal  Computers,SSN,NAA,Outside,No,,139,httpattritionorgdataloss200705cfop01html,DL0642,,No,Partial,No,No
+522007,Royal Cornwall Hospitals NHS Trust,GB,Med,Hos,Stolen Computer,FIN,NAA,Outside,No,,10000,httpattritionorgdataloss200705rch01html,DL0643,,No,No,No,No
+522007,Weston Travel and Insurance Agencies,CA,Biz,Ins,Disposal  Documents,CCN,NAA,Outside,No,,,httpattritionorgdataloss200705wtia01html,DL0644,,No,Partial,No,No
+532007,Maryland Department of Natural Resources,US,Gov,State,Lost Media,SSN,NAA,Outside,No,,1400,httpattritionorgdataloss200705mdnr01html,DL0645,,No,No,No,No
+532007,Montgomery College,US,Edu,Uni,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200705montgom01html,DL0646,,No,No,No,No
+532007,Louisiana State University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,750,httpattritionorgdataloss200705lsu01html,DL0647,,No,No,No,No
+542007,United States Transportation Security Administration,US,Gov,Fed,Lost Media,SSN,FIN,Outside,No,,100000,httpattritionorgdataloss200705tsa01html,DL0648,,No,No,Yes,No
+552007,Marks  Spencer,GB,Biz,Retail,Stolen Laptop,FIN,NAA,Outside,Yes,,26000,httpattritionorgdataloss200705marks01html,DL0649,,No,No,No,No
+572007,Indiana Department of Administration,US,Gov,State,Web,SSN,,Inside  Accidental,No,,,httpattritionorgdataloss200705idoa01html,DL0650,,No,No,No,No
+582007,University of Missouri,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,22396,httpattritionorgdataloss200705mu02html,DL0651,,No,No,No,No
+592007,Standard Life,GB,Biz,Ins,Snail Mail,FIN,NAA,Inside  Accidental,No,,300,httpattritionorgdataloss200705sl01html,DL0652,,No,No,No,No
+592007,SEB,SE,Biz,Fin,Hack,CCN,NAA,Outside,No,,10000,httpattritionorgdataloss200705seb01html,DL0654,,No,No,No,No
+5102007,Highland Hospital,US,Med,Hos,Stolen Computer,SSN,NAA,Outside,No,,13000,httpattritionorgdataloss200705highland01html,DL0653,,No,Yes,No,Yes
+5112007,UCI Medical Center,US,Med,Hos,Lost Documents,SSN,NAA,Outside,No,,300,httpattritionorgdataloss200705uci01html,DL0655,,No,No,No,No
+5122007,Goshen College,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,7300,httpattritionorgdataloss200705goshen01html,DL0656,,No,No,No,No
+5142007,Community College of Southern Nevada,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,197518,httpattritionorgdataloss200705ccsn01html,DL0657,,No,No,No,No
+5152007,IBM,US,Biz,Tech,Lost Tapes,SSN,NAA,Outside,Yes,,,httpattritionorgdataloss200705ibm01html,DL0658,,IBM,No,No,No
+5162007,Indianapolis Public Schools,US,Edu,HS,Web,NAA,MED,Outside,No,,7500,httpattritionorgdataloss200705ips01html,DL0659,,No,No,No,No
+5172007,Georgia Department of Human Resources,US,Gov,State,Disposal  Documents,SSN,MED,Outside,No,,140000,httpattritionorgdataloss200705gadhr01html,DL0660,,No,No,No,No
+5172007,AlcatelLucent,US,Biz,Tech,Lost Media,SSN,NAA,Outside,Yes,UPS,,httpattritionorgdataloss200705lucent01html,DL0661,,ALU,No,No,No
+5192007,Stony Brook University,US,Edu,Uni,Web,SSN,,Inside  Accidental,No,,89853,httpattritionorgdataloss200705stony01html,DL0662,,No,No,No,No
+5192007,Illinois Department of Financial and Professional Regulation,US,Gov,State,Hack,SSN,NAA,Outside,No,,300000,httpattritionorgdataloss200705idofapr01html,DL0663,,No,No,No,No
+5192007,Texas Commission on Law Enforcement Officers Standards and Education,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,Yes,Productivity Center Incorporated,97000,httpattritionorgdataloss200705tcleose01html,DL0664,,No,No,Yes,No
+5192007,Yuma Elementary School District 1,US,Edu,HS,Stolen Documents,SSN,,Outside,No,,91,httpattritionorgdataloss200705yuma01html,DL0665,,No,No,No,No
+5202007,Northwestern University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200705nu01html,DL0666,,No,No,No,No
+5202007,Riverside Community Hospital,US,Biz,Med,Disposal  Documents,SSN,MED,Inside  Accidental,No,,10000,httpattritionorgdataloss200705rivers01html,DL0689,,No,Yes,No,No
+5212007,Columbia Bank NJ,US,Biz,Fin,Hack,SSN,,Outside,No,,,httpattritionorgdataloss200705colbnk01html,DL0669,,No,No,No,No
+5222007,University of Pittsburgh Medical Center,US,Edu,Med,Snail Mail,SSN,,Inside  Accidental,No,,6000,httpattritionorgdataloss200705uopmc01html,DL0670,,No,No,No,No
+5222007,University of Colorado at Boulder,US,Edu,Uni,Hack,SSN,,Outside,No,,44998,httpattritionorgdataloss200705cub01html,DL0672,,No,No,No,No
+5232007,Check into Cash,US,Biz,Fin,Disposal  Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200705cic01html,DL0674,,No,No,No,No
+5242007,Waco Independent School District,US,Edu,HS,Hack,SSN,,Outside,No,,17400,httpattritionorgdataloss200705wisd01html,DL0675,,No,No,No,Yes
+5242007,Beacon Medical Services,US,Biz,Med,Web,FIN,MED,Outside,No,,5000,httpattritionorgdataloss200705beacon01html,DL0690,,No,No,No,No
+5252007,North Carolina Department of Transportation,US,Gov,State,Hack,SSN,NAA,Outside,No,,25000,httpattritionorgdataloss200705ncdot01html,DL0676,,No,No,No,No
+5252007,Family Health Plus  Child Health Plus,US,Gov,State,Stolen Laptop,SSN,,Outside,No,,,httpattritionorgdataloss200705cayu01html,DL0678,,No,Yes,No,Yes
+5262007,CoverTN,US,Gov,State,Web,SSN,,Outside,No,,279,httpattritionorgdataloss200705ctn01html,DL0677,,No,No,No,No
+5302007,Saskatoon Health Region,CA,Gov,Med,Disposal  Documents,NAA,MED,Outside,No,,2000,httpattritionorgdataloss200705shr01html,DL0682,,No,Yes,No,No
+5312007,Priority One Credit Union,US,Biz,Fin,Snail Mail,SSN,ACC,Inside  Accidental,No,,,httpattritionorgdataloss200705ponecu01html,DL0687,,No,No,No,No
+612007,Fresno County California,US,Gov,County,Lost Disk,SSN,NAA,Outside,Yes,DHL,10000,httpattritionorgdataloss200706fresno01html,DL0683,,No,No,No,No
+612007,JAX Federal Credit Union,US,Biz,Fin,Web,SSN,ACC,Inside  Accidental,Yes,,7500,httpattritionorgdataloss200706jax01html,DL0684,,No,No,No,No
+612007,Bank of Scotland,GB,Biz,Fin,Lost Media,ACC,NAA,Outside,Yes,Royal Post,62000,httpattritionorgdataloss200706boscothtml,DL0685,,No,No,No,No
+612007,Northwestern University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200706nu01html,DL0686,,No,No,No,No
+632007,Gadsden State Community College,US,Edu,Uni,Disposal  Documents,SSN,MISC,Outside,No,,400,httpattritionorgdataloss200706gads01html,DL0688,,No,Yes,No,No
+642007,Stevens Hospital,US,Med,Hos,Web,SSN,NAA,Outside,No,,550,httpattritionorgdataloss200706stevens01html,DL0691,,No,No,No,No
+662007,Cedarburg High School,US,Edu,HS,Hack,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200706cedar01html,DL0692,,No,No,No,No
+672007,Dearfield Medical Building,US,Med,Hos,Disposal  Documents,NAA,MED,Inside  Accidental,No,,,httpattritionorgdataloss200706dearfieldhtml,DL0693,,No,Yes,No,No
+682007,University of Virginia,US,Edu,Uni,Hack,SSN,,Outside,No,,5735,httpattritionorgdataloss200706uva01html,DL0694,,No,No,No,No
+682007,University of Iowa,US,Edu,Uni,Hack,SSN,,Outside,No,,1100,httpattritionorgdataloss200706uiowa01html,DL0695,,No,No,No,No
+692007,Concordia Hospital,CA,Med,Hos,Stolen Computer,NAA,MED,Outside,No,,3000,httpattritionorgdataloss200706concordia01html,DL0696,,No,No,No,No
+692007,Concord Hospital,US,Med,Hos,Web,SSN,NAA,Outside,Yes,Verus Inc,9297,httpattritionorgdataloss200706concord01html,DL0697,,No,No,No,No
+692007,UPS,US,Biz,Ind,Hack,SSN,NAA,Outside,No,,142,httpattritionorgdataloss200706ups01html,DL0725,,No,No,No,No
+6112007,Pfizer,US,Biz,Med,Hack,SSN,NAA,Inside  Accidental,No,,17000,httpattritionorgdataloss200706pfizer01html,DL0698,,PFE,No,Yes,No
+6112007,Grand Valley State University,US,Edu,Uni,Stolen Media,SSN,,Outside,No,,3000,httpattritionorgdataloss200706gvsu01html,DL0699,,No,No,No,No
+6132007,Eden Project,GB,Biz,NFP,Stolen Laptop,SSN,FIN,Outside,No,,500,httpattritionorgdataloss200706eden01html,DL0700,,No,No,No,No
+6142007,City of Lynchburg,US,Gov,City,Web,MED,,Inside  Accidental,No,,1200,httpattritionorgdataloss200706lynchb01html,DL0701,,No,No,No,No
+6142007,Coastal Community Credit Union,CA,Biz,Fin,Stolen Tapes,SSN,CCN,Outside,Yes,,120000,httpattritionorgdataloss200706cccu01html,DL0702,,No,No,No,No
+6142007,Georgia Tech University,US,Edu,Uni,,NAA,DOB,Outside,No,,23000,httpattritionorgdataloss200706gatech01html,DL0703,,No,No,No,No
+6152007,State of Ohio,US,Gov,State,Stolen Media,SSN,NAA,Outside,No,,1300000,httpattritionorgdataloss200706ohio01html,DL0704,,No,No,No,No
+6182007,Texas AM Corpus Christi,US,Edu,Uni,Lost Media,SSN,NAA,Outside,No,,8000,httpattritionorgdataloss200706tamcc01html,DL0705,,No,Yes,No,No
+6182007,Parisexposedcom,US,Biz,Tech,Web,CCN,NAA,Outside,No,,750,httpattritionorgdataloss200706paris01html,DL0706,,No,No,No,No
+6212007,American Airlines,US,Biz,Ind,Web,SSN,,Inside  Accidental,No,,365,httpattritionorgdataloss200706aa01html,DL0707,,No,No,No,No
+6212007,Tokyo University Hospital,JP,Edu,Hos,Lost Documents,MED,,Outside,No,,120,httpattritionorgdataloss200706tokuh01html,DL0711,,No,No,No,No
+6222007,Texas First Bank,US,Biz,Fin,Stolen Laptop,SSN,ACC,Outside,No,,4000,httpattritionorgdataloss200706tfb01html,DL0710,,No,No,No,No
+6232007,WinnDixie,US,Biz,Retail,Disposal  Documents,SSN,MED,Outside,No,,,httpattritionorgdataloss200706winnd01html,DL0709,,WINN,Yes,No,No
+6252007,Ohio Bureau of Workers Compensation,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,439,httpattritionorgdataloss200706obwc01html,DL0708,,No,No,No,No
+6272007,Milwaukee PC,US,Biz,Tech,,CCN,,Outside,No,,65000,httpattritionorgdataloss200706mpc01html,DL0712,,No,No,No,No
+6272007,Bowling Green State University,US,Edu,Uni,Lost Media,SSN,MISC,Outside,No,,199,httpattritionorgdataloss200706bgsu01html,DL0713,,No,No,No,No
+6272007,University of California Davis,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1120,httpattritionorgdataloss200706ucd01html,DL0714,,No,No,No,No
+6292007,Harrison County Schools West Virginia,US,Edu,HS,Stolen Computers,SSN,,Outside,No,,,httpattritionorgdataloss200706hcswv01html,DL0715,,No,No,No,No
+732007,Fidelity National Information Services,US,Biz,Fin,Fraud  SE,FIN,CCN,Inside  Malicious,Yes,Certegy Check Services Inc,8500000,httpattritionorgdataloss200707fidelity01html,DL0716,,FISN,No,Yes,Yes
+752007,Highland University,US,Edu,Uni,,SSN,CCN,Outside,No,,420,httpattritionorgdataloss200707highland01html,DL0717,,No,No,No,No
+772007,Securitas Security Services USA Inc,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,100000,httpattritionorgdataloss200707secur01html,DL0724,,No,No,No,No
+792007,Resona Bank,JP,Biz,Fin,Lost Documents,ACC,NAA,Outside,No,,980000,httpattritionorgdataloss200707resona01html,DL0718,,No,No,No,No
+792007,Cuyahoga County Department of Development,US,Gov,County,Stolen Media,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200707cuyahoga01html,DL0719,,No,No,No,No
+7112007,Disney Movie Club,US,Biz,Retail,Fraud  SE,CCN,NAA,Inside  Malicious,Yes,Alta Resources,,httpattritionorgdataloss200707disney01html,DL0720,,No,Yes,No,Yes
+7132007,City of Encinitis California,US,Gov,City,Web,FIN,NAA,Outside,No,,1200,httpattritionorgdataloss200707encin01html,DL0721,,No,No,No,No
+7132007,Metropolitan St Louis Sewer District,US,Gov,City,Fraud  SE,SSN,,Inside  Malicious,No,,1600,httpattritionorgdataloss200707msd01html,DL0722,,No,Yes,No,No
+7172007,Western Union,US,Biz,Fin,Hack,CCN,NAA,Outside,No,,20000,httpattritionorgdataloss200707wu01html,DL0723,,WU,No,No,No
+7172007,Louisiana Board of Regents,US,Edu,Uni,Web,SSN,NAA,Outside,No,,80000,httpattritionorgdataloss200707lbr01html,DL0726,,No,No,No,No
+7172007,Kingston Technology Co,US,Biz,Tech,Hack,CCN,NAA,Outside,No,,27000,httpattritionorgdataloss200707kings01html,DL0727,,No,No,No,No
+7182007,Connecticut General Assembly Transportation Committee,US,Gov,State,Web,SSN,NAA,Inside  Accidental,Yes,LG Defelice Inc,100,httpattritionorgdataloss200707conngatc01html,DL0733,,No,No,No,No
+7192007,Jackson Local Schools,US,Edu,HS,Web,SSN,,Outside,No,,1800,httpattritionorgdataloss200707jackson01html,DL0728,,No,No,No,No
+7192007,Texas Secretary of State,US,Gov,State,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200707tsos01html,DL0729,,No,No,No,No
+7192007,Cricket Communications,US,Biz,Tech,Stolen Documents,CCN,,Outside,No,,300,httpattritionorgdataloss200707cricket01html,DL0732,,No,No,No,No
+7202007,SAIC,US,Biz,Tech,,SSN,NAA,Inside  Accidental,No,,867000,httpattritionorgdataloss200707saic01html,DL0730,,SAI,No,No,No
+7212007,University of Michigan,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,5500,httpattritionorgdataloss200707umich01html,DL0731,,No,No,No,No
+7242007,St Vincent Hospital,US,Med,Hos,Web,SSN,NAA,Outside,Yes,Verus Inc,51000,httpattritionorgdataloss200707stvin01html,DL0734,,No,No,No,No
+7242007,Westpac,AU,Biz,Fin,Hack,CCN,NAA,Outside,No,,1400,httpattritionorgdataloss200707westpac02html,DL0973,,No,No,No,No
+7262007,Newcastle City Council,GB,Gov,City,Web,FIN,CCN,Outside,No,,54000,httpattritionorgdataloss200707ncc01html,DL0735,,No,No,No,No
+7262007,United States Marine Corps,US,Gov,Fed,Web,SSN,NAA,Outside,Yes,Penn State University,10554,httpattritionorgdataloss200707marine01html,DL0736,,No,No,No,No
+7262007,Aflac,JP,Biz,Ins,Stolen Laptop,SSN,ACC,Outside,No,,152000,httpattritionorgdataloss200707aflac01html,DL0737,,AFLN,No,No,No
+7272007,American Education Services,US,Biz,NFP,Stolen Laptop,SSN,NAA,Outside,Yes,Vista Financial Inc,5000,httpattritionorgdataloss200707aes01html,DL0738,,No,No,No,No
+7272007,CESA 11,US,Gov,Edu,,SSN,FIN,Outside,No,,300,httpattritionorgdataloss200707cesa01html,DL0739,,No,No,No,No
+7272007,City Harvest,US,Biz,NFP,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200707cityharv01html,DL0740,,No,No,No,No
+7272007,City of Virginia Beach,US,Gov,City,Fraud  SE,SSN,NAA,Inside  Malicious,Yes,Flexible Benefits Administrators,2000,httpattritionorgdataloss200707cvb01html,DL0742,,No,No,No,Yes
+7282007,Yuba County California,US,Gov,County,Stolen Laptop,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200707yuba01html,DL0741,,No,No,No,No
+822007,University of Toledo,US,Edu,Uni,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200708uotol01html,DL0743,,No,No,No,Yes
+822007,EOn,US,Biz,Fin,Stolen Laptop,SSN,DOB,Outside,Yes,Mountjoy  Bressler,,httpattritionorgdataloss200708eon01html,DL0744,,No,No,No,No
+832007,Capital Health,CA,Med,Biz,Stolen Computer,MED,NAA,Outside,No,,20000,httpattritionorgdataloss200708capitalh01html,DL0745,,No,No,No,No
+832007,Wabash Valley Correctional Facility,US,Gov,State,Hack,SSN,NAA,Outside,No,,,httpattritionorgdataloss200708wabash01html,DL0746,,No,No,No,No
+842007,Kellogg Community Federal Credit Union,US,Biz,Fin,Stolen Computer,SSN,NAA,Outside,Yes,,,httpattritionorgdataloss200708kell01html,DL0747,,No,No,No,No
+862007,Verisign,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200708verisign01html,DL0748,,VRSN,No,No,No
+872007,First Response Finance,GB,Biz,Fin,Stolen Tapes,FIN,,Outside,No,,,httpattritionorgdataloss200708fr01html,DL0749,,No,No,No,No
+872007,Merrill Lynch,US,Biz,Fin,Stolen Media,SSN,,Outside,No,,33000,httpattritionorgdataloss200708ml01html,DL0750,,MER,No,No,No
+872007,Electronic Data Systems EDS,US,Biz,Tech,Fraud  SE,NAA,,Inside  Malicious,No,,498,httpattritionorgdataloss200708eds01html,DL0751,,EDS,No,No,Yes
+882007,Yale University,US,Edu,Uni,Stolen Computers,SSN,NAA,Outside,No,,10200,httpattritionorgdataloss200708yale01html,DL0752,,No,No,No,Yes
+8102007,Loyola University,US,Edu,Uni,Disposal  Disk Drive,SSN,,Outside,No,,5800,httpattritionorgdataloss200708loyola01html,DL0753,,No,No,No,No
+8102007,Tele2,NO,Biz,Tech,Hack,SSN,NAA,Outside,No,,60000,httpattritionorgdataloss200708tele01html,DL0754,,No,No,No,No
+8102007,Legacy Health System,US,Med,Hos,Fraud  SE,SSN,FIN,Inside  Malicious,No,,747,httpattritionorgdataloss200708nhs01html,DL0755,,No,No,No,No
+8112007,Providence Alaska Medical Center,US,Med,Hos,Lost Laptop,MED,NAA,Outside,No,,250,httpattritionorgdataloss200708pamc01html,DL0756,,No,No,No,No
+8132007,Pfizer,US,Biz,Med,Stolen Laptop,SSN,NAA,Outside,Yes,Axia Ltd,950,httpattritionorgdataloss200708pfizer02html,DL0757,,PFE,No,No,No
+8152007,Idaho Army National Guard,US,Gov,Fed,Stolen Media,SSN,NAA,Outside,No,,3400,httpattritionorgdataloss200708iang01html,DL0758,,No,Yes,No,Yes
+8152007,Sky Lakes Medical Center,US,Med,Hos,Web,SSN,NAA,Outside,Yes,Verus Inc,30000,httpattritionorgdataloss200708skylakes01html,DL0759,,No,No,No,No
+8162007,Toshiba General Hospital,JP,Med,Hos,Stolen Laptop,MED,NAA,Outside,No,,51156,httpattritionorgdataloss200708toshiba01html,DL0760,,No,No,No,No
+8212007,Walter Reed Army Institute of Research,US,Gov,Fed,Disposal  Documents,,,Outside,No,,,httpattritionorgdataloss200708wrair01html,DL0761,,No,No,No,No
+8212007,West Virginia Board of Barbers and Cosmetologists,US,Gov,State,Stolen Documents,,,Outside,No,,10000,httpattritionorgdataloss200708wvbobac01html,DL0762,,No,No,No,No
+8222007,California Public Employees Retirement System,US,Gov,State,Snail Mail,SSN,NAA,Outside,No,,445000,httpattritionorgdataloss200708calpers01html,DL0763,,No,No,No,No
+8232007,New York City Financial Information Services Agency,US,Gov,City,Stolen Laptop,FIN,,Outside,No,,280000,httpattritionorgdataloss200708nycfisa01html,DL0764,,No,No,No,No
+8232007,Loomis Chaffee School,US,Edu,HS,Stolen Computers,SSN,NAA,Outside,No,,,httpattritionorgdataloss200708loomis01html,DL0765,,No,No,No,No
+8262007,American ExPrisoners of War,US,Biz,NFP,Stolen Media,SSN,NAA,Outside,No,,35000,httpattritionorgdataloss200708pow01html,DL0766,,No,No,No,No
+8282007,Connecticut Department of Revenue Services,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,106000,httpattritionorgdataloss200708cdrs01html,DL0767,,No,No,No,No
+8302007,Maryland Department of the Environment,US,Gov,State,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200708mdoe01html,DL0768,,No,No,No,No
+8302007,ATT,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200708att01html,DL0769,,No,No,No,No
+8312007,The Hospital for Sick Children SickKids,CA,Med,Hos,Lost Disk Drive,MED,NAA,Outside,No,,3300,httpattritionorgdataloss200708sickkids02html,DL0770,,No,No,No,No
+912007,Johns Hopkins Hospital,US,Med,Hos,Stolen Computer,SSN,NAA,Outside,No,,5783,httpattritionorgdataloss200709hopkins01html,DL0771,,No,Yes,No,No
+942007,Pfizer,US,Biz,Med,Fraud  SE,SSN,NAA,Inside  Malicious,No,,34000,httpattritionorgdataloss200709pfizer03html,DL0772,,PFE,No,No,No
+962007,University of South Carolina,US,Edu,Uni,Web,SSN,,Outside,No,,1482,httpattritionorgdataloss200709usc01html,DL0773,,No,No,No,No
+962007,De Anza College,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,4375,httpattritionorgdataloss200709deanza01html,DL0774,,No,No,No,No
+972007,McKesson,US,Med,Org,Stolen Computers,SSN,MED,Outside,No,,,httpattritionorgdataloss200709mckesson01html,DL0775,,No,No,No,No
+9102007,Purdue University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,111,httpattritionorgdataloss200709purdue01html,DL0776,,No,No,No,No
+9112007,Pennsylvania Public Welfare Department,US,Gov,State,Stolen Computers,MED,SSN,Outside,No,,375000,httpattritionorgdataloss200709ppwd01html,DL0777,,No,No,No,No
+9112007,Gander Mountain,US,Biz,Retail,Lost Computer,CCN,NAA,Outside,No,,112000,httpattritionorgdataloss200709gander01html,DL0779,,No,Yes,No,No
+9122007,TennCare,US,Med,Org,Lost Media,SSN,NAA,Outside,Yes,Americhoice,67000,httpattritionorgdataloss200709tenncare01html,DL0778,,No,No,No,No
+9142007,TD Ameritrade,US,Biz,Fin,Hack,NAA,ACC,Outside,No,,6300000,httpattritionorgdataloss200709tdamer01html,DL0780,,AMTD,No,No,No
+9142007,Tennessee Tech University,US,Edu,Uni,Email,SSN,,Outside,No,,3100,httpattritionorgdataloss200709ttu01html,DL0781,,No,No,No,No
+9162007,St Edmundsbury Borough Council,GB,Gov,City,Stolen Laptop,SSN,FIN,Outside,No,,1380,httpattritionorgdataloss200709sebc01html,DL0782,,No,No,No,No
+9192007,University of Michigan,US,Edu,Uni,Stolen Tapes,SSN,NAA,Outside,No,,8585,httpattritionorgdataloss200709umich01html,DL0783,,No,No,No,No
+9212007,City of Columbus Ohio,US,Gov,City,Stolen Computers,SSN,NAA,Outside,No,,3500,httpattritionorgdataloss200709columbus01html,DL0784,,No,No,No,No
+9212007,ABN Amro Mortgage Group,US,Biz,Fin,Web,SSN,NAA,Outside,No,,5208,httpattritionorgdataloss200709amro01html,DL0785,,No,No,No,No
+9242007,Utah Department of Workforce Services,US,Gov,State,Stolen Laptop,SSN,,Outside,No,,2000,httpattritionorgdataloss200709udws01html,DL0786,,No,No,No,No
+9282007,Gap Inc,US,Biz,Retail,Stolen Laptop,SSN,,Outside,Yes,,800000,httpattritionorgdataloss200709gap01html,DL0787,,GPS,No,No,No
+1022007,The Nature Conservancy,US,Biz,NFP,Hack,SSN,NAA,Outside,No,,14000,httpattritionorgdataloss200710nature01html,DL0788,,No,No,No,No
+1022007,Athens Regional Health Services,US,Med,Hos,Stolen Computer,MED,NAA,Outside,No,,1441,httpattritionorgdataloss200710armc01html,DL0789,,No,No,No,No
+1042007,Massachusetts Division of Professional Licensure,US,Gov,State,Snail Mail,SSN,NAA,Outside,No,,450000,httpattritionorgdataloss200710mdpl01html,DL0790,,No,Partial,No,No
+1042007,MacEwan College,CA,Edu,Uni,Web,CCN,NAA,Outside,No,,,httpattritionorgdataloss200710macewan01html,DL0793,,No,No,No,No
+1052007,Kartenhaus,DE,Biz,Retail,Hack,CCN,NAA,Outside,No,,66000,httpattritionorgdataloss200710karten01html,DL0791,,No,No,No,No
+1052007,HM Revenue and Customs,GB,Gov,Fed,Stolen Laptop,FIN,,Outside,No,,400,httpattritionorgdataloss200710hmrc01html,DL0792,,No,No,No,No
+1082007,University of Iowa,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,184,httpattritionorgdataloss200710uiowa01html,DL0794,,No,No,No,No
+1082007,Carnegie Mellon University,US,Edu,Uni,Stolen Laptops,SSN,,Outside,No,,400,httpattritionorgdataloss200710cmu01html,DL0795,,No,No,No,No
+1082007,Semtech,US,Biz,Tech,Stolen Laptop,,,Outside,No,,,httpattritionorgdataloss200710semtech01html,DL0796,,SMTC,No,No,No
+1092007,Pembroke School District,US,Edu,HS,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200710pembroke01html,DL0848,,No,No,No,No
+10102007,Pfizer,US,Biz,Med,Web,NAA,DOB,Outside,Yes,Wheels Inc,1800,httpattritionorgdataloss200710pfizer04html,DL0797,,PFE,No,No,No
+10102007,Commerce Bank,US,Biz,Fin,Web,,,Outside,No,,3000,httpattritionorgdataloss200710commerce01html,DL0849,,No,No,No,No
+10122007,King County WA Transportation Department,US,Gov,County,Stolen Laptop,SSN,NAA,Outside,No,,1400,httpattritionorgdataloss200710kingco01html,DL0798,,No,No,No,No
+10132007,Montana State University,US,Edu,Uni,Hack,SSN,CCN,Outside,No,,1400,httpattritionorgdataloss200710msu01html,DL0799,,No,No,No,No
+10152007,Transportation Security Administration,US,Gov,Fed,Stolen Laptops,SSN,NAA,Outside,Yes,Integrated Biometric Technology,3930,httpattritionorgdataloss200710tsa01html,DL0800,,No,No,No,No
+10162007,Administaff,US,Biz,,Stolen Laptop,SSN,NAA,Outside,No,,159000,httpattritionorgdataloss200710adminis01html,DL0801,,ASF,No,No,No
+10172007,Home Depot,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,No,,10000,httpattritionorgdataloss200710hdepot01html,DL0802,,HD,No,No,No
+10172007,Louisiana Office of Student Financial Assistance,US,Edu,Uni,Lost Tape,SSN,FIN,Outside,Yes,Iron Mountain,,httpattritionorgdataloss200710losfa01html,DL0803,,No,No,No,No
+10182007,University of Cincinnati,US,Edu,Uni,Stolen Media,SSN,,Outside,No,,7000,httpattritionorgdataloss200710uc01html,DL0804,,No,No,No,No
+10232007,West Virginia Public Employees Insurance Agency,US,Gov,State,Lost Tape,SSN,NAA,Outside,Yes,,200000,httpattritionorgdataloss200710wvpeia01html,DL0805,,No,No,No,No
+10232007,Blockbuster,US,Biz,Retail,Disposal  Documents,SSN,CCN,Outside,No,,400,httpattritionorgdataloss200710block01html,DL0806,,BBI,Partial,No,No
+10232007,Dixie State College,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,11000,httpattritionorgdataloss200710dixie01html,DL0807,,No,No,No,No
+10232007,Bates College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,500,httpattritionorgdataloss200710bates01html,DL0808,,No,No,No,No
+10242007,Not Your Average Joes,US,Biz,Retail,Hack,CCN,NAA,Outside,No,,,httpattritionorgdataloss200710joes01html,DL0809,,No,No,No,No
+10252007,University of Akron,US,Edu,Uni,Lost Media,SSN,NAA,Outside,No,,1200,httpattritionorgdataloss200710akron01html,DL0810,,No,No,No,No
+10282007,Artcom,US,Biz,Retail,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200710art01html,DL0811,,No,No,No,No
+10292007,United States Postal Service,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200710usps01html,DL0812,,No,No,No,No
+10302007,University of Nevada Reno,US,Edu,Uni,Lost Drive,SSN,NAA,Outside,No,,16000,httpattritionorgdataloss200710unr01html,DL0813,,No,No,No,No
+10302007,Hartford Financial Services Group,US,Biz,Fin,Lost Tapes,,,Inside  Accidental,No,,237000,httpattritionorgdataloss200710hartford01html,DL0814,,HIG,No,No,No
+10302007,Pathology Group of the MidSouth,US,Med,Hos,Stolen Computers,SSN,NAA,Outside,No,,75000,httpattritionorgdataloss200710pgms01html,DL0829,,No,No,No,No
+1112007,City University of New York,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,20000,httpattritionorgdataloss200711cuny01html,DL0815,,No,No,No,No
+1152007,HM Revenue and Customs,GB,Gov,Fed,Lost Media,SSN,NAA,Outside,Yes,,15000,httpattritionorgdataloss200711hmrc01html,DL0816,,No,No,No,No
+1162007,Alabama Department of Public Health,US,Gov,State,Snail Mail,SSN,NAA,Outside,No,,1554,httpattritionorgdataloss200711adph01html,DL0817,,No,No,No,No
+1162007,Montana State University,US,Edu,Uni,Stolen Media,SSN,NAA,Outside,No,,271,httpattritionorgdataloss200711msu01html,DL0818,,No,No,No,No
+1162007,Butte Community Bank,US,Biz,Fin,Stolen Laptop,SSN,FIN,Outside,No,,,httpattritionorgdataloss200711bcb01html,DL0819,,No,No,No,No
+1172007,Carolinas Medical Center  NorthEast,US,Med,Hos,Lost Laptop,SSN,NAA,Outside,No,,28000,httpattritionorgdataloss200711cmcne01html,DL0820,,No,No,No,No
+11112007,State of Nevada,US,Gov,State,Lost Media,SSN,,Outside,Yes,,,httpattritionorgdataloss200711nevada01html,DL0850,,No,No,No,No
+11132007,The Foreign and Commonwealth Office,GB,Gov,Fed,Web,,,Outside,No,,50000,httpattritionorgdataloss200711fco01html,DL0821,,No,No,No,No
+11132007,Commerce Bancorp,US,Biz,Fin,,SSN,NAA,Inside,No,,,httpattritionorgdataloss200711commerce01html,DL0822,,CBH,No,No,No
+11132007,Glenrose Rehabilitation Hospital,CA,Med,Hos,Stolen Media,MED,NAA,Outside,No,,270,httpattritionorgdataloss200711grh01html,DL0826,,No,No,No,No
+11152007,Roudebush VA Medical Center,US,Med,Hos,Stolen Computers,SSN,NAA,Outside,No,,12000,httpattritionorgdataloss200711roudebush01html,DL0823,,No,No,No,Yes
+11162007,AJ Falciani Realty Company,US,Biz,Fin,Stolen Computers,SSN,NAA,Outside,No,,500,httpattritionorgdataloss200711falciani01html,DL0824,,No,No,No,No
+11162007,Kansas State University,US,Edu,Uni,Web,SSN,,Outside,No,,128,httpattritionorgdataloss200711ksu01html,DL0825,,No,No,No,No
+11162007,Service Canada,CA,Gov,Fed,Stolen Laptop,SSN,FIN,Outside,No,,1600,httpattritionorgdataloss200711service01html,DL0827,,No,No,No,No
+11162007,US Department of Veterans Affairs,US,Gov,Fed,Fraud  SE,SSN,,Inside  Malicious,No,,1800000,httpattritionorgdataloss200711usdva01html,DL0830,,No,Yes,No,Yes
+11172007,Ohio Masonic Home  Community Blood Bank,US,Biz,NFP,Stolen Laptop,FIN,,Outside,Yes,Battelle  Battelle LLC,1200,httpattritionorgdataloss200711omh01html,DL0828,,No,No,No,No
+11202007,HM Revenue and Customs,GB,Gov,Fed,Lost Media,SSN,NAA,Outside,Yes,TNT,25000000,httpattritionorgdataloss200711hmrc02html,DL0831,,No,No,No,No
+11212007,University of Florida,US,Edu,Uni,Web,SSN,NAA,Outside,No,,415,httpattritionorgdataloss200711uf01html,DL0832,,No,No,No,No
+11232007,Allied Irish Bank,IE,Biz,Fin,Snail Mail,ACC,NAA,Outside,No,,15000,httpattritionorgdataloss200711aib01html,DL0833,,No,No,No,No
+11262007,Provincial Public Health Laboratory,CA,Med,Gov,Hack,MED,NAA,Outside,No,,,httpattritionorgdataloss200711pphl01html,DL0834,,No,No,No,No
+11272007,Telsell,NL,Biz,Tech,Hack,CCN,,Outside,No,,30000,httpattritionorgdataloss200711telsell01html,DL0845,,No,No,No,No
+11302007,Prescription Advantage,US,Gov,State,Fraud  SE,,,,No,,150000,httpattritionorgdataloss200711scrip01html,DL0835,,No,No,No,Yes
+1242007,Passport Canada,CA,Gov,Fed,Web,NAA,DOB,Outside,No,,,httpattritionorgdataloss200712passport01html,DL0836,,No,No,No,No
+1242007,Indianapolis Power and Light,US,Biz,Ind,Web,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200712ipl01html,DL0837,,No,No,No,No
+1242007,Duke University,US,Edu,Uni,Hack,SSN,,Outside,No,,1400,httpattritionorgdataloss200712duke01html,DL0838,,No,No,No,No
+1252007,Memorial Blood Centers,US,Med,NFP,Stolen Laptop,SSN,NAA,Outside,No,,268000,httpattritionorgdataloss200712mbc01html,DL0839,,No,No,No,No
+1252007,Forrester Research,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200712forrester01html,DL0840,,FORR,No,No,No
+1262007,Oak Ridge National Laboratory,US,Gov,Fed,Hack,SSN,NAA,Outside,No,,12000,httpattritionorgdataloss200712ornl01html,DL0841,,No,No,No,No
+1272007,Citizens Advice,IE,Biz,Fin,Stolen Laptop,FIN,NAA,Outside,No,,60000,httpattritionorgdataloss200712citizens01html,DL0842,,No,No,No,No
+12102007,Tricare Europe,US,Gov,Fed,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200712tricare01html,DL0843,,No,No,No,No
+12102007,Sutter Lakeside Hospital,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,45000,httpattritionorgdataloss200712slh01html,DL0844,,No,No,No,No
+12102007,Cameron County Texas,US,Gov,County,Email,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200712cameron01html,DL0858,,No,No,No,Yes
+12112007,Iowa Department of Natural Resources,US,Gov,State,Lost Drive,SSN,NAA,Outside,Yes,,7000,httpattritionorgdataloss200712iadnr01html,DL0846,,No,No,No,No
+12142007,Deloitte  Touche,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,Yes,IKON Office Solutions,,httpattritionorgdataloss200712deloitte01html,DL0847,,No,No,No,No
+12172007,West Penn Allegheny Health System,US,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,42000,httpattritionorgdataloss200712wpahs01html,DL0851,,No,No,No,No
+12172007,Royal Bolton Hospital,GB,Med,Hos,Stolen Laptop,SSN,NAA,Outside,No,,360,httpattritionorgdataloss200712rbh01html,DL0852,,No,No,No,No
+12182007,HM Revenue and Customs,GB,Gov,Fed,Lost Tape,SSN,NAA,Outside,Yes,,6500,httpattritionorgdataloss200712hmrc01html,DL0853,,No,No,No,No
+12192007,Pennsylvania Department of Aging,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,20632,httpattritionorgdataloss200712padoa01html,DL0854,,No,No,No,No
+12202007,Dormitory Authority of the State of New York,US,Gov,State,Lost Tapes,SSN,NAA,Outside,Yes,UPS,900,httpattritionorgdataloss200712dasny01html,DL0855,,No,Yes,No,No
+12202007,Greenville County School District,US,Gov,County,Hack,SSN,NAA,Outside,No,,500,httpattritionorgdataloss200712gcsd01html,DL0857,,No,No,No,No
+12212007,Skipton Financial Services,GB,Biz,Fin,Stolen Laptop,SSN,FIN,Outside,Yes,Moore Stephens Consulting Ltd,14000,httpattritionorgdataloss200712skipton01html,DL0856,,No,No,No,No
+12212007,Franklin County Ohio Municipal Court,US,Gov,County,Web,SSN,NAA,Outside,No,,270,httpattritionorgdataloss200712franklin02html,DL0859,,No,No,No,No
+12282007,Minnesota Department of Commerce,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,Yes,Promissor Corporation,219,httpattritionorgdataloss200712mdoc01html,DL0860,,No,No,No,No
+12282007,Davidson County Election Commission,US,Gov,County,Stolen Laptops,SSN,NAA,Outside,No,,337000,httpattritionorgdataloss200712dcec01html,DL0861,,No,Yes,Yes,Yes
+12282007,United States Air Force,US,Gov,Fed,Lost Laptop,SSN,NAA,Outside,No,,10501,httpattritionorgdataloss200712usaf01html,DL0862,,No,No,No,No
+12292007,Administrative Systems,US,Biz,Ins,Stolen Computer,SSN,NAA,Outside,No,,,httpattritionorgdataloss200712asi01html,DL0941,,No,No,No,No
+122008,Workers Compensation Fund,US,Biz,Fin,Stolen Laptop,SSN,,Outside,No,,2800,httpattritionorgdataloss200801wcf01html,DL0863,,No,No,No,No
+132008,Dorothy Hains Elementary School,US,Edu,City,Stolen Computer,SSN,,Outside,No,,,httpattritionorgdataloss200801dhes01html,DL0864,,No,No,No,No
+142008,Health Net,US,Med,Ins,Stolen Laptop,SSN,NAA,Outside,Yes,,5000,httpattritionorgdataloss200801healthnet01html,DL0865,,No,No,No,No
+142008,Florida Department of Children and Families,US,Gov,State,Stolen Laptops,SSN,NAA,Outside,No,,,httpattritionorgdataloss200801fdcf01html,DL0866,,No,No,No,No
+142008,Maryland Department of Assessments and Taxation,US,Gov,State,Web,SSN,,Outside,No,,900,httpattritionorgdataloss200801mdat01html,DL0867,,No,No,No,No
+152008,New Mexico State University,US,Edu,Uni,Lost Disk Drive,SSN,NAA,Outside,No,,,httpattritionorgdataloss200801nmsu01html,DL0868,,No,No,No,No
+172008,Geekscom,US,Biz,Tech,Hack,CCN,NAA,Outside,No,,,httpattritionorgdataloss200801geeks01html,DL0869,,No,No,No,No
+182008,Wisconsin Department of Health and Family Services,US,Gov,State,Snail Mail,SSN,NAA,Outside,Yes,Electronic Data Systems Corp,260000,httpattritionorgdataloss200801wdhfs01html,DL0870,,No,No,No,No
+192008,University of Georgia,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,4250,httpattritionorgdataloss200801uga01html,DL0871,,No,No,No,No
+1102008,Select Physical Therapy,US,Med,Pro,Disposal  Documents,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200801spt01html,DL0875,,No,No,Yes,No
+1112008,University of Akron,US,Edu,Uni,Lost Disk Drive,SSN,NAA,Outside,No,,800,httpattritionorgdataloss200801akron01html,DL0873,,No,No,No,No
+1112008,University of Iowa,US,Edu,Uni,Web,SSN,,Outside,No,,216,httpattritionorgdataloss200801uiowa01html,DL0874,,No,No,No,No
+1112008,Oldham NHS Primary Care Trust,GB,Med,Gov,Lost Drives,MED,NAA,Outside,No,,148,httpattritionorgdataloss200801oldham01html,DL0876,,No,No,No,No
+1112008,Virginia Department of Social Services,US,Gov,State,Fraud  SE,SSN,NAA,Inside  Malicious,No,,1500,httpattritionorgdataloss200801vdss01html,DL0878,,No,No,No,No
+1122008,California State University Stanislaus,US,Edu,Uni,Web,CCN,NAA,Outside,Yes,Sodexho,,httpattritionorgdataloss200801csus01html,DL0877,,No,No,No,No
+1142008,Tennessee Tech University,US,Edu,Uni,Lost Drive,SSN,NAA,Outside,No,,990,httpattritionorgdataloss200801ttu01html,DL0879,,No,No,No,No
+1152008,Naval Surface Warfare Center Dahlgren Division,US,Gov,Fed,Lost Document,SSN,NAA,Outside,No,,100,httpattritionorgdataloss200801dahlgren01html,DL0880,,No,Yes,No,Yes
+1152008,Wisconsin Department of Revenue,US,Gov,State,Snail Mail,SSN,NAA,Outside,No,,5000,httpattritionorgdataloss200801wdr01html,DL0881,,No,No,No,No
+1162008,University of WisconsinMadison,US,Edu,Uni,Web,SSN,NAA,Outside,No,,529,httpattritionorgdataloss200801uwismad01html,DL0882,,No,No,No,No
+1172008,GE Money,US,Biz,Fin,Lost Tape,CCN,SSN,Outside,Yes,Iron Mountain,650000,httpattritionorgdataloss200801gemoney01html,DL0883,,GE,No,No,No
+1182008,United Kingdom Ministry of Defence,GB,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,605767,httpattritionorgdataloss200801ukmod01html,DL0884,,No,No,No,No
+1242008,Fallon Community Health Plan,US,Med,Pro,Stolen Laptop,MED,NAA,Outside,Yes,,29800,httpattritionorgdataloss200801fallon01html,DL0885,,No,No,No,No
+1252008,Penn State University,US,Edu,Uni,Stolen Laptop,SSN,,Outside,No,,677,httpattritionorgdataloss200801psu01html,DL0886,,No,No,No,No
+1252008,OmniAmerican Bank,US,Biz,Fin,Hack,CCN,,Outside,No,,100,httpattritionorgdataloss200801omniam01html,DL0940,,No,No,No,No
+1282008,T Rowe Price Retirement Plan Services,US,Biz,Fin,Stolen Computers,SSN,NAA,Outside,Yes,CBIZ Benefits and Insurance Services Inc,35000,httpattritionorgdataloss200801trowe01html,DL0887,,No,No,No,No
+1292008,Georgetown University,US,Edu,Uni,Stolen Disk Drive,SSN,NAA,Outside,No,,38000,httpattritionorgdataloss200801gtown01html,DL0888,,No,No,No,No
+1292008,Wake County North Carolina Emergency Medical Services,US,Med,County,Missing Laptop,SSN,NAA,Outside,No,,4642,httpattritionorgdataloss200801wakeems01html,DL0889,,No,No,No,No
+1292008,Horizon Blue Cross Blue Shield of New Jersey,US,Med,Ins,Stolen Laptop,SSN,NAA,Outside,No,,300000,httpattritionorgdataloss200801horizon01html,DL0890,,No,No,No,No
+1302008,Davidson Companies,US,Biz,Fin,Hack,SSN,NAA,Outside,No,,226000,httpattritionorgdataloss200801davidson01html,DL0891,,No,No,Yes,No
+1312008,South Carolina Department of Health and Environmental Control,US,Gov,State,Stolen Laptop,SSN,NAA,Outside,No,,400,httpattritionorgdataloss200801scdhec01html,DL0892,,No,No,No,No
+1312008,University of Minnesota Reproductive Medicine Center,US,Med,Pro,Lost Drive,MED,NAA,Outside,No,,3100,httpattritionorgdataloss200801umrmc01html,DL0893,,No,No,No,No
+212008,Marine Corps Bases Japan,US,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,4000,httpattritionorgdataloss200802mcbj01html,DL0894,,No,No,No,No
+222008,Diocese of Providence,US,Biz,NFP,Stolen Computers,SSN,NAA,Outside,No,,5000,httpattritionorgdataloss200802dop01html,DL0895,,No,No,No,No
+272008,Memorial Hospital,US,Med,Hos,Missing Laptop,SSN,NAA,Outside,No,,4300,httpattritionorgdataloss200802memorial01html,DL0896,,No,No,No,No
+282008,MLSGearcom,US,Biz,Retail,Hack,CCN,NAA,Outside,Yes,,,httpattritionorgdataloss200802mlsgear01html,DL0897,,No,No,No,No
+2112008,Jefferson County Colorado Public Schools,US,Edu,County,Stolen Computer,NAA,DOB,Outside,No,,2900,httpattritionorgdataloss200802jeffco01html,DL0898,,No,No,No,No
+2122008,Modesto California City Schools  Clovis Unified  Los Angeles Department of Water and Power  Torrance Unified School District  Nestle Waters North America,US,Edu,City,Stolen Drive,SSN,NAA,Outside,Yes,Systematic Automation Inc,40000,httpattritionorgdataloss200802modesto01html,DL0899,,No,Yes,No,Yes
+2122008,Long Island University,US,Edu,Uni,Snail Mail,SSN,NAA,Outside,No,,30000,httpattritionorgdataloss200802liu01html,DL0900,,No,No,No,No
+2132008,Lifeblood,US,Med,Pro,Missing Laptops,SSN,NAA,Outside,No,,321000,httpattritionorgdataloss200802lifeblood01html,DL0901,,No,No,No,No
+2132008,Middle Tennessee State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,1500,httpattritionorgdataloss200802mtsu01html,DL0902,,No,No,No,No
+2142008,Tenet Healthcare Corporation,US,Med,Pro,Fraud  SE,SSN,NAA,Inside  Malicious,No,,37000,httpattritionorgdataloss200802tenet01html,DL0903,,No,No,No,Yes
+2142008,Russells Hall Hospital,GB,Med,Hos,Stolen Laptop,MED,,Outside,No,,5123,httpattritionorgdataloss200802russells01html,DL0904,,No,No,No,No
+2152008,Lexmark International,US,Biz,Tech,Web,SSN,NAA,Outside,No,,,httpattritionorgdataloss200802lexmark01html,DL0905,,No,No,No,No
+2152008,Crosslines Ministries of Carthage,US,Biz,NFP,Stolen Documents,SSN,NAA,Outside,No,,2000,httpattritionorgdataloss200802carthage01html,DL0906,,No,No,No,No
+2152008,First Magnus Financial,US,Biz,Fin,Disposal  Documents,SSN,NAA,Outside,No,,,httpattritionorgdataloss200802magnus01html,DL0909,,No,No,No,No
+2162008,Texas AM University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200802texasam01html,DL0907,,No,No,No,No
+2212008,Newfoundland Eastern School District,CA,Edu,HS,Stolen Laptop,MED,NAA,Outside,No,,28000,httpattritionorgdataloss200802nesd01html,DL0908,,No,No,No,No
+2252008,Mecklenburg County North Carolina,US,Gov,County,Stolen Documents,ACC,,Outside,No,,400,httpattritionorgdataloss200802mecklen01html,DL0910,,No,No,No,Yes
+2252008,LGT Bank,LI,Biz,Fin,Stolen Documents,ACC,FIN,Outside,No,,1400,httpattritionorgdataloss200802lgr01html,DL0929,,No,No,No,No
+2272008,Health Net Federal Services,US,Gov,Pro,Web,SSN,,Outside,No,,103000,httpattritionorgdataloss200802hnfs01html,DL0911,,No,No,No,No
+2292008,Wellesley Health Department,US,Gov,Pro,Snail Mail,SSN,NAA,Outside,No,,480,httpattritionorgdataloss200802whd01html,DL0912,,No,No,No,No
+332008,Kraft Foods,US,Biz,Ind,Missing Laptop,SSN,NAA,Outside,No,,20000,httpattritionorgdataloss200803kraft01html,DL0913,,KFT,No,No,No
+352008,Madeley Health Center,GB,Med,Pro,Stolen Drive,NAA,MED,Outside,No,,238,httpattritionorgdataloss200803madeley01html,DL0914,,No,No,No,No
+352008,Nevada Department of Public Safety,US,Gov,State,Lost Drive,SSN,NAA,Outside,Yes,Crown Stanley and Silverman,109,httpattritionorgdataloss200803ndps01html,DL0915,,No,No,No,No
+362008,Cascade Healthcare Community,US,Med,Pro,Hack,CCN,NAA,Outside,No,,11500,httpattritionorgdataloss200803cascade01html,DL0916,,No,No,No,No
+382008,MTV Networks,US,Biz,Ind,Hack,SSN,NAA,Outside,No,,5000,httpattritionorgdataloss200803mtv01html,DL0917,,No,No,No,No
+3102008,Blue Cross Blue Shield of Western New York,US,Med,Pro,Missing Laptop,SSN,NAA,Outside,No,,40000,httpattritionorgdataloss200803bcbswny01html,DL0918,,No,No,No,No
+3122008,Harvard University,US,Edu,Uni,Hack,SSN,,Outside,No,,10000,httpattritionorgdataloss200803harvard01html,DL0919,,No,No,No,No
+3132008,University Health Care,US,Med,Pro,Stolen Laptop,SSN,NAA,Outside,No,,4800,httpattritionorgdataloss200803uhc01html,DL0920,,No,No,No,No
+3152008,Utah Division of Finance,US,Gov,State,Hack,,,Outside,No,,500,httpattritionorgdataloss200803udof01html,DL0922,,No,No,No,No
+3152008,Broward County School District,US,Edu,HS,Hack,SSN,NAA,Outside,No,,38000,httpattritionorgdataloss200803broward02html,DL0937,,No,No,No,No
+3172008,Hannaford,US,Biz,Retail,Hack,CCN,,Outside,No,,4200000,httpattritionorgdataloss200803hannaford01html,DL0921,,No,No,Yes,No
+3172008,Binghamton University,US,Edu,Uni,Email,SSN,NAA,Inside  Accidental,No,,300,httpattritionorgdataloss200803bu01html,DL0923,,No,No,No,No
+3192008,Affordable Realty,US,Biz,Fin,Disposal  Documents,SSN,FIN,Outside,No,,,httpattritionorgdataloss200803ar01html,DL0924,,No,Yes,No,No
+3202008,Lasell College,US,Edu,Uni,Hack,SSN,NAA,Inside  Malicious,No,,20000,httpattritionorgdataloss200803lasell01html,DL0925,,No,No,No,No
+3212008,Rhode Island Department of Administration,US,Gov,State,Lost Media,SSN,,Outside,No,,1400,httpattritionorgdataloss200803ridoa01html,DL0927,,No,No,No,No
+3212008,Compass Bank,US,Biz,Fin,Stolen Drive,ACC,NAA,Inside  Malicious,No,,1000000,httpattritionorgdataloss200803compass02html,DL0933,,No,Yes,No,Yes
+3222008,Agilent Technologies,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,Yes,Stock  Option Solutions,51000,httpattritionorgdataloss200803agilent01html,DL0926,,A,No,No,No
+3232008,Western Carolina University,US,Edu,Uni,Hack,SSN,,Outside,No,,555,httpattritionorgdataloss200803wcu01html,DL0928,,No,No,No,No
+3242008,National Institutes of Health,US,Gov,Fed,Stolen Laptop,MED,SSN,Outside,No,,2500,httpattritionorgdataloss200803nih01html,DL0930,,No,No,No,No
+3242008,Super 8 Motel,US,Biz,Hotel,Disposal  Documents,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200803super801html,DL0942,,No,No,No,No
+3262008,The Dental Network,US,Med,Pro,Web,SSN,NAA,Outside,No,,75000,httpattritionorgdataloss200803dental01html,DL0931,,No,No,No,No
+3262008,BNY Mellon Shareowner Services,US,Biz,Fin,Lost Tapes,SSN,NAA,Outside,No,,3500,httpattritionorgdataloss200803bnym01html,DL0932,,No,No,No,No
+3282008,Antioch University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200803antioch01html,DL0934,,No,No,No,No
+3282008,Leicester NHS Trust,GB,Biz,Fin,Disposal  Documents,SSN,NAA,Outside,No,,180,httpattritionorgdataloss200803nhs01html,DL0935,,No,No,No,No
+3282008,Museum of Science Boston,US,Biz,NFP,Web,CCN,NAA,Outside,No,,140,httpattritionorgdataloss200803bmos01html,DL0936,,No,No,No,No
+3312008,Advance Auto Parts,US,Biz,Retail,Hack,FIN,,Outside,No,,56000,httpattritionorgdataloss200803aap01html,DL0938,,No,No,No,No
+412008,Okemo Mountain Resort,US,Biz,Retail,Hack,CCN,NAA,Outside,No,,,httpattritionorgdataloss200804okemo01html,DL0939,,No,No,No,No
+442008,University of California Irvine,US,Edu,Uni,Hack,SSN,NAA,Inside  Malicious,Yes,UnitedHealthcare,1132,httpattritionorgdataloss200804uci01html,DL0943,,No,No,No,Yes
+472008,Pfizer,US,Biz,Med,Stolen Laptop,CCN,NAA,Outside,No,,800,httpattritionorgdataloss200804pfizer05html,DL0944,,PFE,No,No,No
+482008,Wellpoint,US,Med,Ins,Web,SSN,MED,Outside,Yes,,128000,httpattritionorgdataloss200804wellpoint01html,DL0945,,WLP,No,No,No
+482008,WellCare,US,Med,Ins,Web,SSN,MED,Outside,No,,71000,httpattritionorgdataloss200804wellcare01html,DL0946,,WCG,No,No,No
+4102008,Joliet West High School,US,Edu,HS,Hack,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200804jwhs01html,DL0947,,No,No,No,Yes
+4112008,New YorkPresbyterian HospitalWeill Cornell Medical Center,US,Med,Pro,Fraud  SE,SSN,NAA,Inside  Malicious,No,,49841,httpattritionorgdataloss200804hospital01html,DL0948,,No,No,No,Yes
+4112008,Bowdoin College,US,Edu,Uni,Web,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200804bowdoin01html,DL0974,,No,No,No,No
+4122008,West Seneca School District,US,Edu,HS,Hack,SSN,NAA,Inside  Malicious,No,,1800,httpattritionorgdataloss200804senecasd01html,DL0950,,No,No,No,No
+4132008,University of Toledo,US,Edu,Uni,,SSN,NAA,Inside  Accidental,No,,6488,httpattritionorgdataloss200804toledo01html,DL0949,,No,No,No,No
+4142008,Stokes County Schools,US,Edu,HS,Stolen Computer,SSN,NAA,Outside,No,,800,httpattritionorgdataloss200804stokes01html,DL0952,,No,No,No,No
+4162008,University of Virginia,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,7000,httpattritionorgdataloss200804uva01html,DL0951,,No,No,No,No
+4172008,Connecticut State University System  Buffalo State  Northwest Missouri State University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,Yes,Sungard,28879,httpattritionorgdataloss200804csus01html,DL0953,,No,No,No,No
+4172008,University of Miami,US,Edu,Uni,Stolen Tapes,SSN,CCN,Outside,No,,2100000,httpattritionorgdataloss200804umiami03html,DL0954,,No,No,No,No
+4192008,Central Collection Bureau,US,Biz,Fin,Stolen Computers,SSN,NAA,Outside,No,,700000,httpattritionorgdataloss200804ccb01html,DL0955,,No,No,No,No
+4222008,Bank of Ireland,IE,Biz,Fin,Stolen Laptops,ACC,NAA,Outside,No,,31500,httpattritionorgdataloss200804boe01html,DL0956,,No,No,No,No
+4222008,LendingTree,US,Biz,Fin,Fraud  SE,SSN,NAA,Inside  Malicious,No,,,httpattritionorgdataloss200804ltree01html,DL0957,,No,No,Yes,No
+4222008,Boots Dental Plan,GB,Med,Ins,Stolen Tapes,ACC,,Outside,Yes,,34000,httpattritionorgdataloss200804boots01html,DL0958,,No,No,No,No
+4222008,University of Massachusetts,US,Edu,Uni,Hack,MED,NAA,Outside,No,,,httpattritionorgdataloss200804umass01html,DL0962,,No,No,No,No
+4222008,CollegeInvest,US,Biz,Fin,Lost Drive,NAA,,Inside  Accidental,No,,200000,httpattritionorgdataloss200804collinv01html,DL0963,,No,No,No,No
+4232008,University of Texas Health Science Center,US,Med,Pro,Snail Mail,SSN,NAA,Outside,Yes,CBE Group Inc,2000,httpattritionorgdataloss200804uthsc01html,DL0959,,No,No,No,No
+4232008,Southern Connecticut State University,US,Edu,Uni,Hack,SSN,,Outside,No,,11000,httpattritionorgdataloss200804scsu01html,DL0960,,No,No,No,No
+4232008,Chrysler Financial,CA,Biz,Fin,Lost Tape,FIN,,Outside,Yes,UPS,,httpattritionorgdataloss200804chrysler01html,DL0961,,No,No,No,No
+4252008,University of Colorado ,US,Edu,Uni,Hack DISPUTED,SSN,NAA,Outside,No,,9500,httpattritionorgdataloss200804cub02html,DL0964,,No,No,No,No
+4252008,Baltimore State Highway Department,US,Gov,State,,SSN,NAA,Inside  Accidental,No,,,httpattritionorgdataloss200804bshd01html,DL0966,,No,No,No,No
+4252008,Child Assessment Service Tuen Mun Centre,HK,Gov,HK,Stolen Drive,MED,NAA,Outside,No,,700,httpattritionorgdataloss200804hkhgtam01html,DL0965,,No,No,No,No
+4252008,Baltimore Highway Administration,US,Gov,City,,SSN,NAA,Inside  Accidental,No,,1800,httpattritionorgdataloss200804bshd01html,DL0967,,No,No,No,No
+4282008,Coos County Oregon,US,Gov,County,Stolen Laptop,SSN,NAA,Outside,Yes,Hough MacAdam  Wartnik LLC,500,httpattritionorgdataloss200804coosc01html,DL0968,,No,No,No,No
+512008,Lunardis Supermarket,US,Biz,Retail,Hack,CCN,,Unknown,No,,100,httpattritionorgdataloss200805lunardi01html,DL0975,,No,No,No,No
+512008,Staten Island University Hospital,US,Med,Hos,Stolen Computer,SSN,NAA,Outside,No,,88000,httpattritionorgdataloss200805siuh01html,DL0969,,No,No,No,No
+512008,University of California San Francisco,US,Edu,Uni,Web,MED,NAA,Outside,Yes,Target America Inc,6313,httpattritionorgdataloss200805ucsf04html,DL0970,,No,No,No,No
+522008,Iredell County Tax Collector,US,Gov,County,Stolen Documents,ACC,NAA,Outside,Yes,,468,httpattritionorgdataloss200805iredell01html,DL0971,,No,No,No,No
+542008,Westpac,AU,Biz,Fin,Hack,CCN,,Outside,No,,2000,httpattritionorgdataloss200805westpac01html,DL0976,,No,No,No,No
+562008,Ohio State University Agricultural Technical Institute,US,Edu,Uni,Email,SSN,NAA,Outside,No,,192,httpattritionorgdataloss200805osuati01html,DL0972,,No,No,No,No
+562008,Northeast Security,US,Biz,Pro,Disposal  Documents,SSN,NAA,Inside,No,,,httpattritionorgdataloss200805nesecu01html,DL0977,,No,No,No,No
+572008,Bank of New York Mellon,US,Biz,Fin,Lost Tape,SSN,NAA,Outside,Yes,Archive Systems Inc,4500000,httpattritionorgdataloss200805mellon01html,DL0978,,No,No,No,No
+582008,Hongkong and Shanghai Banking Corporation,HK,Biz,Fin,Stolen Computer,FIN,NAA,Outside,No,,159000,httpattritionorgdataloss200805shanghai01html,DL0979,,No,No,No,No
+582008,Dominican University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,5000,httpattritionorgdataloss200805dominu01html,DL0980,,No,No,No,No
+582008,Las Cruces Public Schools,US,Edu,HS,Web,,,Inside  Accidental,No,,1800,httpattritionorgdataloss200805lcruces01html,DL0981,,No,No,No,No
+592008,Princeton University Tower Club,US,Edu,Uni,Email,SSN,NAA,Inside  Accidental,No,,103,httpattritionorgdataloss200805putc01html,DL0982,,No,No,No,No
+5112008,Chilean Ministry of Education,CL,Gov,Fed,Hack,SSN,NAA,Outside,No,,6000000,httpattritionorgdataloss200805cmoe01html,DL0983,,No,No,No,No
+5122008,Pfizer,US,Biz,Med,Stolen Laptop,FIN,NAA,Outside,No,,13000,httpattritionorgdataloss200805pfizer01html,DL0984,,PFE,No,No,No
+5122008,Dave  Busters,US,Biz,Retail,Hack,CCN,,Outside,No,,5000,httpattritionorgdataloss200805davbus01html,DL0994,,No,No,No,Yes
+5142008,First Calgary Savings,CA,Biz,Fin,Stolen Laptop,ACC,,Outside,No,,,httpattritionorgdataloss200805fcs01html,DL0985,,No,No,No,No
+5142008,Oklahoma State University,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,70000,httpattritionorgdataloss200805osu01html,DL0986,,No,No,No,No
+5152008,BBT Insurance,US,Biz,Ins,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200805bbti01html,DL0987,,No,No,No,No
+5162008,Spring Independent School District,US,Edu,HS,Stolen Drive,SSN,NAA,Outside,No,,8000,httpattritionorgdataloss200805spring01html,DL0988,,No,No,No,No
+5162008,Greil Memorial Psychiatric Hospital,US,Med,Hos,Lost Document,SSN,NAA,Outside,No,,,httpattritionorgdataloss200805greil01html,DL0989,,No,No,No,No
+5202008,University of Florida College of Medicine  Jacksonville,US,Edu,Med,Disposal  Computer,SSN,MED,Inside  Accidental,No,,1900,httpattritionorgdataloss200805uf01html,DL0990,,No,No,No,No
+5202008,New York University,US,Edu,Uni,Web,SSN,NAA,Outside,Yes,Duke University,273,httpattritionorgdataloss200805nyu01html,DL0991,,No,No,No,No
+5212008,Oklahoma Corporation Commission,US,Gov,State,Disposal  Computer,SSN,,Inside  Accidental,No,,5000,httpattritionorgdataloss200805osccom01html,DL0995,,No,No,No,No
+5222008,HealthSpring,US,Med,Pro,Stolen Laptop,SSN,NAA,Outside,No,,9000,httpattritionorgdataloss200805hspring01html,DL0992,,No,No,No,No
+5222008,Downingtown Area School District,US,Edu,HS,Hack,SSN,NAA,Outside,No,,56000,httpattritionorgdataloss200805dasd01html,DL0993,,No,No,No,Yes
+5282008,University of California San Francisco,US,Edu,Uni,Hack,MED,NAA,Outside,No,,3569,httpattritionorgdataloss200805ucsf01html,DL0996,,No,No,No,No
+5292008,State Street Corp,US,Biz,Fin,Stolen Comptuter,SSN,NAA,Outside,No,,45500,httpattritionorgdataloss200805sscorp01html,DL0997,,STT,No,No,No
+5312008,Pocono Mountain School District,US,Edu,HS,Web,SSN,NAA,Outside,No,,11000,httpattritionorgdataloss200805pmsd01html,DL0998,,No,No,No,No
+622008,Walter Reed Army Medical Center,US,Gov,Med,Web,SSN,NAA,Outside,No,,1000,httpattritionorgdataloss200806wramc01html,DL0999,,No,No,No,No
+622008,Connecticut Department of Labor,US,Gov,State,Lost Document,SSN,NAA,,No,,1200,httpattritionorgdataloss200806ctdol01html,DL1000,,No,No,No,No
+632008,Oregon State University,US,Edu,Uni,Hack,CCN,,Outside,No,,4700,httpattritionorgdataloss200806osu01html,DL1001,,No,No,No,No
+642008,Medisure,GB,Med,Pro,Stolen Tapes,MED,NAA,Outside,No,,,httpattritionorgdataloss200806medisure01html,DL1002,,No,No,No,No
+642008,ATT,US,Biz,Retail,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200806att02html,DL1003,,T,No,No,No
+642008,Canadian Canola Growers Association,CA,Gov,Fed,Stolen Laptop,SSN,NAA,Outside,No,,32000,httpattritionorgdataloss200806ccga01html,DL1004,,No,No,Yes,No
+662008,Stanford University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,72000,httpattritionorgdataloss200806stanford01html,DL1005,,No,No,No,No
+672008,East Tennessee State University,US,Edu,Uni,Stolen Computer,,,Outside,No,,6200,httpattritionorgdataloss200806etsu01html,DL1006,,No,No,No,No
+692008,University of South Carolina,US,Edu,Uni,Stolen Computer,SSN,,Outside,No,,7000,httpattritionorgdataloss200806usc01html,DL1007,,No,No,No,No
+6102008,Cotton Traders,GB,Biz,Retail,Hack,CCN,NAA,Outside,No,,38000,httpattritionorgdataloss200806usc01html ,DL1008,,No,No,No,No
+6102008,1st Source Bank,US,Biz,Fin,Hack,CCN,,Outside,No,,,httpattritionorgdataloss200806fsb01html,DL1009,,No,No,No,No
+6102008,University of Utah Hospitals and Clinics,US,Med,Hos,Stolen Tape,SSN,NAA,Outside,Yes,Perpetual Storage Inc,2200000,httpattritionorgdataloss200806uuhc01html,DL1010,,No,Yes,Yes,Yes
+6102008,University of Florida,US,Edu,Uni,Web,SSN,NAA,Outside,No,,11300,httpattritionorgdataloss200806uflorida01html,DL1011,,No,No,No,No
+6112008,Dickson County TN Board of Education,US,Edu,County,Stolen Laptop,SSN,NAA,Outside,No,,850,httpattritionorgdataloss200806dcboe01html,DL1012,,No,No,No,No
+6122008,Columbia University,US,Edu,Uni,Web,SSN,,Outside,No,,5000,httpattritionorgdataloss200806columbia01html,DL1013,,No,No,No,No
+6132008,Texas Insurance Claims Services,US,Biz,Ins,Disposal  Documents,SSN,NAA,Inside,No,,,httpattritionorgdataloss200806tics01html,DL1014,,No,No,No,No
+6182008,Castlecroft Medical Practice,GB,Med,Pro,Stolen Laptop,MED,NAA,Outside,No,,11000,httpattritionorgdataloss200806cmp01html,DL1015,,No,No,No,No
+6192008,Petroleum Wholesale,US,Biz,Retail,Disposal  Document,SSN,CCN,Inside,No,,,httpattritionorgdataloss200806petro01html,DL1016,,No,No,Yes,No
+6202008,Virgin Media,GB,Biz,Retail,Lost Media,ACC,NAA,Inside   Accidential,No,,3000,httpattritionorgdataloss200806virgin02html,DL1017,,No,No,No,No
+6232008,CNET Networks  Google,US,Biz,Tech,Stolen Computer,SSN,NAA,Outside,Yes,Colt Express Outsourcing Services,,httpattritionorgdataloss200806cnet01html,DL1018,,No,No,No,No
+6242008,California Department of Consumer Affairs,US,Gov,State,Email,SSN,NAA,Outside,No,,5000,httpattritionorgdataloss200806cdca01html,DL1020,,No,No,No,Yes
+6242008,Southeast Missouri State University,US,Edu,Uni,Fraud  SE,SSN,NAA,Inside  Malicious,No,,800,httpattritionorgdataloss200806semo01html,DL1019,,No,No,No,Yes
+6262008,Texas Department of Public Safety,US,Gov,State,Stolen Document,SSN,NAA,Outside,Yes,L1 Identity Solutions,826,httpattritionorgdataloss200806tdps01html,DL1021,,No,No,No,No
+6272008,Montgomery Ward,US,Biz,Retail,Hack,CCN,NAA,Outside,Yes,Direct Marketing Services,51000,httpattritionorgdataloss200806wards01html,DL1022,,No,No,No,No
+722008,Baptist Health,US,Med,Pro,Fraud  SE,SSN,NAA,Outside,No,,1800,httpattritionorgdataloss200807baptist01html,DL1023,,No,No,No,Yes
+722008,University of Nebraska at Kearney,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,2035,httpattritionorgdataloss200807unk01html,DL1024,,No,No,No,No
+742008,Associated Newspapers,GB,Biz,Media,Stolen Laptop,ACC,NAA,Outside,No,,,httpattritionorgdataloss200807an01html,DL1025,,No,No,No,No
+742008,Clark County Nevada District Court,US,Gov,County,Email,SSN,NAA,Outside,No,,380,httpattritionorgdataloss200807ccdc01html,DL1026,,No,No,No,No
+772008,Florida Agency for Health Care Administration,US,Gov,State,Web,SSN,NAA,Outside,No,,55000,httpattritionorgdataloss200807flhca01html,DL1027,,No,No,No,No
+782008,Yan Chai Hospital,HK,Med,Hos,Lost Media,SSN,NAA,Outside,No,,3000,httpattritionorgdataloss200807yanchai01html,DL1028,,No,No,No,No
+782008,LPL Financial,US,Biz,Fin,Hack,SSN,NAA,Outside,No,,10219,httpattritionorgdataloss200807lpl01html,DL1029,,No,No,No,No
+792008,Wagner Resource Group,US,Biz,Fin,Web,SSN,Outside,No,No, ,2000,httpattritionorgdataloss200807wagner01html,DL1030, ,No,No,No,No
+7102008,Williamson County Tennessee Schools,US,Edu,County,Web,SSN,NAA,Outside,No,,5100,httpattritionorgdataloss200807wcs01html,DL1031,,No,No,No,No
+7112008,Fort Lewis,US,Gov,Fed,Stolen Laptop,,,Outside,No,,900,httpattritionorgdataloss200807lewis01html,DL1032,,No,No,No,No
+7142008,Washington Metropolitan Area Transit Authority,US,Gov,City,Web,SSN,,Inside  Accidental,No,,4700,httpattritionorgdataloss200807wmata01html,DL1033,,No,No,No,No
+7152008,Indiana State University,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,2500,httpattritionorgdataloss200807isu01html,DL1041,,No,Yes,No,No
+7152008,Weber Law Firm,US,Biz,,Disposal  Documents,SSN,FIN,Outside,No,,,httpattritionorgdataloss200807weber01html,DL1034,,No,No,No,No
+7152008,Missouri National Guard,US,Gov,State,Stolen Computer,SSN,NAA,Outside,No,,2000,httpattritionorgdataloss200807mong01html,DL1035,,No,No,No,No
+7152008,University of Texas at Austin,US,Edu,Uni,Web,SSN,,Outside,No,,2500,httpattritionorgdataloss200807uta01html,DL1036,,No,No,No,No
+7172008,BristolMyers Squibb,US,Biz,Med,Stolen Tape,SSN,NAA,Outside,No,,,httpattritionorgdataloss200807bmy01html,DL1037,,BMY,No,No,No
+7172008,University of Maryland,US,Edu,Uni,Snail Mail,SSN,NAA,Outside,No,,23000,httpattritionorgdataloss200807umd01html,DL1038,,No,No,No,No
+7182008,Falkirk and District Royal Infirmary,GB,Hos,Med,Stolen Laptop,NAA,MED,Outside,No,,89,httpattritionorgdataloss200807fdrinf01html,DL1039,,No,No,No,No
+7192008,Minneapolis Veterans Home,US,Med,Pro,Stolen Computer,SSN,MED,Outside,No,,336,httpattritionorgdataloss200807mvh01html,DL1040,,No,No,No,No
+7242008,Village of Tinley Park Illinois,US,Gov,City,Lost Tape,SSN,,Outside,No,,20400,httpattritionorgdataloss200807tinley01html,DL1042,,No,No,No,No
+7242008,St Marys Regional Medical Center,US,Med,Hos,Hack,SSN,NAA,,No,,128000,httpattritionorgdataloss200807smrmc01html,DL1043,,No,No,No,No
+7242008,Hillsborough Community College,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,2000,httpattritionorgdataloss200807hcc01html,DL1044,,No,No,No,No
+7242008,University of Houston,US,Edu,Uni,Web,SSN,NAA,Outside,M,,259,httpattritionorgdataloss200807uhouston01html,DL1045,,No,No,No,No
+7252008,Ohio University,US,Edu,Uni,Web,SSN,NAA,Outside,No,,492,httpattritionorgdataloss200807ohiou01html,DL1046,,No,No,No,No
+7262008,Connecticut College,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,2800,httpattritionorgdataloss200807cc01html,DL1047,,No,No,No,No
+7292008,Blue Cross Blue Shield of Georgia,US,Med,Ins,Snail Mail,MED,NAA,Outside,No,,202000,httpattritionorgdataloss200807bcbsga01html,DL1048,,No,No,No,No
+7292008,AnheuserBusch,US,Biz,Ind,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200807busch01html,DL1049,,No,No,No,No
+7302008,City of Yuma Arizona,US,Gov,City,Email,SSN,,Outside,No,,300,httpattritionorgdataloss200807yuma01html,DL1050,,No,No,No,No
+7312008,University of Texas at Dallas,US,Edu,Uni,Hack,SSN,NAA,Outside,No,,9100,httpattritionorgdataloss200807utdallas01html,DL1051,,No,No,No,No
+812008,Delphi Automotive  Ohio Department of Job and Family Services,US,Biz,Retail,Lost Media,SSN,NAA,Outside,No,,2600,httpattritionorgdataloss200808delphi01html,DL1054,,No,No,No,No
+812008,Stepping Hill Hospital,GB,Med,Hos,Stolen Laptop,MED,,Outside,No,,1581,httpattritionorgdataloss200808shh01html,DL1052,,No,No,No,No
+822008,Countrywide Financial Corp,US,Biz,Fin,Hack,SSN,NAA,Inside  Malicious,Yes,Full Spectrum Lending,2000000,httpattritionorgdataloss200808cwide01html,DL1055,,No,No,No,Yes
+842008,Arapahoe Community College,US,Edu,Uni,Stolen Drive,SSN,NAA,Outside,No,,15000,httpattritionorgdataloss200808acc01html,DL1053,,No,No,No,No
+872008,Harris County Hospital District,US,Med,Hos,Lost Drive,MED,FIN,Outside,No,,1200,httpattritionorgdataloss200808hchd01html,DL1056,,No,No,No,No
+8112008,Ireland Department of Social and Family Affairs,IE,Gov,Fed,Stolen Laptop,ACC,,Outside,No,,380000,httpattritionorgdataloss200808idsfa01html,DL1057,,No,No,No,No
+8132007,Charter Communications,US,Biz,Tech,Stolen Laptop,SSN,NAA,Outside,No,,9000,httpattritionorgdataloss200808charter01html,DL1058,,No,No,No,No
+8142008,Wuesthoff Medical Center,US,Med,Pro,Web,SSN,NAA,Outside,No,,500,httpattritionorgdataloss200808wmc01html,DL1059,,No,No,No,No
+8182008,Dominion Enterprises  InterActive Financial Marketing Group,US,Biz,Fin,Hack,SSN,NAA,Outside,No,,92095,httpattritionorgdataloss200808ifmg01html,DL1060,,No,No,No,No
+8182008,Department for Work and Pensions,UK,Gov,Fed,,SSN,NAA,Inside  Accidential,No,,9000,httpattritionorgdataloss200808ukdwp01html,DL1071,,No,No,No,No
+8192008,Kingston Tax Service,US,Biz,Fin,Stolen Laptop,SSN,NAA,Outside,No,,,httpattritionorgdataloss200808kts01html,DL1061,,No,No,No,No
+8202008,Barclays Bank PLC,UK,Biz,Fin,Snail Mail,CCN,NAA,Inside  Accidential,No,,17000,httpattritionorgdataloss200808barclay01html,DL1070,,No,No,No,No
+8202008,The Princeton Review,US,Biz,Tech,Web,SSN,NAA,Inside  Accidential,No,,108000,httpattritionorgdataloss200808prinrv01html,DL1069,,No,No,No,No
+8212008,PA Consulting  The Home Office,UK,Biz,Tech,Stolen Media,NAA,DOB,Outside,Yes,PA Consulting,94000,httpattritionorgdataloss200808paconsult01html,DL1068,,No,No,No,No
+8222008,Louisiana Real Estate Commission,US,Gov,State,Web,SSN,NAA,Inside  Accidential,No,,13000,httpattritionorgdataloss200808lrecom01html,DL1073,,No,No,No,No
+8222008,Korean Ministry of Education,HK,Gov,Fed,Web,SSN,NAA,Inside  Accidential,No,,7617,httpattritionorgdataloss200808kmest01html,DL1067,,No,No,No,No
+8232008,Best Western,US,Biz,Hotel,Hack,CCN,NAA,Outside,No,,0,httpattritionorgdataloss200808bwestern01html,DL1062,,No,No,No,No
+8262008,Royal Bank of Scotland  NatWest  American Express,UK,Biz,Fin,Disposal  Drive,ACC,NAA,Outside,Yes,Graphic Data,1000000,httpattritionorgdataloss200808grdata01html,DL1063,,No,Yes,No,No
+8262008,Pennsylvania Public Welfare Department,US,Gov,State,Email,SSN,NAA,Inside  Accidential,No,,2845,httpattritionorgdataloss200808ppwd01html,DL1064,,No,No,No,No
+8262008,Prince William Co Public Schools,US,Edu,HS,Web,SSN,NAA,Inside  Accidential,No,,2600,httpattritionorgdataloss200808pwcps01html,DL1066,,No,No,No,No
+8272008,Kansas State University,US,Edu,Uni,Stolen Documents,SSN,NAA,Outside,No,,86,httpattritionorgdataloss200808ksu01html,DL1065,,No,No,No,No
+8282008,Reynoldsburg Ohio City School District,US,Edu,City,Stolen Laptop,SSN,NAA,Outside,No,,4259,httpattritionorgdataloss200808reyncsd01html,DL1072,,No,No,No,No
+922008,Clarkson University,US,Edu,Uni,,SSN,NAA,Inside  Accidential,No,,245,httpattritionorgdataloss200809clarku01html,DL1074,,No,No,No,No
+952008,East Burke Morganton NC High School,US,Edu,HS,Web,SSN,NAA,Inside  Accidential,No,,163,httpattritionorgdataloss200809eburkehs01html,DL1075,,No,No,No,No
+962008,National Offender Management Service,US,Gov,Fed,Lost Drive,SSN,NAA,Inside  Accidential,No,,5000,httpattritionorgdataloss200809noms01html,DL1076,,No,No,No,No
+962008,GS Caltex,KR,Biz,Pro,Lost Media,SSN,NAA,Inside  Accidential,No,,11000000,httpattritionorgdataloss200809caltex01html,DL1077,,No,Yes,No,Yes
+992008,University of Pittsburgh,US,Edu,Uni,Stolen Laptop,SSN,NAA,Outside,No,,0,httpattritionorgdataloss200809upitts01html,DL1078,,No,No,No,No

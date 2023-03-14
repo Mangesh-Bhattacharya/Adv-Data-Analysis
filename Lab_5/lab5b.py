@@ -1,13 +1,3 @@
-##############################################################################
-# Name: Mangesh Bhattacharya
-# Std. No.: 039-251-145
-# Course: Adv. dataset Analysis
-# Code: SRT 521
-# Inst.: Dr. Asma Paracha
-# Date: 2022-10-15
-# Title: Lab 5B - Feature Selection
-##############################################################################
-
 import pandas
 import numpy
 from sklearn.model_selection import StratifiedKFold, cross_val_score

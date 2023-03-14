@@ -2,18 +2,18 @@ import csv
 from csv import reader, writer
 
 columns=[] #list of columns to be encoded
-with open('/home/mangesh/Downloads/features-list.txt') as f_obj: #file containing list of columns to be encoded
+with open('/home/user/Downloads/features-list.txt') as f_obj: #file containing list of columns to be encoded
     while line := f_obj.readline(): #read line by line from file
         columns.append(line.strip()) #append to list of columns to be encoded
 
 columns.insert(0, 'MD5') #insert md5sum as first column to be encoded
 columns.append('label') #append label as last column to be encoded 
 
-with open('/home/mangesh/Downloads/dataset.csv', 'a', newline='') as f_obj: #open dataset.csv in append mode with newline as delimiter
+with open('/home/user/Downloads/dataset.csv', 'a', newline='') as f_obj: #open dataset.csv in append mode with newline as delimiter
     writer_object = writer(f_obj) #create writer object for dataset.csv
     writer_object.writerow(columns) #write list of columns to be encoded as first row in dataset.csv
 
-with open('/home/mangesh/Downloads/features.csv') as f_obj: #open features.csv in read mode 
+with open('/home/user/Downloads/features.csv') as f_obj: #open features.csv in read mode 
     reader_object = csv.reader(f_obj) #create reader object for features.csv 
     for row in reader_object: #read row by row from features.csv 
         data = [] #list to store encoded data 
@@ -36,6 +36,6 @@ with open('/home/mangesh/Downloads/features.csv') as f_obj: #open features.csv i
         data.append(binary) #append binary to list of encoded data 
     data.append(label) #append label to list of encoded data
 
-    with open('/home/mangesh/Downloads/dataset_new.csv', 'a', newline='') as f_obj: #open dataset.csv in append mode with newline as delimiter 
+    with open('/home/user/Downloads/dataset_new.csv', 'a', newline='') as f_obj: #open dataset.csv in append mode with newline as delimiter 
         writer_object = writer(f_obj) #create writer object for dataset.csv 
         writer_object.writerow(data) #write list of encoded data to dataset.csv

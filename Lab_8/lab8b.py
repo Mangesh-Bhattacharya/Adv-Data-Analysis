@@ -1,13 +1,3 @@
-###########################################################################
-# Name: Mangesh Bhattacharya
-# Std No.: 039-251-145
-# Course: SRT 521 - adv. Data analysis
-# Inst.: Dr. asma Paracha
-# Date: 2022-11-13
-# Description: Lab 8b
-# Task 2: Feature Selection Using Correlation Matrix
-###########################################################################
-
 import matplotlib.pyplot as plt
 # Importing the libraries
 import pandas as pd

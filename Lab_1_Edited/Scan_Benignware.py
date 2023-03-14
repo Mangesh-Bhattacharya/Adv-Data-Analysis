@@ -3,14 +3,14 @@
 import os
 import subprocess as sp
 
-files = os.listdir('/home/mangesh/Downloads/malware_data_science/ch8/data/benignware/')
+files = os.listdir('/home/user/Downloads/malware_data_science/ch8/data/benignware/')
 
 for file in files:
-    file = "/home/mangesh/Downloads/malware_data_science/ch8/data/benignware/" + file
+    file = "/home/user/Downloads/malware_data_science/ch8/data/benignware/" + file
     stream = os.popen("md5sum " + file)
     hvalue = stream.read()
     hvalue = hvalue.split()[0]
-    proc = sp.Popen(["/home/mangesh/Downloads/capa", "-v", file], stdout=sp.PIPE, universal_newlines=True)
+    proc = sp.Popen(["/home/user/Downloads/capa", "-v", file], stdout=sp.PIPE, universal_newlines=True)
     output, error = proc.communicate()
     layer = output.split("\n\n")
     layer.pop(0)
@@ -31,11 +31,9 @@ for file in files:
                 feat.append(element[0])
     print("Examined files: ", file)
     print(feat)
-    with open("/home/mangesh/Downloads/features.csv", "a") as f:
+    with open("/home/user/Downloads/features.csv", "a") as f:
         f.write(str(feat))
         f.write("\n")
     f.close()
 
 # Path: Scan_Malware.py
-# Code guides - Aditi Singh and Dr. Asma Paracha
-# Code editor - Mangesh Bhattacharya

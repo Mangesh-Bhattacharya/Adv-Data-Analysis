@@ -1,11 +1,3 @@
-###########################################################################
-# Name: Mangesh Bhattacharya
-# Std No.: 039-251-145
-# Course: SRT 521 - Adv. Data Analysis
-# Inst.: Dr. Asma Paracha
-# Date: 2022-09-22
-###########################################################################
-
 #!/usr/bin/python
 
 import csv

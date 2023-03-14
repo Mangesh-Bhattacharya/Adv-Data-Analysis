@@ -1,13 +1,3 @@
-###########################################################################
-# Name: Mangesh Bhattacharya
-# Std No.: 039-251-145
-# Course: SRT 521 - adv. Data analysis
-# Inst.: Dr. asma Paracha
-# Date: 2022-11-13
-# Description: Lab 8b
-# Task 1: K-means Clustering
-###########################################################################
-
 # K-means clustering
 import pandas as pd
 import numpy as np

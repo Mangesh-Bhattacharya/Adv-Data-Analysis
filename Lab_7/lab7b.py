@@ -1,12 +1,3 @@
-###########################################################################
-# Name: Mangesh Bhattacharya
-# Std No.: 039-251-145
-# Course: SRT 521 - adv. Data analysis
-# Inst.: Dr. asma Paracha
-# Date: 2022-11-04
-# Description: Lab 7a
-# Task 2: Test K-means on a given dataset
-###########################################################################
 # Import the required modules
 from pandas import read_csv
 from pandas import set_option

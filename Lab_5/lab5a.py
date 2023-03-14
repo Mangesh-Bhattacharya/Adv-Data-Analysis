@@ -1,13 +1,3 @@
-##############################################################################
-# Name: Mangesh Bhattacharya
-# Std. No.: 039-251-145
-# Course: Adv. dataset Analysis
-# Code: SRT 521
-# Inst.: Dr. Asma Paracha
-# Guide: Dr. Asma Paracha and Aditi Singh
-# Date: 2022-10-14
-##############################################################################
-
 import numpy as np
 from pandas import read_csv
 from sklearn.model_selection import StratifiedKFold, cross_val_score

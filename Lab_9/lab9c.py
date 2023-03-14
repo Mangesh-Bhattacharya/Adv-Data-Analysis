@@ -1,14 +1,3 @@
-###########################################################################
-# Name: Mangesh Bhattacharya
-# Std No.: 039-251-145
-# Course: SRT 521 - Adv. Data analysis
-# Inst.: Dr. asma Paracha
-# Date: 2022-11-25
-# Description: Lab 9a
-# Task 3: Multiple Linear Regression
-# Guides: Aditi Singh and Asma Paracha
-###########################################################################
-
 # import libraries
 import numpy as np
 import pandas as pd
